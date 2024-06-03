@@ -11,26 +11,37 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Transportation Engineering (Intelligent Vehicles track) in Tongji University, from 2022.9-2025.3
+* B.S. in Vehicle Engineering in Jilin University, from 2017.9-2021.6
 
-Work experience
+Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2022.9-Present: Key Technologies for Self-Evolving Learning-Based Autonomous Driving Systems | Institute of Intelligent Vehicles, Tongji University | Directed by Prof.Yanjun Huang
+  * Supported by National Key R&D Program of China under Grant 2022YFB2502900
+  * Proposed a risk-guided policy optimization method for safety-critical scenario generation, which generates more diverse and plausible scenarios more efficiently.
+  * Proposed an adversarial traffic participant behavior model combining traffic prior and reinforcement learning, which solves the limitation that adversarial scenario generation can only be applied to specific working conditions.
+  * Proposed a safety-critical scenario generation method combining dynamic and static scenario parameters, which greatly improves the efficiency of scenario generation.
+  * Working on quantifying the diversity of scenarios and improving the diversity in safety-critical scenario generation for a comprehensive evaluation of autonomous vehicles.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2023.12-Present: Adaptive Evolution and Evaluation of Safe and Trustworthy Intelligent Systems | Institute of Intelligent Vehicles, Tongji University | Directed by Prof.Yanjun Huang
+  * Supported by National Natural Science Foundation of China under Grant U23B2061
+  * Proposed an approach for the safety analysis of autonomous vehicles from complex safety-critical scenario data, which can intuitively reveal the distribution and characteristics of safety-critical scenarios for any given algorithm.
+  * Proposed a safety boundary online identification method that learns from the test data under a long-tailed environment.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2023.2-Present: Self-Evolutionary Methods and Applications for Intelligent Systems in Complex Environments | Institute of Intelligent Vehicles, Tongji University  | Directed by Prof.Yanjun Huang
+  * Supported by Fundamental Research Funds for the Central Universities，Ministry of Education of China
+  * Working on applying continual reinforcement learning methods to improve the self-evolution of autonomous driving algorithms under safety-critical scenarios.
+  * Working on combining naturalistic driving data with adversarial scenario generation to improve the naturalness and plausibility of the generated scenario.
+
+* 2020.9-2021.6: Design of new generation chassis vehicle traveling system and its kinematic performance analysis｜State Key Laboratory of Automotive Simulation and Control, Jilin University｜Directed by Prof.Hsin Guan
+  * Design of a new traveling system with four-wheel independent drive and four-wheel independent steering
+  * Modeling of the vehicle dynamics and design of four-wheel torque and corner distribution strategy
+  * Vehicle dynamics simulation and vehicle motion performance analysis based on Matlab/Simulink and Carsim
+
+* 2018.9-2020.6: Design of Active Lane-Changing System for Intelligent Driving Vehicles and Its Hardware-in-the-Loop Testing｜State Key Laboratory of Automotive Simulation and Control, Jilin University | Directed by Prof.Bing Zhu
+  * Algorithm design for lane change path planning and path tracking
+  * Hardware-in-the-Loop Test Design for Lane Line Recognition Algorithm
+
   
 Skills
 ======
