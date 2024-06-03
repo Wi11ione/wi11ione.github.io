@@ -1,13 +1,10 @@
 ---
 title: "A Survey on Self-evolving Autonomous Driving: a Perspective on Data Closed-Loop Technology"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+date: 2023.9.27
+venue: 'IEEE Transactions on Intelligent Vehicles'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/10265228'
+citation: 'X. Li, Z. Wang, Y. Huang and H. Chen, "A Survey on Self-Evolving Autonomous Driving: A Perspective on Data Closed-Loop Technology," in IEEE Transactions on Intelligent Vehicles, vol. 8, no. 11, pp. 4613-4631, Nov. 2023, doi: 10.1109/TIV.2023.3319689. '
 ---
 
-Due to the rarity of safety-critical scenarios, the safety of autonomous driving decision-making algorithms cannot be fully guaranteed in open environments, which limits their further applications. Therefore, it is crucial to efficiently generate such scenarios for the safety validation of autonomous driving algorithms. This paper proposes an efficient safety-critical scenario generation method combining dynamic and static parameters that constitute a scenario by alternating the optimization of them. To generate dynamic scenario parameters efficiently, a traffic participants model integrating reinforcement learning and prior traffic knowledge is proposed, which is then optimized under the guidance of a prior risk estimation model. For the generation of static scenario parameters, a posterior risk estimation model is proposed, which learns from the explored parameter trajectories during the dynamic scenario generation, to estimate the risk of unknown states. Finally, three different efficiency metrics are proposed and experiments are conducted on rule-based, optimization-based, and learning-based autonomous driving algorithms to verify the high efficiency and generality of the proposed method. Compared with the baseline model that only considers dynamic parameters, the proposed method averagely improves the generation speed by 151.8% and the success rate by 78.7% with only a few alternate optimizations. In addition, the method is generalizable for different types of autonomous driving algorithms. The safety-critical scenario generation paradigm proposed in this paper can greatly accelerate the safety evaluation for any given algorithm, which is of great significance for the development of autonomous driving.
+Self evolution refers to the ability of a system to evolve autonomously towards a better performance, which is a potential trend for autonomous driving systems based on self-learning approaches. However, current algorithms for autonomous driving still lack of self-evolving mechanisms and the capability of maintaining continuously performance-enhancing. Some recent studies turn to the data closed-loop (DCL) architecture to realize self evolution. Therefore, this study analyzes some relevant technologies and then proposes a novel design mechanism to guarantee the self-evolving performance for autonomous driving systems. Although existing data closed-loop platforms are not yet mature enough to fully achieve this purpose, it has the potential to incorporate cutting-edge technologies that will enhance their functionality. Moreover, we give some suggestions for its future directions for self-evolving autonomous driving, including some more cutting-edge technologies that can be incorporated into the DCL architecture.
