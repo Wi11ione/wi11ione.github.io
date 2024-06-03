@@ -21,7 +21,7 @@ repository               : "Wi11ione/zhaoyiwang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "my_photo.png"
+  avatar           : "my_photo.jpg"
   name             : "Zhaoyi Wang"
   pronouns         : # example: "she/her"  
   bio              : "Looking for a PhD position for Fall 2025 as well as potential collaborations"
