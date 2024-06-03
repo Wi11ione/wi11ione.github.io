@@ -16,41 +16,52 @@ Education
 
 Research experience
 ======
-* 2022.9-Present: Key Technologies for Self-Evolving Learning-Based Autonomous Driving Systems | Institute of Intelligent Vehicles, Tongji University | Directed by Prof.Yanjun Huang
+* 2022.9-Present: Key Technologies for Self-Evolving Learning-Based Autonomous Driving Systems, Tongji University, Directed by Prof.Yanjun Huang
   * Supported by National Key R&D Program of China under Grant 2022YFB2502900
   * Proposed a risk-guided policy optimization method for safety-critical scenario generation, which generates more diverse and plausible scenarios more efficiently.
   * Proposed an adversarial traffic participant behavior model combining traffic prior and reinforcement learning, which solves the limitation that adversarial scenario generation can only be applied to specific working conditions.
   * Proposed a safety-critical scenario generation method combining dynamic and static scenario parameters, which greatly improves the efficiency of scenario generation.
   * Working on quantifying the diversity of scenarios and improving the diversity in safety-critical scenario generation for a comprehensive evaluation of autonomous vehicles.
 
-* 2023.12-Present: Adaptive Evolution and Evaluation of Safe and Trustworthy Intelligent Systems | Institute of Intelligent Vehicles, Tongji University | Directed by Prof.Yanjun Huang
+* 2023.12-Present: Adaptive Evolution and Evaluation of Safe and Trustworthy Intelligent Systems, Tongji University, Directed by Prof.Yanjun Huang
   * Supported by National Natural Science Foundation of China under Grant U23B2061
   * Proposed an approach for the safety analysis of autonomous vehicles from complex safety-critical scenario data, which can intuitively reveal the distribution and characteristics of safety-critical scenarios for any given algorithm.
   * Proposed a safety boundary online identification method that learns from the test data under a long-tailed environment.
 
-* 2023.2-Present: Self-Evolutionary Methods and Applications for Intelligent Systems in Complex Environments | Institute of Intelligent Vehicles, Tongji University  | Directed by Prof.Yanjun Huang
-  * Supported by Fundamental Research Funds for the Central Universities，Ministry of Education of China
+* 2023.2-Present: Self-Evolutionary Methods and Applications for Intelligent Systems in Complex Environments, Tongji University, Directed by Prof.Yanjun Huang
+  * Supported by Fundamental Research Funds for the Central Universities， Ministry of Education of China
   * Working on applying continual reinforcement learning methods to improve the self-evolution of autonomous driving algorithms under safety-critical scenarios.
   * Working on combining naturalistic driving data with adversarial scenario generation to improve the naturalness and plausibility of the generated scenario.
 
-* 2020.9-2021.6: Design of new generation chassis vehicle traveling system and its kinematic performance analysis｜State Key Laboratory of Automotive Simulation and Control, Jilin University｜Directed by Prof.Hsin Guan
+* 2020.9-2021.6: Design of new generation chassis vehicle traveling system and its kinematic performance analysis, Jilin University, Directed by Prof.Hsin Guan
   * Design of a new traveling system with four-wheel independent drive and four-wheel independent steering
   * Modeling of the vehicle dynamics and design of four-wheel torque and corner distribution strategy
   * Vehicle dynamics simulation and vehicle motion performance analysis based on Matlab/Simulink and Carsim
 
-* 2018.9-2020.6: Design of Active Lane-Changing System for Intelligent Driving Vehicles and Its Hardware-in-the-Loop Testing｜State Key Laboratory of Automotive Simulation and Control, Jilin University | Directed by Prof.Bing Zhu
+* 2018.9-2020.6: Design of Active Lane-Changing System for Intelligent Driving Vehicles and Its Hardware-in-the-Loop Testing, Jilin University, Directed by Prof.Bing Zhu
   * Algorithm design for lane change path planning and path tracking
   * Hardware-in-the-Loop Test Design for Lane Line Recognition Algorithm
 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+*Languages Skills:
+  *TOEFL iBT: 93 (Reading 23, Listening 23, Speaking 23, Writing 24)
+  *College English Test-6: 562 / 710 (Top 20%)
+  *College English Test-4: 581 / 710 (Top 20%)
+  
+*Software Skills:
+  *Carla
+  *Carsim
+  *Prescan
+  *Pytorch
+  *Tensorflow
+  *Gym
+  
+*Programming:
+  *Python
+  *Matlab
+  *Simulink;
 
 Publications
 ======
