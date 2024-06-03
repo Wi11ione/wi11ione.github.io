@@ -12,7 +12,7 @@ title                    : "Zhaoyi Wang / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Zhaoyi Wang"
 description              : &description "a second-year master's student from Tongji University"
-URL                      : "https://wi11ione.github.io/zhaoyiwang.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+URL                      : "https://wi11ione.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "Wi11ione/zhaoyiwang.github.io"
 
@@ -27,7 +27,7 @@ author:
   bio              : "Looking for a PhD position for Fall 2025 as well as potential collaborations"
   location         : "Shanghai"
   employer         : "Tongji University"
-  uri              : "https://wi11ione.github.io/zhaoyiwang.github.io"
+  uri              : "https://wi11ione.github.io"
   email            : "2233591@tongji.edu.cn" 
 
   # Academic websites
