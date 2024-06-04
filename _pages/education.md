@@ -7,7 +7,7 @@ redirect_from:
   - "/nmp.html"
 ---
 
-* Tongji University, Tongji, China, 2022.9-2025.3
+* **Tongji University**, Shanghai, China, 2022.9-2025.3
   * M.S.Transportation Engineering (Intelligent Vehicles track)
   * GPA: 4.56/5.00（88.9/100）
   * Research Interests
@@ -20,8 +20,8 @@ redirect_from:
     * Transport Data Analysis (5.0/5.0)
     * Principles of Artificial Intelligence (5.0/5.0)
 
-
-* Jilin University, Changchun, China, 2017.9-2021.6
+* **Jilin University**, Changchun, China, 2017.9-2021.6
+  * B.Eng. Automotive Engineering
   * GPA: 3.71/4.00 （89.9/100｜JLU Outstanding Student）
   * Core Courses:
     * Mathematical Model (4.0/4.0)
