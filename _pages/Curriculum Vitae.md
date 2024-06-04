@@ -14,7 +14,7 @@ Education
 * M.S. in Transportation Engineering (Intelligent Vehicles track) in Tongji University, from 2022.9-2025.3
 * B.S. in Vehicle Engineering in Jilin University, from 2017.9-2021.6
 
-Research experience
+Research Experience
 ======
 * 2022.9-Present: Key Technologies for Self-Evolving Learning-Based Autonomous Driving Systems, Tongji University, Directed by Prof.Yanjun Huang
   * Supported by National Key R&D Program of China under Grant 2022YFB2502900
@@ -52,10 +52,8 @@ Skills
   
 * Software Skills:
   * Simulation Softwares: Carla, Carsim, Prescan
-  * Development Tool: Gym, Pytorch, Tensorflow
-
-* Programming:
-  * Python, Matlab, Simulink
+  * Development Tool: Gym, PyTorch, TensorFlow
+  * Programming: Python, Matlab, Simulink
 
 Publications
 ======
