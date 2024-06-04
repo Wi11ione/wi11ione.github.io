@@ -51,17 +51,11 @@ Skills
   * College English Test-4: 581 / 710 (Top 20%)
   
 * Software Skills:
-  * Carla
-  * Carsim
-  * Prescan
-  * Pytorch
-  * Tensorflow
-  * Gym
-  
+  * Simulation Softwares: Carla, Carsim, Prescan
+  * Development Tool: Gym, Pytorch, Tensorflow
+
 * Programming:
-  * Python
-  * Matlab
-  * Simulink;
+  * Python, Matlab, Simulink
 
 Publications
 ======
@@ -72,8 +66,8 @@ Publications
 Academic Service & Mentorship 
 ======
 * Reviewer
-  * Part D: Journal of Automobile Engineering.
+  *  Part D: Journal of Automobile Engineering.
 * Mentoring
   *  Haotian Chen (BS)  Adversarial Scenario Generation Method for Arbitrary Working Condition Sep.                          Dec 2023-Present
-  *  Jialei Nie (BS)  Online Identification of Safety Boundaries for Autonomous Driving Decision Algorithms                 Jan 2024-Present
+  *  Jialei Nie (BS)  Online Identification of Safety Boundaries for Autonomous Driving Decision Algorithms                  Jan 2024-Present
   *  Peilun Han (BS)  Diversity Enhanced Adversarial Scenario Generation Method Mar.2024-Present                             Jan 2024-Present                                                                                             
