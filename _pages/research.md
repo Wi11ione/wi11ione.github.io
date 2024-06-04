@@ -20,6 +20,8 @@ redirect_from:
 
 
 * Self-Evolutionary Methods and Applications for Intelligent Systems in Complex Environments, supported by Fundamental Research Funds for the Central Universities, Ministry of Education of China, directed by [Prof. Yanjun Huang](https://www.researchgate.net/profile/Yanjun-Huang-4)
+  * Working on applying continual reinforcement learning methods to improve the self-evolution of autonomous driving algorithms under safety-critical scenarios.
+  * Working on combining naturalistic driving data with adversarial scenario generation to improve the naturalness and plausibility of the generated scenario.
 
 ## State Key Laboratory of Automotive Simulation and Control, [Jilin University](https://www.jlu.edu.cn/#), 2019.3-2021.6
 * Design of New Generation Chassis Vehicle Traveling System and Analysis of Its Dynamic Performance, directed by Prof.Hsin Guan and Prof.Pingping Lu
