@@ -11,14 +11,14 @@ I'm a second-year master's student advised by [Prof. Yanjun Huang](https://www.r
 
 My research focuses on the safety of autonomous vehicles for decision-making in long-tail environments. Specifically, my work focuses on three main points: 
 * Safety-critical scenario generation
-  * Efficiency: How to efficiently generate safety-critical scenarios with lower time and arithmetic costs.
-  * Quality: How to improve the generalizability, diversity, plausibility, and reality of safety-critical scenarios.
+    * Efficiency: How to efficiently generate safety-critical scenarios with lower time and arithmetic costs.
+    * Quality: How to improve the generalizability, diversity, plausibility, and reality of safety-critical scenarios.
     
 * Safety evaluation of autonomous vehicles
-  * Safety analysis & evaluation of autonomous vehicles toward high-dimensional and complex scenario data.
+    * Safety analysis & evaluation of autonomous vehicles toward high-dimensional and complex scenario data.
     
 * Self-evolve mechanism for decision-making algorithms
-  * Mechanism for vehicles to continuously explore and learn safety-critical scenarios to achieve self-evolution.
+    * Mechanism for vehicles to continuously explore and learn safety-critical scenarios to achieve self-evolution.
 
 I am looking for a PhD position for Fall 2025 as well as potential collaborations, so feel free to contact me if you are interested in my research.
 
