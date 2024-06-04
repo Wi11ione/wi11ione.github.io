@@ -15,6 +15,9 @@ redirect_from:
   * Working on quantifying the diversity of scenarios and improving the diversity in safety-critical scenario generation for a comprehensive evaluation of autonomous vehicles.
 
 * Adaptive Evolution and Evaluation of Secure and Confident Intelligent Systems, supported by the National Natural Science Foundation of China under Grant U23B2061, directed by [Prof. Yanjun Huang](https://www.researchgate.net/profile/Yanjun-Huang-4)
+  * Proposed an approach for the safety analysis of autonomous vehicles from complex safety-critical scenario data, which can intuitively reveal the distribution and characteristics of safety-critical scenarios for any given algorithm.
+  * Proposed a safety boundary online identification method that learns from the test data under a long-tailed environment.
+
 
 * Self-Evolutionary Methods and Applications for Intelligent Systems in Complex Environments, supported by Fundamental Research Funds for the Central Universities, Ministry of Education of China, directed by [Prof. Yanjun Huang](https://www.researchgate.net/profile/Yanjun-Huang-4)
 
