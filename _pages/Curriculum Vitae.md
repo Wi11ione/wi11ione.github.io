@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Curriculum Vitae"
-permalink: /cv/
+permalink: /CV_zhaoyiwang.pdf/
 author_profile: true
 redirect_from:
   - /resume
@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* M.S. in Transportation Engineering (Intelligent Vehicles track) in Tongji University, from 2022.9-2025.3
-* B.S. in Vehicle Engineering in Jilin University, from 2017.9-2021.6
+* M.S. in Transportation Engineering (Intelligent Vehicles track) at Tongji University, from 2022.9-2025.3
+* B.S. in Vehicle Engineering at Jilin University, from 2017.9-2021.6
 
 Research Experience
 ======
