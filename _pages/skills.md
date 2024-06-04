@@ -1,16 +1,28 @@
 ---
-permalink: /non-menu-page/
-title: "Page not in menu"
+permalink: /skills/
+title: "Skills"
 author_profile: true
 redirect_from: 
   - "/nmp/"
   - "/nmp.html"
 ---
 
-This is a page not in the menu. You can use markdown in this page.
+* **Languages Skills**:
+  * TOEFL iBT: 93 (Reading 23, Listening 23, Speaking 23, Writing 24)
+  * College English Test-6: 562/710 (Top 20%)
+  * College English Test-4: 581/710 (Top 20%)
+    
+* **Software Skills**:
+  * Carla 
+  * Carsim
+  * Prescan
 
-Heading 1
-======
+* **Development Tools**:
+  * Pytorch
+  * Gym
+  * Tensorflow
 
-Heading 2
-======
+* **Programming**:
+  * Python
+  * Matlab
+  * Simulink
