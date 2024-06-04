@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Curriculum Vitae"
-permalink: /CV_zhaoyiwang/
+permalink:
 author_profile: true
 redirect_from:
   - /resume
