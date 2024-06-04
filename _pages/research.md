@@ -24,7 +24,7 @@ redirect_from:
   * Working on combining naturalistic driving data with adversarial scenario generation to improve the naturalness and plausibility of the generated scenario.
 
 ## State Key Laboratory of Automotive Simulation and Control, [Jilin University](https://www.jlu.edu.cn/#), 2019.3-2021.6
-* Design of New Generation Chassis Vehicle Traveling System and Analysis of Its Dynamic Performance, directed by Prof.Hsin Guan and Prof.Pingping Lu
+* Design of New Generation Chassis Vehicle Traveling System and Analysis of Its Dynamic Performance, directed by [Prof.Hsin Guan](http://auto.jlu.edu.cn/info/1306/1784.htm) and [Prof.Pingping Lu](http://auto.jlu.edu.cn/info/1318/3892.htm)
   * Designed a new traveling system with four-wheel independent drive and four-wheel independent steering.
   * Modeling of the vehicle dynamics and the distribution algorithm of steering angles and torques of four wheels
   * Vehicle dynamics simulation and its performance analysis based on Matlab/Simulink and Carsim
