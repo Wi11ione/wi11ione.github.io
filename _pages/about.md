@@ -13,7 +13,7 @@ My research focuses on the safety of autonomous driving decision-making algorith
 
 I am looking for a PhD position for Fall 2025 as well as potential collaborations, so feel free to contact me via my e-mail if you are interested in my research.
 
-Publications
+Recent Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
