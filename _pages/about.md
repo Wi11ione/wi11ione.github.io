@@ -22,17 +22,6 @@ My research focuses on the safety of autonomous vehicles for decision-making in 
 
 I am looking for a PhD position for Fall 2025 as well as potential collaborations, so feel free to contact me if you are interested in my research.
 
-Recent Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Research Experience
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
 
 
 
