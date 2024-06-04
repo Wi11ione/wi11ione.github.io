@@ -4,19 +4,22 @@ main:
     url: /publications/
 
   - title: "Research"
-    url: /talks/    
+    url: /research/    
 
   - title: "Education"
-    url: /teaching/    
+    url: /education/    
 
   - title: "CV"
     url: /cv/
     
   - title: "Skills"
-    url: /portfolio/
+    url: /skills/
         
   - title: "Awards"
-    url: /year-archive/
+    url: /awards/
 
   - title: "Services"
+    url: /services/
+
+  - title: "Guide"
     url: /markdown/
