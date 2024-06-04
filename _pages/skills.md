@@ -21,8 +21,8 @@ redirect_from:
   * Pytorch
   * Gym
   * Tensorflow
-
+    
 * **Programming**:
-  * Python
+  * Python 
   * Matlab
   * Simulink
