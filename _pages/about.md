@@ -9,11 +9,11 @@ redirect_from:
 
 I'm a second-year master's student advised by [Prof. Yanjun Huang](https://www.researchgate.net/profile/Yanjun-Huang-4) at [Tongji University](https://www.tongji.edu.cn/eng/), Shanghai, China. Before joining Tongji University, I received my Bachelor's degree from [Jilin University](https://www.jlu.edu.cn/#), Changchun, China.
 
-My research focuses on the safety of autonomous vehicles for decision-making in long-tail environments. Specifically, my work focuses on three main points: 
+My research focuses on the **safety of autonomous vehicles for decision-making in long-tail environments**. Specifically, my work focuses on three main points: 
 * **Safety-critical scenario generation**
     * Efficiency: How to efficiently generate safety-critical scenarios with lower time and arithmetic costs.
     * Quality: How to improve the generalizability, diversity, plausibility, and reality of safety-critical scenarios.
-    
+      
 * **Safety evaluation of autonomous vehicle**
     * Safety analysis & evaluation of autonomous vehicles toward high-dimensional and complex scenario data.
     
