@@ -29,6 +29,6 @@ redirect_from:
   * Modeling of the vehicle dynamics and the distribution algorithm of steering angles and torques of four wheels
   * Vehicle dynamics simulation and its performance analysis based on Matlab/Simulink and Carsim
  
-* Design of Active Lane-Changing System for Intelligent Vehicle and Its Hardware-in-the-Loop Testing, directed by Prof.Bing Zhu
+* Design of Active Lane-Changing System for Intelligent Vehicle and Its Hardware-in-the-Loop Testing, directed by [Prof.Bing Zhu](http://auto.jlu.edu.cn/info/1134/2305.htm)
   * Designed a lane change decision-making algorithm combining risk and efficiency and a lane-changing trajectory planning & control algorithm considering driving comfort and stability
   * Designed a lane detection hardware-in-the-loop test platform
