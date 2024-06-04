@@ -1,5 +1,4 @@
 ---
-permalink: /non-menu-page/
 title: "Research Experience"
 author_profile: true
 redirect_from: 
