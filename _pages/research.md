@@ -25,5 +25,10 @@ redirect_from:
 
 ## State Key Laboratory of Automotive Simulation and Control, [Jilin University](https://www.jlu.edu.cn/#), 2019.3-2021.6
 * Design of New Generation Chassis Vehicle Traveling System and Analysis of Its Dynamic Performance, directed by Prof.Hsin Guan and Prof.Pingping Lu
-
+  * Designed a new traveling system with four-wheel independent drive and four-wheel independent steering.
+  * Modeling of the vehicle dynamics and the distribution algorithm of steering angles and torques of four wheels
+  * Vehicle dynamics simulation and its performance analysis based on Matlab/Simulink and Carsim
+ 
 * Design of Active Lane-Changing System for Intelligent Vehicle and Its Hardware-in-the-Loop Testing, directed by Prof.Bing Zhu
+  * Designed a lane change decision-making algorithm combining risk and efficiency and a lane-changing trajectory planning & control algorithm considering driving comfort and stability
+  * Designed a lane detection hardware-in-the-loop test platform
