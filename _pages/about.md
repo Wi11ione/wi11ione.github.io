@@ -11,7 +11,7 @@ I'm a second-year master's student advised by [Prof. Yanjun Huang](https://www.r
 
 My research focuses on the safety of autonomous vehicles for decision-making in long-tail environments. To achieve this goal, my work includes safety-critical scenario generation, safety evaluation of autonomous vehicles, and self-evolution of decision-making algorithms in safety-critical scenarios.
 
-I am looking for a PhD position for Fall 2025 as well as potential collaborations, so feel free to contact me via [my e-mail](2233591@tongji.edu.cn) if you are interested in my research.
+I am looking for a PhD position for Fall 2025 as well as potential collaborations, so feel free to contact me if you are interested in my research.
 
 Recent Publications
 ======
