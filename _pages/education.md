@@ -7,20 +7,20 @@ redirect_from:
   - "/nmp.html"
 ---
 
-* **Tongji University**, Shanghai, China, 2022.9-2025.3
+* **[Tongji University](https://www.tongji.edu.cn/eng/)**, Shanghai, China, 2022.9-2025.3
   * M.S.Transportation Engineering (Intelligent Vehicles track)
   * GPA: 4.56/5.00（88.9/100）
   * Research Interests
     * Safety-critical scenario generation
     * Safety evaluation of autonomous vehicles
     * Self-evolve mechanism of decision-making algorithms
-  * Advisor: Prof. Yanjun Huang (NSFC for Excellent Young Scholars)
+  * Advisor: [Prof. Yanjun Huang](https://www.researchgate.net/profile/Yanjun-Huang-4) (NSFC for Excellent Young Scholars)
   * Core Courses:
     * Traffic Engineering (5.0/5.0)
     * Transport Data Analysis (5.0/5.0)
     * Principles of Artificial Intelligence (5.0/5.0)
 
-* **Jilin University**, Changchun, China, 2017.9-2021.6
+* **[Jilin University](https://www.jlu.edu.cn/#)**, Changchun, China, 2017.9-2021.6
   * B.Eng. Automotive Engineering
   * GPA: 3.71/4.00 （89.9/100｜JLU Outstanding Student）
   * Core Courses:
