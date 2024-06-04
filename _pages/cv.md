@@ -45,23 +45,23 @@ Research experience
   
 Skills
 ======
-*Languages Skills:
-  *TOEFL iBT: 93 (Reading 23, Listening 23, Speaking 23, Writing 24)
-  *College English Test-6: 562 / 710 (Top 20%)
-  *College English Test-4: 581 / 710 (Top 20%)
+* Languages Skills:
+  * TOEFL iBT: 93 (Reading 23, Listening 23, Speaking 23, Writing 24)
+  * College English Test-6: 562 / 710 (Top 20%)
+  * College English Test-4: 581 / 710 (Top 20%)
   
-*Software Skills:
-  *Carla
-  *Carsim
-  *Prescan
-  *Pytorch
-  *Tensorflow
-  *Gym
+* Software Skills:
+  * Carla
+  * Carsim
+  * Prescan
+  * Pytorch
+  * Tensorflow
+  * Gym
   
-*Programming:
-  *Python
-  *Matlab
-  *Simulink;
+* Programming:
+  * Python
+  * Matlab
+  * Simulink;
 
 Publications
 ======
@@ -69,18 +69,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Academic Service & Mentorship 
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Reviewer
+  * Part D: Journal of Automobile Engineering.
+* Mentoring
+  *  Haotian Chen (BS)  Adversarial Scenario Generation Method for Arbitrary Working Condition Sep.                          Dec 2023-Present
+  *  Jialei Nie (BS)  Online Identification of Safety Boundaries for Autonomous Driving Decision Algorithms                 Jan 2024-Present
+  *  Peilun Han (BS)  Diversity Enhanced Adversarial Scenario Generation Method Mar.2024-Present                             Jan 2024-Present                                                                                             
