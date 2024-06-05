@@ -18,9 +18,9 @@ redirect_from:
   * Prescan
  
 * **Programming**:
-  * Python 
-  * Matlab
+  * Matlab
   * Simulink
+  * Python   
 
 * **Development Tools**:
   * Pytorch
