@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download PDF Version](/file/CV_zhaoyiwang.pdf)
+[Download PDF Version](/file/CV-zhaoyiwang.pdf)
 
 
 Education
