@@ -22,7 +22,7 @@ redirect_from:
   * Gym
   * Tensorflow
     
-* **Programming**:
+* **Programming Languages**:
   * Python 
   * Matlab
   * Simulink
