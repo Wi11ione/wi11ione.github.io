@@ -22,7 +22,6 @@ redirect_from:
   * Matlab
   * Simulink
    
-
 * **Development Tools**:
   * Pytorch
   * Gym
