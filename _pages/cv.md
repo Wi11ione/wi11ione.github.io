@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<iframe src="/assets/CV-ZhaoyiWang.pdf" width="100%" height="800px">
+<iframe src="/assets/CV-ZhaoyiWang.pd" width="100%">
