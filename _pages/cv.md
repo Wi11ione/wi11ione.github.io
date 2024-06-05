@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+[Download PDF Version](/file/CV_zhaoyiwang.pdf)
+
+
 Education
 ======
 * M.S. in Transportation Engineering (Intelligent Vehicles track) at Tongji University, from 2022.9-2025.3
