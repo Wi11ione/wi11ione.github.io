@@ -18,10 +18,11 @@ redirect_from:
   * Prescan
  
 * **Programming**:
-  
+  *
+  * Python
   * Matlab
   * Simulink
-  * Python   
+   
 
 * **Development Tools**:
   * Pytorch
