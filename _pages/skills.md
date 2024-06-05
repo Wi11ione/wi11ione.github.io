@@ -18,7 +18,6 @@ redirect_from:
   * Prescan
  
 * **Programming**:
-  *
   * Python
   * Matlab
   * Simulink
