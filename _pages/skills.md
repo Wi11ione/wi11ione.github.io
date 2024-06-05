@@ -19,7 +19,7 @@ redirect_from:
  
 * **Programming**:
   * Python
-  ** Matlab
+  * Matlab
   * Simulink
    
 * **Development Tools**:
