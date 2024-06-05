@@ -7,19 +7,21 @@ redirect_from:
   - "/nmp.html"
 ---
 * **Honor**
-  * Outstanding Student of Jilin University
-  * Outstanding Student of Jilin University
-  * Outstanding Student Leader of Jilin University
-  * Outstanding Student of the College of Automotive Engineering, Jilin University
-  * Outstanding Student Leader of the College of Automotive Engineering, Jilin University
+  * Outstanding Student of Jilin University 2019.10
+  * Outstanding Student of Jilin University 2020.10
+  * Outstanding Student Leader of Jilin University 2020.10
+  * Outstanding Student of the College of Automotive Engineering, Jilin University 2019.10
+  * Outstanding Student Leader of the College of Automotive Engineering, Jilin University 2019.10
+  * Outstanding Graduates of Automobile College of Jilin University 2021.3
 
 * **Awards**
-  * Outstanding Innovation and Entrepreneurship Program for College Students of Jilin University
-  * Second Prize in the Mathematical Modeling Competition for College Students in Jilin Province
-  * Third Prize in the National College Students' English Competition
-  * Second Prize in the National University Students Zhou Peiyuan Mechanics Competition in Jilin Province
+  * Outstanding Innovation and Entrepreneurship Program for College Students of Jilin University 2020.4
+  * Second Prize in the Mathematical Modeling Competition for College Students in Jilin Province 2020.9
+  * Third Prize in the National College Students' English Competition 2019.9
+  * Second Prize in the National University Students Zhou Peiyuan Mechanics Competition in Jilin Province 2019.9
+  * Tongji University varsity basketball tournament runner-up 2023.5
   
 * **Scholarship**
-  * First Class Scholarship of Jilin University
-  * First Class Scholarship of Jilin University
-  * Second Class Scholarship of Jilin University
+  * First Class Scholarship of Jilin University 2020.10
+  * First Class Scholarship of Jilin University 2021.3
+  * Second Class Scholarship of Jilin University 2019.10
