@@ -11,7 +11,7 @@ redirect_from:
 
 [Download PDF Version](/file/CV-zhaoyiwang.pdf)
 
-<embed src="{{ site.baseurl }}/file/CV-zhaoyiwang.pdf" type="application/pdf" width="100%" height="800px" />
+<embed src="/file/CV-zhaoyiwang.pdf" type="application/pdf" width="100%" height="800px" />
 
 
 Education
