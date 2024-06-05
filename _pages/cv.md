@@ -1,5 +1,5 @@
 ---
-layout: null
+layout: archive
 permalink: /cv/
 ---
 
