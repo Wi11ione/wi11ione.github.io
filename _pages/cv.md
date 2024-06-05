@@ -12,5 +12,5 @@ redirect_from:
 
 [Download PDF Version](/assets/CV-ZhaoyiWang.pdf)
 
-<iframe src="/assets/CV-ZhaoyiWang.pdf" width="100%" height="1200px">
+<iframe src="/assets/CV-ZhaoyiWang.pdf" width="100%" height="800px">
 
