@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 * **Mentorship**:
-  * Haotian Chen (BS)  Adversarial Scenario Generation Method for Arbitrary Working Condition                         
+  * Haotian Chen (BS)  An Efficient Generation Method for Adversarial Scenarios for Autonomous Driving Decision Algorithms, undergraduate project                        
   * Jialei Nie (BS)  Online Identification of Safety Boundaries for Autonomous Driving Decision Algorithms             
   * Peilun Han (BS)  Diversity Enhanced Adversarial Scenario Generation Method                          
 
