@@ -36,7 +36,7 @@ Published in IEEE Transactions on Intelligent Vehicle (IEEE T-IV, JCR Q1), 2023.
 
 Submitted to IEEE Transactions on Intelligent Transportation System (IEEE T-ITS, JCR Q1), under review.
 
-<img src="/images/paper3-framework.png" alt="Paper 1 Image" style="width:600px;">
+<img src="/images/paper3-framework.png" alt="Paper 1 Image" style="width:800px;">
 
 **Introduction:** The real world is in long-tailed distribution and thus has higher unknowns and complexity. Therefore the safety of decision-making algorithms cannot be fully guaranteed. We propose an online identification method of safety boundaries for arbitrary algorithms to improve their safety in long-tailed distribution. Experiment shows that the proposed method can greatly improve the safety of vehicle when facing unknown and complex scenarios with long-tailed distribution.
 
@@ -47,7 +47,7 @@ Submitted to IEEE Transactions on Intelligent Transportation System (IEEE T-ITS,
 
 Submitted to IEEE Intelligent Transportation System Conference (IEEE ITSC), under review.
 
-<img src="/images/paper4-framework.png" alt="Paper 1 Image" style="width:600px;">
+<img src="/images/paper4-framework.png" alt="Paper 1 Image" style="width:800px;">
 
 **Introduction:** The real world is long-tailed distribution and thus has higher unknowns and complexity. Therefore the safety of decision-making algorithms cannot be fully guaranteed. We propose an online identification method of safety boundaries for arbitrary algorithms to improve their safety in long-tailed distribution. Experiment shows that the proposed method can greatly improve the safety of vehicle when facing unknown and complex scenarios with long-tailed distribution.
 
