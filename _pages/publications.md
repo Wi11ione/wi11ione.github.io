@@ -11,8 +11,8 @@ author_profile: true
 
 ## Title of Paper 1
 ![Paper 1 Image](path/to/image1.jpg)
-**Authors:** Author1, Author2, Author3  
-**Published in:** Journal Name, Year  
+**Authors:** **Zhaoyi Wang**, Xincheng Li, Dengwei Wei, Liwen Wang, Yanjun Huang 
+**Published in:** IEEE Transactions on Intelligent Vehicle, 2024.5  
 **Abstract:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.  
 [Read more](link/to/full/paper1)
 
