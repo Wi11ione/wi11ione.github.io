@@ -51,19 +51,6 @@ Submitted to IEEE Intelligent Transportation System Conference (IEEE ITSC), unde
 
 **Introduction:** The real world is long-tailed distribution and thus has higher unknowns and complexity. Therefore the safety of decision-making algorithms cannot be fully guaranteed. We propose an online identification method of safety boundaries for arbitrary algorithms to improve their safety in long-tailed distribution. Experiment shows that the proposed method can greatly improve the safety of vehicle when facing unknown and complex scenarios with long-tailed distribution.
 
----
-
-## Co-HTTP: Cooperative Trajectory Prediction with Heterogeneous Graph Transformer for Autonomous Vehicles
-Xinyu Zhang, Zewei Zhou, Yangjie Ji, Jiaming Xing, **Zhaoyi Wang**, Yanjun Huang
-
-Submitted to IEEE Intelligent Transportation System Conference (IEEE ITSC), under review.
-
-<img src="/images/paper5-framework.png" alt="Paper 1 Image" style="width:800px;">
-
-**Introduction:**
-
----
-
 ## A Safety-Critical Scenario Generation Method for Autonomous Driving Decision-Making Algorithm
 **Zhaoyi Wang**, Xincheng Li, Dengwei Wei, Liwen Wang, Yanjun Huang 
 
@@ -102,9 +89,16 @@ Software Copyright， under review
 
 underwriting
 
-<img src="/images/paper6-framework.png" alt="Paper 1 Image" style="width:800px;">
-
 **Introduction:** The diversity of safety-critical scenarios is important for a comprehensive evaluation of autonomous vehicles. I am now working on the essential quantification of  the diversity of scenarios and its combination with the safety-critical scenario generation method.
+
+---
+
+## Co-HTTP: Cooperative Trajectory Prediction with Heterogeneous Graph Transformer for Autonomous Vehicles
+Xinyu Zhang, Zewei Zhou, Yangjie Ji, Jiaming Xing, **Zhaoyi Wang**, Yanjun Huang
+
+Submitted to IEEE Intelligent Transportation System Conference (IEEE ITSC), under review.
+
+**Introduction:**
 
 ---
 
