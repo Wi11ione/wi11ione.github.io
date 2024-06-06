@@ -5,10 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my published articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
 {% include base_path %}
 
 # Safety Critical Scenario Generation
@@ -23,27 +19,27 @@ author_profile: true
   {% include archive-single.html post=paper2 %}
 {% endif %}
 {% if paper3 %}
-  {% include archive-single.html post=paper2 %}
+  {% include archive-single.html post=paper3 %}
 {% endif %}
 
 # Safety Evaluation of Autonomous Driving Algorithm
 
-{% assign paper3 = site.publications | where: "path", "/_publications/paper3.md" | first %}
 {% assign paper4 = site.publications | where: "path", "/_publications/paper4.md" | first %}
-{% if paper3 %}
-  {% include archive-single.html post=paper3 %}
-{% endif %}
+{% assign paper5 = site.publications | where: "path", "/_publications/paper5.md" | first %}
 {% if paper4 %}
   {% include archive-single.html post=paper4 %}
+{% endif %}
+{% if paper5 %}
+  {% include archive-single.html post=paper5 %}
 {% endif %}
 
 # Self-Evolve Mechanism of Autonomous Driving Algorithm
 
-{% assign paper5 = site.publications | where: "path", "/_publications/paper5.md" | first %}
 {% assign paper6 = site.publications | where: "path", "/_publications/paper6.md" | first %}
-{% if paper5 %}
-  {% include archive-single.html post=paper5 %}
-{% endif %}
+{% assign paper7 = site.publications | where: "path", "/_publications/paper7.md" | first %}
 {% if paper6 %}
   {% include archive-single.html post=paper6 %}
+{% endif %}
+{% if paper7 %}
+  {% include archive-single.html post=paper7 %}
 {% endif %}
