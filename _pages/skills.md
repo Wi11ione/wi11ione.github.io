@@ -16,11 +16,6 @@ redirect_from:
   * Carla 
   * Carsim
   * Prescan
-
-* **Programming**:
-  * Python
-  * Matlab
-  * Simulink
     
 * **Development Tools**:
   * Pytorch
@@ -29,9 +24,9 @@ redirect_from:
 
 * **Programming**:
   * Python
-  * Matlab
+  * Matlab
   * Simulink
- 
+
 
     
     
