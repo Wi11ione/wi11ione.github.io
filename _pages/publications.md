@@ -12,7 +12,7 @@ author_profile: true
 ## [Generation of Safety-Critical Scenarios Combining Dynamic and Static Scenario Parameters](https://ieeexplore.ieee.org/abstract/document/10533445)
 **Zhaoyi Wang**, Xincheng Li, Dengwei Wei, Liwen Wang, Yanjun Huang 
 
-Published in IEEE Transactions on Intelligent Vehicle (JCR Q1), 2024.5  
+Published in IEEE Transactions on Intelligent Vehicle (IEEE T-IV, JCR Q1), 2024.5  
 
 <img src="/images/paper1-framework.png" alt="Paper 1 Image" style="width:800px;">
 
@@ -23,7 +23,7 @@ Published in IEEE Transactions on Intelligent Vehicle (JCR Q1), 2024.5
 ## [A Survey on Self-evolving Autonomous Driving: a Perspective on Data Closed-Loop Technology](https://ieeexplore.ieee.org/abstract/document/10533445)
  Xincheng Li, **Zhaoyi Wang**, Yanjun Huang, Hong Chen 
 
-Published in IEEE Transactions on Intelligent Vehicle (JCR Q1), 2023.9
+Published in IEEE Transactions on Intelligent Vehicle (IEEE T-IV, JCR Q1), 2023.9
 
 <img src="/images/paper2-framework.png" alt="Paper 1 Image" style="width:400px;">
 
@@ -34,12 +34,22 @@ Published in IEEE Transactions on Intelligent Vehicle (JCR Q1), 2023.9
 ## Safety Boundary Online Identification for Autonomous Vehicle Considering Long-tailed Distribution ##
 ## Zhaoyi Wang ##, Jialei Nie, Xincheng Li, Yanjun Huang
 
-Submitted to IEEE Transactions on Intelligent Transportation System (JCR Q1), under review.
+Submitted to IEEE Transactions on Intelligent Transportation System (IEEE T-ITS, JCR Q1), under review.
 
 <img src="/images/paper3-framework.png" alt="Paper 1 Image" style="width:800px;">
 
 **Introduction:** The real world is long-tailed distribution and thus has higher unknowns and complexity. Therefore the safety of decision-making algorithms cannot be fully guaranteed. We propose an online identification method of safety boundaries for arbitrary algorithms to improve their safety in long-tailed distribution. Experiment shows that the proposed method can greatly improve the safety of vehicle when facing unknown and complex scenarios with long-tailed distribution.
 
+---
+
+## Safety Evaluation of Autonomous Driving based on Safety-Critical Scenario Generation ##
+## Zhaoyi Wang##, Xincheng Li, Shuo Yang, Shizhen Li, Jiatong Du, Xinyu Zhang, Yanjun Huang
+
+Submitted to IEEE Intelligent Transportation System Conference (IEEE ITSC), under review.
+
+<img src="/images/paper3-framework.png" alt="Paper 1 Image" style="width:800px;">
+
+**Introduction:** The real world is long-tailed distribution and thus has higher unknowns and complexity. Therefore the safety of decision-making algorithms cannot be fully guaranteed. We propose an online identification method of safety boundaries for arbitrary algorithms to improve their safety in long-tailed distribution. Experiment shows that the proposed method can greatly improve the safety of vehicle when facing unknown and complex scenarios with long-tailed distribution.
 
 ---
 
