@@ -12,7 +12,7 @@ author_profile: true
 ## [Generation of Safety-Critical Scenarios Combining Dynamic and Static Scenario Parameters](https://ieeexplore.ieee.org/abstract/document/10533445)
 **Authors:** **Zhaoyi Wang**, Xincheng Li, Dengwei Wei, Liwen Wang, Yanjun Huang 
 
-**Published in:** IEEE Transactions on Intelligent Vehicle, 2024.5  
+**Published in:** IEEE Transactions on Intelligent Vehicle (JCR Q1), 2024.5  
 
 <img src="/images/paper1-framework.png" alt="Paper 1 Image" style="width:800px;">
 
