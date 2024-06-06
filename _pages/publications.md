@@ -51,15 +51,6 @@ Submitted to IEEE Intelligent Transportation System Conference (IEEE ITSC), unde
 
 **Introduction:** The real world is long-tailed distribution and thus has higher unknowns and complexity. Therefore the safety of decision-making algorithms cannot be fully guaranteed. We propose an online identification method of safety boundaries for arbitrary algorithms to improve their safety in long-tailed distribution. Experiment shows that the proposed method can greatly improve the safety of vehicle when facing unknown and complex scenarios with long-tailed distribution.
 
-## A Safety-Critical Scenario Generation Method for Autonomous Driving Decision-Making Algorithm
-**Zhaoyi Wang**, Xincheng Li, Dengwei Wei, Liwen Wang, Yanjun Huang 
-
-Chinese Patent, under review
-
-<img src="/images/patent-scenario-framework.png" alt="Paper 1 Image" style="width:800px;">
-
-**Introduction:** We propose a safety-critical scenario generation method for autonomous driving decision-making algorithms. Given any traffic map and traffic rules, this method can quickly generate high-quality safety-critical scenarios by alternating the dynamic and static parameter optimization, quickly exposing the weakness of the given algorithm and facilitating the comprehensive evaluation of autonomous vehicles.
-
 ---
 
 ## A Safety-Critical Scenario Generation Software for Autonomous Driving Decision-Making Algorithm
@@ -78,9 +69,18 @@ Xincheng Li, Jing Min, **Zhaoyi Wang**, Dengwei Wei, Jiatong Du
 
 Software Copyright， under review 
 
-<img src="/images/copright-scenario-framework.png" alt="Paper 1 Image" style="width:800px;">
+<img src="/images/copright-scenario-framework.png" alt="Paper 1 Image" style="width:400px;">
 
 **Introduction:** Real-world scenarios are endless. Therefore, a good algorithm should be able to continuously explore safety-critical scenarios and learn from them to achieve self-evolving. We propose a self-evolve mechanism for autonomous driving algorithms, which provides training data through a deep reinforcement learning-based safety-critical scenario generation method, and achieves continuous improvement of the algorithm by continual reinforcement learning method with curriculum learning.
+
+---
+
+## A Safety-Critical Scenario Generation Method for Autonomous Driving Decision-Making Algorithm
+**Zhaoyi Wang**, Xincheng Li, Dengwei Wei, Liwen Wang, Yanjun Huang 
+
+Chinese Patent, under review
+
+**Introduction:** We propose a safety-critical scenario generation method for autonomous driving decision-making algorithms. Given any traffic map and traffic rules, this method can quickly generate high-quality safety-critical scenarios by alternating the dynamic and static parameter optimization, quickly exposing the weakness of the given algorithm and facilitating the comprehensive evaluation of autonomous vehicles.
 
 ---
 
