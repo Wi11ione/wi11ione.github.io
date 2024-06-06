@@ -31,25 +31,36 @@ Published in IEEE Transactions on Intelligent Vehicle (IEEE T-IV, JCR Q1), 2023.
 
 ---
 
-## Safety Boundary Online Identification for Autonomous Vehicle Considering Long-tailed Distribution ##
-## Zhaoyi Wang ##, Jialei Nie, Xincheng Li, Yanjun Huang
+## Safety Boundary Online Identification for Autonomous Vehicle Considering Long-tailed Distribution
+**Zhaoyi Wang**, Jialei Nie, Xincheng Li, Yanjun Huang
 
 Submitted to IEEE Transactions on Intelligent Transportation System (IEEE T-ITS, JCR Q1), under review.
 
 <img src="/images/paper3-framework.png" alt="Paper 1 Image" style="width:800px;">
 
+**Introduction:** The real world is in long-tailed distribution and thus has higher unknowns and complexity. Therefore the safety of decision-making algorithms cannot be fully guaranteed. We propose an online identification method of safety boundaries for arbitrary algorithms to improve their safety in long-tailed distribution. Experiment shows that the proposed method can greatly improve the safety of vehicle when facing unknown and complex scenarios with long-tailed distribution.
+
+---
+
+## Safety Evaluation of Autonomous Driving based on Safety-Critical Scenario Generation 
+**Zhaoyi Wang**, Xincheng Li, Shuo Yang, Shizhen Li, Jiatong Du, Xinyu Zhang, Yanjun Huang
+
+Submitted to IEEE Intelligent Transportation System Conference (IEEE ITSC), under review.
+
+<img src="/images/paper4-framework.png" alt="Paper 1 Image" style="width:800px;">
+
 **Introduction:** The real world is long-tailed distribution and thus has higher unknowns and complexity. Therefore the safety of decision-making algorithms cannot be fully guaranteed. We propose an online identification method of safety boundaries for arbitrary algorithms to improve their safety in long-tailed distribution. Experiment shows that the proposed method can greatly improve the safety of vehicle when facing unknown and complex scenarios with long-tailed distribution.
 
 ---
 
-## Safety Evaluation of Autonomous Driving based on Safety-Critical Scenario Generation ##
-## Zhaoyi Wang##, Xincheng Li, Shuo Yang, Shizhen Li, Jiatong Du, Xinyu Zhang, Yanjun Huang
+## Co-HTTP: Cooperative Trajectory Prediction with Heterogeneous Graph Transformer for Autonomous Vehicles
+Xinyu Zhang, Zewei Zhou, Yangjie Ji, Jiaming Xing, **Zhaoyi Wang**, Yanjun Huang
 
 Submitted to IEEE Intelligent Transportation System Conference (IEEE ITSC), under review.
 
-<img src="/images/paper3-framework.png" alt="Paper 1 Image" style="width:800px;">
+<img src="/images/paper5-framework.png" alt="Paper 1 Image" style="width:800px;">
 
-**Introduction:** The real world is long-tailed distribution and thus has higher unknowns and complexity. Therefore the safety of decision-making algorithms cannot be fully guaranteed. We propose an online identification method of safety boundaries for arbitrary algorithms to improve their safety in long-tailed distribution. Experiment shows that the proposed method can greatly improve the safety of vehicle when facing unknown and complex scenarios with long-tailed distribution.
+**Introduction:**
 
 ---
 
@@ -67,11 +78,36 @@ Chinese Patent, under review
 ## A Safety-Critical Scenario Generation Software for Autonomous Driving Decision-Making Algorithm
 **Zhaoyi Wang**, Xincheng Li, Dengwei Wei, Liwen Wang, Yanjun Huang 
 
-software copyright， under review 
+Software Copyright， under review 
+
+<img src="/images/copright-CLE-framework.png" alt="Paper 1 Image" style="width:800px;">
+
+**Introduction:** We propose a software to generate safety-critical scenarios for the evaluation of autonomous driving decision-making algorithms. Given the map information, traffic rule information, and traffic density information of the test scenarios, the software can quickly generate reasonable, realistic, and diverse safety-critical scenarios for any autonomous driving algorithms, which is conducive to the comprehensive evaluation of algorithm performance.
+
+---
+
+## Closed-loop Self-Evolving Autonomous Driving Software
+Xincheng Li, Jing Min, **Zhaoyi Wang**, Dengwei Wei, Jiatong Du 
+
+Software Copyright， under review 
 
 <img src="/images/copright-scenario-framework.png" alt="Paper 1 Image" style="width:800px;">
 
-**Introduction:** We propose a software to generate safety-critical scenarios for the evaluation of autonomous driving decision-making algorithms. Given the map information, traffic rule information, and traffic density information of the test scenarios, the software can quickly generate reasonable, realistic, and diverse safety-critical scenarios for any autonomous driving algorithms, which is conducive to the comprehensive evaluation of algorithm performance.
+**Introduction:** Real-world scenarios are endless. Therefore, a good algorithm should be able to continuously explore safety-critical scenarios and learn from them to achieve self-evolving. We propose a self-evolve mechanism for autonomous driving algorithms, which provides training data through a deep reinforcement learning-based safety-critical scenario generation method, and achieves continuous improvement of the algorithm by continual reinforcement learning method with curriculum learning.
+
+---
+
+## Safety-Critical Scenario Generation Considering Global Diversity
+**Zhaoyi Wang**, Peilun Han, Xincheng Li, Yanjun Huang
+
+underwriting
+
+<img src="/images/paper6-framework.png" alt="Paper 1 Image" style="width:800px;">
+
+**Introduction:** The diversity of safety-critical scenarios is important for a comprehensive evaluation of autonomous vehicles. I am now working on the essential quantification of  the diversity of scenarios and its combination with the safety-critical scenario generation method.
+
+---
+
 
 
 
