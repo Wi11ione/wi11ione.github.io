@@ -16,7 +16,8 @@ author_profile: true
 
 <img src="/images/paper1-framework.png" alt="Paper 1 Image" style="width:600px;">
 
-Safety-critical scenarios are essential for the safety evaluation of autonomous vehicles. To improve the efficiency of scenario generation, we propose an efficient safety-critical scenario generation method combining dynamic and static parameters that constitute a scenario by alternating the optimization of them. The proposed method enables more efficient, diverse, generalized, and plausible scenario generation with less time and arithmetic cost. 
+
+**Introduction:** Safety-critical scenarios are essential for the safety evaluation of autonomous vehicles. To improve the efficiency of scenario generation, we propose an efficient safety-critical scenario generation method combining dynamic and static parameters that constitute a scenario by alternating the optimization of them. The proposed method enables more efficient, diverse, generalized, and plausible scenario generation with less time and arithmetic cost. 
 [Read more](link/to/full/paper1)
 
 ## Generation of Safety-Critical Scenarios Combining Dynamic and Static Scenario Parameters
