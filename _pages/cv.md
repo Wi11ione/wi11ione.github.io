@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /cv/
-title: ["Curriculum Vitae"]("/assets/CV-ZhaoyiWang.pdf")
+title: "Curriculum Vitae"
 author_profile: true
 redirect_from:
   - /resume
