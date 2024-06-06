@@ -11,6 +11,9 @@ redirect_from:
 
 <iframe src="/assets/CV-ZhaoyiWang.pdf" width="100%" height="2000px">
 
+<p>If you prefer to download the CV, you can do so by clicking the link below:</p>
+<p><a href="/assets/CV-ZhaoyiWang.pdf" download>Download CV</a></p>
+
 
 
 
