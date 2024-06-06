@@ -25,9 +25,21 @@ Published in IEEE Transactions on Intelligent Vehicle (JCR Q1), 2024.5
 
 Published in IEEE Transactions on Intelligent Vehicle (JCR Q1), 2023.9
 
-<img src="/images/paper2-framework.png" alt="Paper 1 Image" style="width:800px;">
+<img src="/images/paper2-framework.png" alt="Paper 1 Image" style="width:400px;">
 
 **Introduction:** Self-evolution refers to the ability of a system to evolve autonomously towards a better performance, which is a potential trend for autonomous driving systems based on self-learning approaches. This study analyzes some relevant technologies and then proposes a novel design mechanism to guarantee the self-evolving performance for autonomous driving systems. Moreover, we give some suggestions for its future directions for self-evolving autonomous driving, including some more cutting-edge technologies that can be incorporated into the DCL architecture.
+
+---
+
+##Safety Boundary Online Identification for Autonomous Vehicle Considering Long-tailed Distribution##
+##Zhaoyi Wang##, Jialei Nie, Xincheng Li, Yanjun Huang
+
+Submitted to IEEE Transactions on Intelligent Transportation System (JCR Q1), under review.
+
+<img src="/images/paper3-framework.png" alt="Paper 1 Image" style="width:800px;">
+
+**Introduction:** The real world is long-tailed distribution and thus has higher unknowns and complexity. Therefore the safety of decision-making algorithms cannot be fully guaranteed. We propose an online identification method of safety boundaries for arbitrary algorithms to improve their safety in long-tailed distribution. Experiment shows that the proposed method can greatly improve the safety of vehicle when facing unknown and complex scenarios with long-tailed distribution.
+
 
 ---
 
