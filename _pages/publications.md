@@ -31,8 +31,8 @@ Published in IEEE Transactions on Intelligent Vehicle (JCR Q1), 2023.9
 
 ---
 
-##Safety Boundary Online Identification for Autonomous Vehicle Considering Long-tailed Distribution##
-##Zhaoyi Wang##, Jialei Nie, Xincheng Li, Yanjun Huang
+## Safety Boundary Online Identification for Autonomous Vehicle Considering Long-tailed Distribution ##
+## Zhaoyi Wang ##, Jialei Nie, Xincheng Li, Yanjun Huang
 
 Submitted to IEEE Transactions on Intelligent Transportation System (JCR Q1), under review.
 
