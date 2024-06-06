@@ -9,11 +9,11 @@ author_profile: true
 
 # Safety Critical Scenario Generation
 
-## Title of Paper 1
-![Paper 1 Image](path/to/image1.jpg)
+## Generation of Safety-Critical Scenarios Combining Dynamic and Static Scenario Parameters
 **Authors:** **Zhaoyi Wang**, Xincheng Li, Dengwei Wei, Liwen Wang, Yanjun Huang 
 **Published in:** IEEE Transactions on Intelligent Vehicle, 2024.5  
-**Abstract:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.  
+![Paper 1 Image](/images/paper1-framework.png)
+**Abstract:** Safety-critical scenarios are essential for the safety evaluation of autonomous vehicles. To improve the efficiency of scenario generation, we propose an efficient safety-critical scenario generation method combining dynamic and static parameters that constitute a scenario by alternating the optimization of them. The proposed method enables more efficient, diverse, generalized, and plausible scenario generation with less time and arithmetic cost. 
 [Read more](link/to/full/paper1)
 
 ## Title of Paper 2
