@@ -58,7 +58,7 @@ Submitted to IEEE Intelligent Transportation System Conference (IEEE ITSC), unde
 
 Software Copyright， under review 
 
-<img src="/images/copright-scenario-framework.png" alt="Paper 1 Image" style="width:400px;">
+<img src="/images/copyright-scenario-framework.png" alt="Paper 1 Image" style="width:400px;">
 
 **Introduction:** We propose a software to generate safety-critical scenarios for the evaluation of autonomous driving decision-making algorithms. Given the map information, traffic rule information, and traffic density information of the test scenarios, the software can quickly generate reasonable, realistic, and diverse safety-critical scenarios for any autonomous driving algorithms, which is conducive to the comprehensive evaluation of algorithm performance.
 
@@ -69,7 +69,7 @@ Xincheng Li, Jing Min, **Zhaoyi Wang**, Dengwei Wei, Jiatong Du
 
 Software Copyright， under review 
 
-<img src="/images/copright-CLE-framework.png" alt="Paper 1 Image" style="width:800px;">
+<img src="/images/copyright-CLE-framework.png" alt="Paper 1 Image" style="width:800px;">
 
 **Introduction:** Real-world scenarios are endless. Therefore, a good algorithm should be able to continuously explore safety-critical scenarios and learn from them to achieve self-evolving. We propose a self-evolve mechanism for autonomous driving algorithms, which provides training data through a deep reinforcement learning-based safety-critical scenario generation method, and achieves continuous improvement of the algorithm by continual reinforcement learning method with curriculum learning.
 
