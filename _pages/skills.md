@@ -26,6 +26,7 @@ redirect_from:
   * Python
   * Matlab
   * Simulink
+  * C/C++
 
 
     
