@@ -14,7 +14,8 @@ redirect_from:
     * Proposed an adversarial traffic participant behavior model combining traffic prior and reinforcement learning, which solves the limitation that adversarial scenario generation can only be applied to specific working conditions.
     * Proposed a safety-critical scenario generation method combining dynamic and static scenario parameters, which greatly improves the efficiency of scenario generation.
   * **Work in progress** 2024.3-Present
-    * Quantifying of the diversity of scenarios and improving the diversity in safety-critical scenario generation for a comprehensive evaluation of autonomous vehicles.
+    * Quantifying the diversity of scenarios and improving the diversity in safety-critical scenario generation for a comprehensive evaluation of autonomous vehicles.
+    * Working on combining naturalistic driving data with adversarial scenario generation to improve the naturalness and plausibility of the generated scenario.
 
 * **Adaptive Evolution and Evaluation of Secure and Confident Intelligent Systems**, supported by the National Natural Science Foundation of China under Grant U23B2061, directed by [Prof. Yanjun Huang](https://www.researchgate.net/profile/Yanjun-Huang-4)
   * **Results achieved** 2023.1-2024.5
@@ -26,7 +27,7 @@ redirect_from:
     * Reviewed the research related to data-closed loop and proposed a self-evolution mechanism for autonomous driving algorithm.
   * **Work in progress** 2023.10-Present
     * Working on applying continual reinforcement learning methods to improve the self-evolution of autonomous driving algorithms under safety-critical scenarios.
-    * Working on combining naturalistic driving data with adversarial scenario generation to improve the naturalness and plausibility of the generated scenario.
+    * Participated in constructing a mixed-reality simulation platform for autonomous vehicles by combining vehicle hardware in the loop and virtual traffic scenarios.
 
 ## State Key Laboratory of Automotive Simulation and Control, [Jilin University](https://www.jlu.edu.cn/#), 2019.3-2021.6
 * **Design of New Generation Chassis Vehicle Traveling System and Analysis of Its Dynamic Performance**, directed by [Prof.Hsin Guan](http://auto.jlu.edu.cn/info/1306/1784.htm) and [Prof.Pingping Lu](http://auto.jlu.edu.cn/info/1318/3892.htm)
