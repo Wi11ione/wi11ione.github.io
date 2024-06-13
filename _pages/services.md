@@ -13,7 +13,9 @@ redirect_from:
   * Peilun Han (BS)  Diversity Enhanced Adversarial Scenario Generation Method                          
 
 * **Reviewer**:
+  IEEE Transactions on Intelligent Vehicles
   Part D: Journal of Automobile Engineering
 
 * **Leadership**:
   Head of Student Union Life Department, Student Union of College of Automobile Engineering, Jilin University
+  
