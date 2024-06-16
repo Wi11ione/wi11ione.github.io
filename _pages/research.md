@@ -192,8 +192,4 @@ redirect_from:
 ---
 
 <style>
-@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Roboto:wght@400;700&display=swap');
-
-body {
-  font-family: 'Lato', sans-serif;
-  background
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Roboto:wght
