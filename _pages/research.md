@@ -42,132 +42,121 @@ redirect_from:
     * Designed a lane detection hardware-in-the-loop test platform
 
 
+---
+permalink: /research/
+title: "Research Experience"
+author_profile: true
+redirect_from: 
+  - "/nmp/"
+  - "/nmp.html"
+---
+
 ## Research Experience
 
 ### Key Technologies for Self-Evolving Learning-Based Autonomous Driving Systems (2022.9-Present, Tongji University)
 
 <div class="research-grid">
-  <div class="research-item">
-    <a href="{{ site.url }}/research/key-technologies/risk-guided-policy-optimization/">
-      <img src="/images/paper1-framework.png" alt="Risk-Guided Policy Optimization">
-      <div class="research-text">
-        <h3>RAPO **R**isk-guided **A**dversarial **P**olicy **O**ptimization **M**ethod</h3>
-        <p>This method generates more diverse and plausible scenarios more efficiently.</p>
-        <span class="details-link">Read more</span>
-      </div>
-    </a>
-  </div>
+  <a class="research-item" href="{{ site.url }}/research/key-technologies/risk-guided-policy-optimization/">
+    <img src="/images/paper1-framework.png" alt="Risk-Guided Policy Optimization">
+    <div class="research-text">
+      <h3>Proposed a Risk-Guided Policy Optimization Method</h3>
+      <p>This method generates more diverse and plausible scenarios more efficiently.</p>
+      <span class="details-link">Read more</span>
+    </div>
+  </a>
   
-  <div class="research-item">
-    <a href="{{ site.url }}/research/key-technologies/adversarial-traffic-participant-behavior/">
-      <img src="/images/paper1-framework.png" alt="Adversarial Traffic Participant Behavior">
-      <div class="research-text">
-        <h3>Proposed an Adversarial Traffic Participant Behavior Model</h3>
-        <p>This model combines traffic prior and reinforcement learning to solve limitations in adversarial scenario generation.</p>
-        <span class="details-link">Read more</span>
-      </div>
-    </a>
-  </div>
+  <a class="research-item" href="{{ site.url }}/research/key-technologies/adversarial-traffic-participant-behavior/">
+    <img src="/images/paper1-framework.png" alt="Adversarial Traffic Participant Behavior">
+    <div class="research-text">
+      <h3>Proposed an Adversarial Traffic Participant Behavior Model</h3>
+      <p>This model combines traffic prior and reinforcement learning to solve limitations in adversarial scenario generation.</p>
+      <span class="details-link">Read more</span>
+    </div>
+  </a>
 
-  <div class="research-item">
-    <a href="{{ site.url }}/research/key-technologies/safety-critical-scenario-generation/">
-      <img src="/images/paper1-framework.png" alt="Safety-Critical Scenario Generation">
-      <div class="research-text">
-        <h3>Proposed a Safety-Critical Scenario Generation Method</h3>
-        <p>This method combines dynamic and static scenario parameters to improve efficiency.</p>
-        <span class="details-link">Read more</span>
-      </div>
-    </a>
-  </div>
+  <a class="research-item" href="{{ site.url }}/research/key-technologies/safety-critical-scenario-generation/">
+    <img src="/images/paper1-framework.png" alt="Safety-Critical Scenario Generation">
+    <div class="research-text">
+      <h3>Proposed a Safety-Critical Scenario Generation Method</h3>
+      <p>This method combines dynamic and static scenario parameters to improve efficiency.</p>
+      <span class="details-link">Read more</span>
+    </div>
+  </a>
 </div>
 
 ### Adaptive Evolution and Evaluation of Secure and Confident Intelligent Systems (2023.1-Present, Tongji University)
 
 <div class="research-grid">
-  <div class="research-item">
-    <a href="{{ site.url }}/research/adaptive-evolution/safety-analysis/">
-      <img src="path_to_image.jpg" alt="Safety Analysis">
-      <div class="research-text">
-        <h3>Proposed an Approach for Safety Analysis</h3>
-        <p>This approach analyzes autonomous vehicles from complex safety-critical scenario data.</p>
-        <span class="details-link">Read more</span>
-      </div>
-    </a>
-  </div>
+  <a class="research-item" href="{{ site.url }}/research/adaptive-evolution/safety-analysis/">
+    <img src="/images/paper1-framework.png" alt="Safety Analysis">
+    <div class="research-text">
+      <h3>Proposed an Approach for Safety Analysis</h3>
+      <p>This approach analyzes autonomous vehicles from complex safety-critical scenario data.</p>
+      <span class="details-link">Read more</span>
+    </div>
+  </a>
   
-  <div class="research-item">
-    <a href="{{ site.url }}/research/adaptive-evolution/safety-boundary-identification/">
-      <img src="path_to_image.jpg" alt="Safety Boundary Identification">
-      <div class="research-text">
-        <h3>Proposed a Safety Boundary Online Identification Method</h3>
-        <p>This method learns from the test data under a long-tailed environment.</p>
-        <span class="details-link">Read more</span>
-      </div>
-    </a>
-  </div>
+  <a class="research-item" href="{{ site.url }}/research/adaptive-evolution/safety-boundary-identification/">
+    <img src="/images/paper1-framework.png" alt="Safety Boundary Identification">
+    <div class="research-text">
+      <h3>Proposed a Safety Boundary Online Identification Method</h3>
+      <p>This method learns from the test data under a long-tailed environment.</p>
+      <span class="details-link">Read more</span>
+    </div>
+  </a>
 </div>
 
 ### Self-Evolutionary Methods and Applications for Intelligent Systems in Complex Environments (2022.9-Present, Tongji University)
 
 <div class="research-grid">
-  <div class="research-item">
-    <a href="{{ site.url }}/research/self-evolutionary-methods/data-closed-loop/">
-      <img src="path_to_image.jpg" alt="Data Closed Loop">
-      <div class="research-text">
-        <h3>Reviewed Research Related to Data-Closed Loop</h3>
-        <p>Proposed a self-evolution mechanism for autonomous driving algorithms.</p>
-        <span class="details-link">Read more</span>
-      </div>
-    </a>
-  </div>
+  <a class="research-item" href="{{ site.url }}/research/self-evolutionary-methods/data-closed-loop/">
+    <img src="/images/paper1-framework.png" alt="Data Closed Loop">
+    <div class="research-text">
+      <h3>Reviewed Research Related to Data-Closed Loop</h3>
+      <p>Proposed a self-evolution mechanism for autonomous driving algorithms.</p>
+      <span class="details-link">Read more</span>
+    </div>
+  </a>
   
-  <div class="research-item">
-    <a href="{{ site.url }}/research/self-evolutionary-methods/continual-reinforcement-learning/">
-      <img src="path_to_image.jpg" alt="Continual Reinforcement Learning">
-      <div class="research-text">
-        <h3>Applying Continual Reinforcement Learning Methods</h3>
-        <p>Improving self-evolution of autonomous driving algorithms under safety-critical scenarios.</p>
-        <span class="details-link">Read more</span>
-      </div>
-    </a>
-  </div>
+  <a class="research-item" href="{{ site.url }}/research/self-evolutionary-methods/continual-reinforcement-learning/">
+    <img src="/images/paper1-framework.png" alt="Continual Reinforcement Learning">
+    <div class="research-text">
+      <h3>Applying Continual Reinforcement Learning Methods</h3>
+      <p>Improving self-evolution of autonomous driving algorithms under safety-critical scenarios.</p>
+      <span class="details-link">Read more</span>
+    </div>
+  </a>
   
-  <div class="research-item">
-    <a href="{{ site.url }}/research/self-evolutionary-methods/mixed-reality-simulation/">
-      <img src="path_to_image.jpg" alt="Mixed-Reality Simulation">
-      <div class="research-text">
-        <h3>Constructing a Mixed-Reality Simulation Platform</h3>
-        <p>Combining vehicle hardware in the loop and virtual traffic scenarios.</p>
-        <span class="details-link">Read more</span>
-      </div>
-    </a>
-  </div>
+  <a class="research-item" href="{{ site.url }}/research/self-evolutionary-methods/mixed-reality-simulation/">
+    <img src="/images/paper1-framework.png" alt="Mixed-Reality Simulation">
+    <div class="research-text">
+      <h3>Constructing a Mixed-Reality Simulation Platform</h3>
+      <p>Combining vehicle hardware in the loop and virtual traffic scenarios.</p>
+      <span class="details-link">Read more</span>
+    </div>
+  </a>
 </div>
 
 ### State Key Laboratory of Automotive Simulation and Control (2019.3-2021.6, Jilin University)
 
 <div class="research-grid">
-  <div class="research-item">
-    <a href="{{ site.url }}/research/new-generation-chassis/">
-      <img src="path_to_image.jpg" alt="New Generation Chassis">
-      <div class="research-text">
-        <h3>Design of New Generation Chassis Vehicle Traveling System</h3>
-        <p>Analysis of its dynamic performance with four-wheel independent drive and steering.</p>
-        <span class="details-link">Read more</span>
-      </div>
-    </a>
-  </div>
+  <a class="research-item" href="{{ site.url }}/research/new-generation-chassis/">
+    <img src="/images/paper1-framework.png" alt="New Generation Chassis">
+    <div class="research-text">
+      <h3>Design of New Generation Chassis Vehicle Traveling System</h3>
+      <p>Analysis of its dynamic performance with four-wheel independent drive and steering.</p>
+      <span class="details-link">Read more</span>
+    </div>
+  </a>
   
-  <div class="research-item">
-    <a href="{{ site.url }}/research/active-lane-changing-system/">
-      <img src="path_to_image.jpg" alt="Active Lane-Changing System">
-      <div class="research-text">
-        <h3>Design of Active Lane-Changing System for Intelligent Vehicle</h3>
-        <p>Including hardware-in-the-loop testing.</p>
-        <span class="details-link">Read more</span>
-      </div>
-    </a>
-  </div>
+  <a class="research-item" href="{{ site.url }}/research/active-lane-changing-system/">
+    <img src="/images/paper1-framework.png" alt="Active Lane-Changing System">
+    <div class="research-text">
+      <h3>Design of Active Lane-Changing System for Intelligent Vehicle</h3>
+      <p>Including hardware-in-the-loop testing.</p>
+      <span class="details-link">Read more</span>
+    </div>
+  </a>
 </div>
 
 <style>
@@ -194,6 +183,9 @@ redirect_from:
 
 .research-text {
   padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 
 .research-item h3 {
@@ -210,6 +202,7 @@ redirect_from:
   color: #007bff;
   text-decoration: none;
   font-weight: bold;
+  align-self: flex-end;
 }
 
 .research-item:hover {
