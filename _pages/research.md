@@ -41,3 +41,72 @@ redirect_from:
     * Designed a lane change decision-making algorithm combining risk and efficiency and a lane-changing trajectory planning & control algorithm considering driving comfort and stability
     * Designed a lane detection hardware-in-the-loop test platform
 
+
+## Research Experience
+
+<div class="research-grid">
+  <div class="research-item">
+    <a href="{{ site.url }}/research/key-technologies/">
+      <img src="path_to_image.jpg" alt="Key Technologies for Self-Evolving Learning-Based Autonomous Driving Systems">
+      <h3>Key Technologies for Self-Evolving Learning-Based Autonomous Driving Systems</h3>
+    </a>
+  </div>
+  
+  <div class="research-item">
+    <a href="{{ site.url }}/research/adaptive-evolution/">
+      <img src="path_to_image.jpg" alt="Adaptive Evolution and Evaluation of Secure and Confident Intelligent Systems">
+      <h3>Adaptive Evolution and Evaluation of Secure and Confident Intelligent Systems</h3>
+    </a>
+  </div>
+  
+  <div class="research-item">
+    <a href="{{ site.url }}/research/self-evolutionary-methods/">
+      <img src="path_to_image.jpg" alt="Self-Evolutionary Methods and Applications for Intelligent Systems in Complex Environments">
+      <h3>Self-Evolutionary Methods and Applications for Intelligent Systems in Complex Environments</h3>
+    </a>
+  </div>
+  
+  <div class="research-item">
+    <a href="{{ site.url }}/research/new-generation-chassis/">
+      <img src="path_to_image.jpg" alt="Design of New Generation Chassis Vehicle Traveling System and Analysis of Its Dynamic Performance">
+      <h3>Design of New Generation Chassis Vehicle Traveling System and Analysis of Its Dynamic Performance</h3>
+    </a>
+  </div>
+  
+  <div class="research-item">
+    <a href="{{ site.url }}/research/active-lane-changing-system/">
+      <img src="path_to_image.jpg" alt="Design of Active Lane-Changing System for Intelligent Vehicle and Its Hardware-in-the-Loop Testing">
+      <h3>Design of Active Lane-Changing System for Intelligent Vehicle and Its Hardware-in-the-Loop Testing</h3>
+    </a>
+  </div>
+</div>
+
+<style>
+.research-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+}
+
+.research-item {
+  text-align: center;
+  border: 1px solid #ddd;
+  padding: 20px;
+  border-radius: 10px;
+  transition: transform 0.3s;
+}
+
+.research-item img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+
+.research-item h3 {
+  margin-top: 15px;
+}
+
+.research-item:hover {
+  transform: scale(1.05);
+}
+</style>
