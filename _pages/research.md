@@ -47,7 +47,7 @@ redirect_from:
 <div class="research-grid">
   <div class="research-item">
     <a href="{{ site.url }}/research/key-technologies/">
-      <img src="path_to_image.jpg" alt="Key Technologies for Self-Evolving Learning-Based Autonomous Driving Systems">
+      <img src="/images/paper1-framework.png" alt="Key Technologies for Self-Evolving Learning-Based Autonomous Driving Systems">
       <h3>Key Technologies for Self-Evolving Learning-Based Autonomous Driving Systems</h3>
     </a>
   </div>
