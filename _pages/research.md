@@ -7,15 +7,6 @@ redirect_from:
   - "/nmp.html"
 ---
 
----
-permalink: /research/
-title: "Research Experience"
-author_profile: true
-redirect_from: 
-  - "/nmp/"
-  - "/nmp.html"
----
-
 ## Research Experience
 
 ## Institute of Intelligent Vehicles, [Tongji University](https://www.tongji.edu.cn/eng/), 2022.9-Present
