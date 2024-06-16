@@ -26,7 +26,7 @@ redirect_from:
     <div class="research-content">
       <img src="/images/paper1-framework.png" alt="Risk-Guided Policy Optimization">
       <div class="research-text">
-        <p>Proposed a risk-guided policy optimization method for safety-critical scenario generation, which generates more diverse and plausible scenarios more efficiently.</p>
+        <h4>Proposed a risk-guided policy optimization method for safety-critical scenario generation, which generates more diverse and plausible scenarios more efficiently.</h4>
       </div>
     </div>
   </a>
@@ -35,7 +35,7 @@ redirect_from:
     <div class="research-content">
       <img src="/images/paper1-framework.png" alt="Adversarial Traffic Participant Behavior">
       <div class="research-text">
-        <p>Proposed an adversarial traffic participant behavior model combining traffic prior and reinforcement learning, which solves the limitation that adversarial scenario generation can only be applied to specific working conditions.</p>
+        <h4>Proposed an adversarial traffic participant behavior model combining traffic prior and reinforcement learning, which solves the limitation that adversarial scenario generation can only be applied to specific working conditions.</h4>
       </div>
     </div>
   </a>
@@ -44,7 +44,7 @@ redirect_from:
     <div class="research-content">
       <img src="/images/paper1-framework.png" alt="Safety-Critical Scenario Generation">
       <div class="research-text">
-        <p>Proposed a safety-critical scenario generation method combining dynamic and static scenario parameters, which greatly improves the efficiency of scenario generation.</p>
+        <h4>Proposed a safety-critical scenario generation method combining dynamic and static scenario parameters, which greatly improves the efficiency of scenario generation.</h4>
       </div>
     </div>
   </a>
@@ -58,7 +58,7 @@ redirect_from:
     <div class="research-content">
       <img src="/images/paper1-framework.png" alt="Scenario Diversity">
       <div class="research-text">
-        <p>Quantifying the diversity of scenarios and improving the diversity in safety-critical scenario generation for a comprehensive evaluation of autonomous vehicles.</p>
+        <h4>Quantifying the diversity of scenarios and improving the diversity in safety-critical scenario generation for a comprehensive evaluation of autonomous vehicles.</h4>
       </div>
     </div>
   </a>
@@ -67,7 +67,7 @@ redirect_from:
     <div class="research-content">
       <img src="/images/paper1-framework.png" alt="Naturalistic Driving Data">
       <div class="research-text">
-        <p>Working on combining naturalistic driving data with adversarial scenario generation to improve the naturalness and plausibility of the generated scenario.</p>
+        <h4>Working on combining naturalistic driving data with adversarial scenario generation to improve the naturalness and plausibility of the generated scenario.</h4>
       </div>
     </div>
   </a>
@@ -86,7 +86,7 @@ redirect_from:
     <div class="research-content">
       <img src="/images/paper1-framework.png" alt="Safety Analysis">
       <div class="research-text">
-        <p>Proposed an approach for the safety analysis of autonomous vehicles from complex safety-critical scenario data, which can intuitively reveal the distribution and characteristics of safety-critical scenarios for any given algorithm.</p>
+        <h4>Proposed an approach for the safety analysis of autonomous vehicles from complex safety-critical scenario data, which can intuitively reveal the distribution and characteristics of safety-critical scenarios for any given algorithm.</h4>
       </div>
     </div>
   </a>
@@ -95,7 +95,7 @@ redirect_from:
     <div class="research-content">
       <img src="/images/paper1-framework.png" alt="Safety Boundary Identification">
       <div class="research-text">
-        <p>Proposed a safety boundary online identification method that learns from the test data under a long-tailed environment.</p>
+        <h4>Proposed a safety boundary online identification method that learns from the test data under a long-tailed environment.</h4>
       </div>
     </div>
   </a>
@@ -114,7 +114,7 @@ redirect_from:
     <div class="research-content">
       <img src="/images/paper1-framework.png" alt="Data Closed Loop">
       <div class="research-text">
-        <p>Reviewed the research related to data-closed loop and proposed a self-evolution mechanism for autonomous driving algorithm.</p>
+        <h4>Reviewed the research related to data-closed loop and proposed a self-evolution mechanism for autonomous driving algorithm.</h4>
       </div>
     </div>
   </a>
@@ -128,7 +128,7 @@ redirect_from:
     <div class="research-content">
       <img src="/images/paper1-framework.png" alt="Continual Reinforcement Learning">
       <div class="research-text">
-        <p>Working on applying continual reinforcement learning methods to improve the self-evolution of autonomous driving algorithms under safety-critical scenarios.</p>
+        <h4>Working on applying continual reinforcement learning methods to improve the self-evolution of autonomous driving algorithms under safety-critical scenarios.</h4>
       </div>
     </div>
   </a>
@@ -137,7 +137,7 @@ redirect_from:
     <div class="research-content">
       <img src="/images/paper1-framework.png" alt="Mixed-Reality Simulation">
       <div class="research-text">
-        <p>Participated in constructing a mixed-reality simulation platform for autonomous vehicles by combining vehicle hardware in the loop and virtual traffic scenarios.</p>
+        <h4>Participated in constructing a mixed-reality simulation platform for autonomous vehicles by combining vehicle hardware in the loop and virtual traffic scenarios.</h4>
       </div>
     </div>
   </a>
@@ -160,9 +160,9 @@ redirect_from:
     <div class="research-content">
       <img src="/images/paper1-framework.png" alt="New Generation Chassis">
       <div class="research-text">
-        <p>Designed a new traveling system with four-wheel independent drive and four-wheel independent steering.</p>
-        <p>Modeling of the vehicle dynamics and the distribution algorithm of steering angles and torques of four wheels.</p>
-        <p>Vehicle dynamics simulation and its performance analysis based on Matlab/Simulink and Carsim.</p>
+        <h4>Designed a new traveling system with four-wheel independent drive and four-wheel independent steering.</h4>
+        <h4>Modeling of the vehicle dynamics and the distribution algorithm of steering angles and torques of four wheels.</h4>
+        <h4>Vehicle dynamics simulation and its performance analysis based on Matlab/Simulink and Carsim.</h4>
       </div>
     </div>
   </a>
@@ -181,8 +181,8 @@ redirect_from:
     <div class="research-content">
       <img src="/images/paper1-framework.png" alt="Active Lane-Changing System">
       <div class="research-text">
-        <p>Designed a lane change decision-making algorithm combining risk and efficiency and a lane-changing trajectory planning & control algorithm considering driving comfort and stability.</p>
-        <p>Designed a lane detection hardware-in-the-loop test platform.</p>
+        <h4>Designed a lane change decision-making algorithm combining risk and efficiency and a lane-changing trajectory planning & control algorithm considering driving comfort and stability.</h4>
+        <h4>Designed a lane detection hardware-in-the-loop test platform.</h4>
       </div>
     </div>
   </a>
@@ -196,14 +196,4 @@ redirect_from:
 
 body {
   font-family: 'Lato', sans-serif;
-  background-color: #f4f4f4;
-  color: #333;
-}
-
-h1, h2, h3, h4, h5, h6 {
-  font-family: 'Roboto', sans-serif;
-}
-
-.research-grid {
-  display: grid;
-  grid
+  background
