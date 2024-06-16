@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## Institute of Intelligent Vehicles, [Tongji University](https://www.tongji.edu.cn/eng/), 2022.9-Present
-* **Key Technologies for Self-Evolving Learning-Based Autonomous Driving Systems**, supported by the National Key R&D Program of China under Grant No2022YFB2502900, directed by [Prof. Yanjun Huang](https://www.researchgate.net/profile/Yanjun-Huang-4)
+* **Self-Evolving Learning-Based Autonomous Driving Systems: Safety-Critical Scenario Generation**, supported by the National Key R&D Program of China under Grant No2022YFB2502900, directed by [Prof. Yanjun Huang](https://www.researchgate.net/profile/Yanjun-Huang-4)
   * **Results achieved** 2022.9-2024.4
     * Proposed a risk-guided policy optimization method for safety-critical scenario generation, which generates more diverse and plausible scenarios more efficiently.
     * Proposed an adversarial traffic participant behavior model combining traffic prior and reinforcement learning, which solves the limitation that adversarial scenario generation can only be applied to specific working conditions.
@@ -17,12 +17,12 @@ redirect_from:
     * Quantifying the diversity of scenarios and improving the diversity in safety-critical scenario generation for a comprehensive evaluation of autonomous vehicles.
     * Working on combining naturalistic driving data with adversarial scenario generation to improve the naturalness and plausibility of the generated scenario.
 
-* **Adaptive Evolution and Evaluation of Secure and Confident Intelligent Systems**, supported by the National Natural Science Foundation of China under Grant U23B2061, directed by [Prof. Yanjun Huang](https://www.researchgate.net/profile/Yanjun-Huang-4)
+* **Adaptive Evolution and Evaluation of Secure and Confident Intelligent Systems: Safety Evaluation of Autonomous Vehicles in Complex Environments**, supported by the National Natural Science Foundation of China under Grant U23B2061, directed by [Prof. Yanjun Huang](https://www.researchgate.net/profile/Yanjun-Huang-4)
   * **Results achieved** 2023.1-2024.5
     * Proposed an approach for the safety analysis of autonomous vehicles from complex safety-critical scenario data, which can intuitively reveal the distribution and characteristics of safety-critical scenarios for any given algorithm.
     * Proposed a safety boundary online identification method that learns from the test data under a long-tailed environment.
 
-* **Self-Evolutionary Methods and Applications for Intelligent Systems in Complex Environments**, supported by Fundamental Research Funds for the Central Universities, Ministry of Education of China, directed by [Prof. Yanjun Huang](https://www.researchgate.net/profile/Yanjun-Huang-4)
+* **Self-Evolutionary Methods and Applications for Intelligent Systems in Complex Environments: Close-loop Self-Evolve Mechanism for Autonomous Vehicle Based on Mixed Reality Testing**, supported by Fundamental Research Funds for the Central Universities, Ministry of Education of China, directed by [Prof. Yanjun Huang](https://www.researchgate.net/profile/Yanjun-Huang-4)
   * **Results achieved** 2022.9-2023.9
     * Reviewed the research related to data-closed loop and proposed a self-evolution mechanism for autonomous driving algorithm.
   * **Work in progress** 2023.10-Present
