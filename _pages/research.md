@@ -51,7 +51,7 @@ redirect_from:
     <a href="{{ site.url }}/research/key-technologies/risk-guided-policy-optimization/">
       <img src="path_to_image.jpg" alt="Risk-Guided Policy Optimization">
       <div class="research-text">
-        <h3>Proposed a Risk-Guided Policy Optimization Method</h3>
+        <h3>RAPO **R**isk-guided **A**dversarial **P**olicy **O**ptimization **M**ethod</h3>
         <p>This method generates more diverse and plausible scenarios more efficiently.</p>
         <span class="details-link">Read more</span>
       </div>
