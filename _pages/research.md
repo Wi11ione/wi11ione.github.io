@@ -50,6 +50,15 @@ redirect_from:
   - "/nmp.html"
 ---
 
+---
+permalink: /research/
+title: "Research Experience"
+author_profile: true
+redirect_from: 
+  - "/nmp/"
+  - "/nmp.html"
+---
+
 ## Research Experience
 
 ## Institute of Intelligent Vehicles, [Tongji University](https://www.tongji.edu.cn/eng/), 2022.9-Present
@@ -208,7 +217,8 @@ redirect_from:
 
 .research-item img {
   width: 200px;
-  height: auto;
+  height: 100%;
+  object-fit: cover;
 }
 
 .research-text {
@@ -218,7 +228,7 @@ redirect_from:
   justify-content: center;
 }
 
-.research-item h3, .research-item h4, .research-item p, .research-item ul {
+.research-item h4, .research-item p {
   margin: 5px 0;
 }
 
@@ -227,6 +237,10 @@ redirect_from:
 }
 
 .research-item a {
+  text-decoration: none;
+}
+
+.research-item a:hover {
   text-decoration: none;
 }
 </style>
