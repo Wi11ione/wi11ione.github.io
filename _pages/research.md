@@ -49,7 +49,7 @@ redirect_from:
 <div class="research-grid">
   <div class="research-item">
     <a href="{{ site.url }}/research/key-technologies/risk-guided-policy-optimization/">
-      <img src="path_to_image.jpg" alt="Risk-Guided Policy Optimization">
+      <img src="/images/paper1-framework.png" alt="Risk-Guided Policy Optimization">
       <div class="research-text">
         <h3>RAPO **R**isk-guided **A**dversarial **P**olicy **O**ptimization **M**ethod</h3>
         <p>This method generates more diverse and plausible scenarios more efficiently.</p>
@@ -60,7 +60,7 @@ redirect_from:
   
   <div class="research-item">
     <a href="{{ site.url }}/research/key-technologies/adversarial-traffic-participant-behavior/">
-      <img src="path_to_image.jpg" alt="Adversarial Traffic Participant Behavior">
+      <img src="/images/paper1-framework.png" alt="Adversarial Traffic Participant Behavior">
       <div class="research-text">
         <h3>Proposed an Adversarial Traffic Participant Behavior Model</h3>
         <p>This model combines traffic prior and reinforcement learning to solve limitations in adversarial scenario generation.</p>
@@ -71,7 +71,7 @@ redirect_from:
 
   <div class="research-item">
     <a href="{{ site.url }}/research/key-technologies/safety-critical-scenario-generation/">
-      <img src="path_to_image.jpg" alt="Safety-Critical Scenario Generation">
+      <img src="/images/paper1-framework.png" alt="Safety-Critical Scenario Generation">
       <div class="research-text">
         <h3>Proposed a Safety-Critical Scenario Generation Method</h3>
         <p>This method combines dynamic and static scenario parameters to improve efficiency.</p>
