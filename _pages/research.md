@@ -41,7 +41,6 @@ redirect_from:
     * Designed a lane change decision-making algorithm combining risk and efficiency and a lane-changing trajectory planning & control algorithm considering driving comfort and stability
     * Designed a lane detection hardware-in-the-loop test platform
 
-
 ---
 permalink: /research/
 title: "Research Experience"
@@ -53,108 +52,101 @@ redirect_from:
 
 ## Research Experience
 
-### Key Technologies for Self-Evolving Learning-Based Autonomous Driving Systems (2022.9-Present, Tongji University)
+## Institute of Intelligent Vehicles, [Tongji University](https://www.tongji.edu.cn/eng/), 2022.9-Present
 
+### Self-Evolving Learning-Based Autonomous Driving Systems: Safety-Critical Scenario Generation
 <div class="research-grid">
-  <a class="research-item" href="{{ site.url }}/research/key-technologies/risk-guided-policy-optimization/">
-    <img src="/images/paper1-framework.png" alt="Risk-Guided Policy Optimization">
-    <div class="research-text">
-      <h3>Proposed a Risk-Guided Policy Optimization Method</h3>
-      <p>This method generates more diverse and plausible scenarios more efficiently.</p>
-      <span class="details-link">Read more</span>
-    </div>
-  </a>
-  
-  <a class="research-item" href="{{ site.url }}/research/key-technologies/adversarial-traffic-participant-behavior/">
-    <img src="/images/paper1-framework.png" alt="Adversarial Traffic Participant Behavior">
-    <div class="research-text">
-      <h3>Proposed an Adversarial Traffic Participant Behavior Model</h3>
-      <p>This model combines traffic prior and reinforcement learning to solve limitations in adversarial scenario generation.</p>
-      <span class="details-link">Read more</span>
-    </div>
-  </a>
-
-  <a class="research-item" href="{{ site.url }}/research/key-technologies/safety-critical-scenario-generation/">
+  <a class="research-item" href="{{ site.url }}/research/self-evolving-learning/safety-critical-scenario-generation/">
     <img src="/images/paper1-framework.png" alt="Safety-Critical Scenario Generation">
     <div class="research-text">
-      <h3>Proposed a Safety-Critical Scenario Generation Method</h3>
-      <p>This method combines dynamic and static scenario parameters to improve efficiency.</p>
-      <span class="details-link">Read more</span>
+      <h3>Self-Evolving Learning-Based Autonomous Driving Systems: Safety-Critical Scenario Generation</h3>
+      <p>Supported by the National Key R&D Program of China under Grant No2022YFB2502900, directed by Prof. Yanjun Huang</p>
+      <h4>Results achieved 2022.9-2024.4</h4>
+      <ul>
+        <li>Proposed a risk-guided policy optimization method for safety-critical scenario generation, which generates more diverse and plausible scenarios more efficiently.</li>
+        <li>Proposed an adversarial traffic participant behavior model combining traffic prior and reinforcement learning, which solves the limitation that adversarial scenario generation can only be applied to specific working conditions.</li>
+        <li>Proposed a safety-critical scenario generation method combining dynamic and static scenario parameters, which greatly improves the efficiency of scenario generation.</li>
+      </ul>
+      <h4>Work in progress 2024.3-Present</h4>
+      <ul>
+        <li>Quantifying the diversity of scenarios and improving the diversity in safety-critical scenario generation for a comprehensive evaluation of autonomous vehicles.</li>
+        <li>Working on combining naturalistic driving data with adversarial scenario generation to improve the naturalness and plausibility of the generated scenario.</li>
+      </ul>
     </div>
   </a>
 </div>
 
-### Adaptive Evolution and Evaluation of Secure and Confident Intelligent Systems (2023.1-Present, Tongji University)
+## Adaptive Evolution and Evaluation of Secure and Confident Intelligent Systems, supported by the National Natural Science Foundation of China under Grant U23B2061, directed by Prof. Yanjun Huang, 2023.1-Present
 
+### Adaptive Evolution and Evaluation
 <div class="research-grid">
-  <a class="research-item" href="{{ site.url }}/research/adaptive-evolution/safety-analysis/">
-    <img src="/images/paper1-framework.png" alt="Safety Analysis">
+  <a class="research-item" href="{{ site.url }}/research/adaptive-evolution/evaluation/">
+    <img src="/images/paper1-framework.png" alt="Adaptive Evolution and Evaluation">
     <div class="research-text">
-      <h3>Proposed an Approach for Safety Analysis</h3>
-      <p>This approach analyzes autonomous vehicles from complex safety-critical scenario data.</p>
-      <span class="details-link">Read more</span>
-    </div>
-  </a>
-  
-  <a class="research-item" href="{{ site.url }}/research/adaptive-evolution/safety-boundary-identification/">
-    <img src="/images/paper1-framework.png" alt="Safety Boundary Identification">
-    <div class="research-text">
-      <h3>Proposed a Safety Boundary Online Identification Method</h3>
-      <p>This method learns from the test data under a long-tailed environment.</p>
-      <span class="details-link">Read more</span>
+      <h3>Adaptive Evolution and Evaluation of Secure and Confident Intelligent Systems: Safety Evaluation of Autonomous Vehicles in Complex Environments</h3>
+      <p>Supported by the National Natural Science Foundation of China under Grant U23B2061, directed by Prof. Yanjun Huang</p>
+      <h4>Results achieved 2023.1-2024.5</h4>
+      <ul>
+        <li>Proposed an approach for the safety analysis of autonomous vehicles from complex safety-critical scenario data, which can intuitively reveal the distribution and characteristics of safety-critical scenarios for any given algorithm.</li>
+        <li>Proposed a safety boundary online identification method that learns from the test data under a long-tailed environment.</li>
+      </ul>
     </div>
   </a>
 </div>
 
-### Self-Evolutionary Methods and Applications for Intelligent Systems in Complex Environments (2022.9-Present, Tongji University)
+## Self-Evolutionary Methods and Applications for Intelligent Systems in Complex Environments, supported by Fundamental Research Funds for the Central Universities, Ministry of Education of China, directed by Prof. Yanjun Huang, 2022.9-Present
 
+### Self-Evolutionary Methods
 <div class="research-grid">
-  <a class="research-item" href="{{ site.url }}/research/self-evolutionary-methods/data-closed-loop/">
-    <img src="/images/paper1-framework.png" alt="Data Closed Loop">
+  <a class="research-item" href="{{ site.url }}/research/self-evolutionary-methods/applications/">
+    <img src="/images/paper1-framework.png" alt="Self-Evolutionary Methods and Applications">
     <div class="research-text">
-      <h3>Reviewed Research Related to Data-Closed Loop</h3>
-      <p>Proposed a self-evolution mechanism for autonomous driving algorithms.</p>
-      <span class="details-link">Read more</span>
-    </div>
-  </a>
-  
-  <a class="research-item" href="{{ site.url }}/research/self-evolutionary-methods/continual-reinforcement-learning/">
-    <img src="/images/paper1-framework.png" alt="Continual Reinforcement Learning">
-    <div class="research-text">
-      <h3>Applying Continual Reinforcement Learning Methods</h3>
-      <p>Improving self-evolution of autonomous driving algorithms under safety-critical scenarios.</p>
-      <span class="details-link">Read more</span>
-    </div>
-  </a>
-  
-  <a class="research-item" href="{{ site.url }}/research/self-evolutionary-methods/mixed-reality-simulation/">
-    <img src="/images/paper1-framework.png" alt="Mixed-Reality Simulation">
-    <div class="research-text">
-      <h3>Constructing a Mixed-Reality Simulation Platform</h3>
-      <p>Combining vehicle hardware in the loop and virtual traffic scenarios.</p>
-      <span class="details-link">Read more</span>
+      <h3>Self-Evolutionary Methods and Applications for Intelligent Systems in Complex Environments: Close-loop Self-Evolve Mechanism for Autonomous Vehicle Based on Mixed Reality Testing</h3>
+      <p>Supported by Fundamental Research Funds for the Central Universities, Ministry of Education of China, directed by Prof. Yanjun Huang</p>
+      <h4>Results achieved 2022.9-2023.9</h4>
+      <ul>
+        <li>Reviewed the research related to data-closed loop and proposed a self-evolution mechanism for autonomous driving algorithm.</li>
+      </ul>
+      <h4>Work in progress 2023.10-Present</h4>
+      <ul>
+        <li>Working on applying continual reinforcement learning methods to improve the self-evolution of autonomous driving algorithms under safety-critical scenarios.</li>
+        <li>Participated in constructing a mixed-reality simulation platform for autonomous vehicles by combining vehicle hardware in the loop and virtual traffic scenarios.</li>
+      </ul>
     </div>
   </a>
 </div>
 
-### State Key Laboratory of Automotive Simulation and Control (2019.3-2021.6, Jilin University)
+## State Key Laboratory of Automotive Simulation and Control, [Jilin University](https://www.jlu.edu.cn/#), 2019.3-2021.6
 
+### New Generation Chassis Vehicle Traveling System
 <div class="research-grid">
   <a class="research-item" href="{{ site.url }}/research/new-generation-chassis/">
     <img src="/images/paper1-framework.png" alt="New Generation Chassis">
     <div class="research-text">
-      <h3>Design of New Generation Chassis Vehicle Traveling System</h3>
-      <p>Analysis of its dynamic performance with four-wheel independent drive and steering.</p>
-      <span class="details-link">Read more</span>
+      <h3>Design of New Generation Chassis Vehicle Traveling System and Analysis of Its Dynamic Performance</h3>
+      <p>Directed by Prof. Hsin Guan and Prof. Pingping Lu</p>
+      <h4>Results achieved 2020.9-2021.6</h4>
+      <ul>
+        <li>Designed a new traveling system with four-wheel independent drive and four-wheel independent steering.</li>
+        <li>Modeling of the vehicle dynamics and the distribution algorithm of steering angles and torques of four wheels.</li>
+        <li>Vehicle dynamics simulation and its performance analysis based on Matlab/Simulink and Carsim.</li>
+      </ul>
     </div>
   </a>
-  
+</div>
+
+### Active Lane-Changing System for Intelligent Vehicle
+<div class="research-grid">
   <a class="research-item" href="{{ site.url }}/research/active-lane-changing-system/">
     <img src="/images/paper1-framework.png" alt="Active Lane-Changing System">
     <div class="research-text">
-      <h3>Design of Active Lane-Changing System for Intelligent Vehicle</h3>
-      <p>Including hardware-in-the-loop testing.</p>
-      <span class="details-link">Read more</span>
+      <h3>Design of Active Lane-Changing System for Intelligent Vehicle and Its Hardware-in-the-Loop Testing</h3>
+      <p>Directed by Prof. Bing Zhu</p>
+      <h4>Results achieved 2019.3-2020.9</h4>
+      <ul>
+        <li>Designed a lane change decision-making algorithm combining risk and efficiency and a lane-changing trajectory planning & control algorithm considering driving comfort and stability.</li>
+        <li>Designed a lane detection hardware-in-the-loop test platform.</li>
+      </ul>
     </div>
   </a>
 </div>
@@ -188,11 +180,7 @@ redirect_from:
   justify-content: center;
 }
 
-.research-item h3 {
-  margin: 0 0 10px;
-}
-
-.research-item p {
+.research-item h3, .research-item h4, .research-item p, .research-item ul {
   margin: 5px 0;
 }
 
@@ -207,5 +195,9 @@ redirect_from:
 
 .research-item:hover {
   transform: scale(1.02);
+}
+
+.research-item a {
+  text-decoration: none;
 }
 </style>
