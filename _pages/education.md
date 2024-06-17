@@ -20,18 +20,23 @@ redirect_from:
     * Principles of Artificial Intelligence (5.0/5.0)
       
 ---
+
 * **[Jilin University](https://www.jlu.edu.cn/#)**, Changchun, China, 2017.9-2021.6
   * **Degree:** B.Eng. Automotive Engineering
   * **GPA:** 3.71/4.00 （89.9/100｜JLU Outstanding Student）
   * **Core Courses:**
-    * Mathematical Model (4.0/4.0)
+    * Differentiation and Integration (4.0/4.0)
+    * Probability Theory and Mathematical Statistics (4.0/4.0)
+    * Calculation Method (4.0/4.0)
+    * Maths Experiment (4.0/4.0)
+    * Automotive Theory (4.0/4.0)
+    * Vehicle Construction (4.0/4.0)
+    * Electrical Engineering (4.0/4.0)
     * C Program Design (4.0/4.0)
-    * Fundamentals of Computer Technology (3.9/4.0),
-    * Advanced Mathematics (4.0/4.0)
-    * Probability and Statistics (4.0/4.0)
-    * Automobile Construction (4.0/4.0),
-    * Theory of Vehicle Control (4.0/4.0)
-    * Automobile Electronic Control Technology (4.0/4.0)
+    * Principles of Mechanics (4.0/4.0)
+    * Fundamentals of Computer Technology (4.0/4.0)
+    * Fundamentals of Control Engineering (4.0/4.0)
+    * Microcomputer Principle and Interface Technology (4.0/4.0)
       
 ---
       
