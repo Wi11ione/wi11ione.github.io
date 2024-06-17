@@ -28,23 +28,23 @@ redirect_from:
 }
 
 .research-image {
-  width: 150px;
+  width: 50%;
   height: auto;
-  margin-right: 20px;
 }
 
 .research-text {
   flex: 1;
   padding: 20px;
+  width: 50%;
 }
 </style>
 
-# Institute of Intelligent Vehicles, [Tongji University](https://www.tongji.edu.cn/eng/), 2022.9-Present
+# Institute of Intelligent Vehicles, Tongji University, 2022.9-Present
 
 ---
 
 ## Self-Evolving Learning-Based Autonomous Driving Systems: Safety-Critical Scenario Generation
-#### supported by the National Key R&D Program of China under Grant No2022YFB2502900, directed by Prof. Yanjun Huang
+supported by the National Key R&D Program of China under Grant No2022YFB2502900, directed by Prof. Yanjun Huang
 
 ---
 
@@ -94,7 +94,7 @@ redirect_from:
 ---
 
 ## Adaptive Evolution and Evaluation of Secure and Confident Intelligent Systems: Safety Evaluation of Autonomous Vehicles in Complex Environments
-#### supported by the National Natural Science Foundation of China under Grant U23B2061, directed by Prof. Yanjun Huang
+supported by the National Natural Science Foundation of China under Grant U23B2061, directed by Prof. Yanjun Huang
 
 ---
 
@@ -118,7 +118,7 @@ redirect_from:
 ---
 
 ## Self-Evolutionary Methods and Applications for Intelligent Systems in Complex Environments: Close-loop Self-Evolve Mechanism for Autonomous Vehicle Based on Mixed Reality Testing
-#### supported by Fundamental Research Funds for the Central Universities, Ministry of Education of China, directed by Prof. Yanjun Huang
+supported by Fundamental Research Funds for the Central Universities, Ministry of Education of China, directed by Prof. Yanjun Huang
 
 ---
 
@@ -153,12 +153,12 @@ redirect_from:
 
 ---
 
-# State Key Laboratory of Automotive Simulation and Control, [Jilin University](https://www.jlu.edu.cn/#), 2019.3-2021.6
+# State Key Laboratory of Automotive Simulation and Control, Jilin University, 2019.3-2021.6
 
 ---
 
 ## Design of New Generation Chassis Vehicle Traveling System and Analysis of Its Dynamic Performance
-#### directed by Prof. Hsin Guan and Prof. Pingping Lu
+directed by Prof. Hsin Guan and Prof. Pingping Lu
 
 ---
 
@@ -177,7 +177,7 @@ redirect_from:
 ---
 
 ## Design of Active Lane-Changing System for Intelligent Vehicle and Its Hardware-in-the-Loop Testing
-#### supported by the National Key R&D Program of China under Grant No2022YFB2502900, directed by Prof. Bing Zhu
+supported by the National Key R&D Program of China under Grant No2022YFB2502900, directed by Prof. Bing Zhu
 
 ---
 
