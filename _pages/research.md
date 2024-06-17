@@ -55,7 +55,27 @@ h3 {
   padding: 15px;
 }
 
+
+  .research-item a {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  overflow: hidden;
+  width: 100%;
+  text-decoration: none;
+  color: inherit;
+  margin-bottom: 20px;
+  transition: transform 0.3s ease;
+  padding: 15px;
+}
+
 .research-item:hover {
+  transform: scale(1.05);
+}
+
+.research-item a:hover {
   transform: scale(1.05);
 }
 
@@ -121,25 +141,6 @@ h3 {
 
   .research-text {
     padding-left: 0;
-
-  .research-item a {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  border: 1px solid #ddd;
-  border-radius: 5px;
-  overflow: hidden;
-  width: 100%;
-  text-decoration: none;
-  color: inherit;
-  margin-bottom: 20px;
-  transition: transform 0.3s ease;
-  padding: 15px;
-}
-
-.research-item a:hover {
-  transform: scale(1.05);
-}
   }
 }
 </style>
