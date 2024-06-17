@@ -42,7 +42,7 @@ h3 {
 
 .research-item {
   display: flex;
-  flex-direction: row;
+  flex-direction: row; /* 确保在大屏幕时图片和文字并排显示 */
   align-items: center;
   border: 1px solid #ddd;
   border-radius: 5px;
@@ -104,6 +104,24 @@ h3 {
 
 .date-location .date, .date-location .location {
   margin-right: 5px;
+}
+
+/* Media query for smaller screens */
+@media (max-width: 768px) {
+  .research-item {
+    flex-direction: column; /* 在小屏幕时垂直排列 */
+    text-align: center;
+  }
+
+  .research-image {
+    width: 100%;
+    max-height: 150px;
+    margin-bottom: 10px;
+  }
+
+  .research-text {
+    padding-left: 0;
+  }
 }
 </style>
 
