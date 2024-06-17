@@ -26,6 +26,7 @@ redirect_from:
   color: inherit;
   margin-bottom: 20px;
   transition: transform 0.3s ease;
+  height: 200px; /* 固定框的高度 */
 }
 
 .research-item:hover {
@@ -34,7 +35,8 @@ redirect_from:
 
 .research-image {
   width: 50%;
-  height: auto;
+  height: 100%; /* 固定图片的高度 */
+  object-fit: cover; /* 确保图片在框内保持合适的比例 */
 }
 
 .research-text {
@@ -43,11 +45,13 @@ redirect_from:
   width: 50%;
 }
 
-.research-item h4 {
+.research-item h4,
+.research-item a {
   text-decoration: none;
 }
 
-.research-item:hover h4 {
+.research-item:hover h4,
+.research-item:hover a {
   text-decoration: none;
 }
 </style>
@@ -198,10 +202,4 @@ supported by the National Key R&D Program of China under Grant No2022YFB2502900,
 <div class="research-grid">
   <a class="research-item" href="{{ site.url }}/research/active-lane-changing-system/">
     <img src="/images/paper1-framework.png" alt="Active Lane-Changing System" class="research-image">
-    <div class="research-text">
-      <h4>We designed a lane change decision-making algorithm combining risk and efficiency and a lane-changing trajectory planning & control algorithm considering driving comfort and stability.</h4>
-      <h4>We designed a lane detection hardware-in-the-loop test platform.</h4>
-    </div>
-  </a>
-</div>
-</div>
+   
