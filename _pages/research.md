@@ -25,6 +25,11 @@ redirect_from:
   text-decoration: none;
   color: inherit;
   margin-bottom: 20px;
+  transition: transform 0.3s ease;
+}
+
+.research-item:hover {
+  transform: scale(1.05);
 }
 
 .research-image {
@@ -36,6 +41,14 @@ redirect_from:
   flex: 1;
   padding: 20px;
   width: 50%;
+}
+
+.research-item h4 {
+  text-decoration: none;
+}
+
+.research-item:hover h4 {
+  text-decoration: none;
 }
 </style>
 
