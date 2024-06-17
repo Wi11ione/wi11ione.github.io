@@ -270,4 +270,53 @@ supported by Fundamental Research Funds for the Central Universities, Ministry o
 
 ---
 
+## State Key Laboratory of Automotive Simulation and Control, Jilin University, 2017.9-2021.7
+---
+### Undergraduate thesis: Design of New Generation Chassis Vehicle and Analysis of Its Dynamic Performance
+Undergraduate Thesis, Directed by Prof. Hsin Guan and Prof.Pingping Lu
+
+---
+<div class="research-grid">
+  <div class="research-item">
+    <img src="/images/PriorRiskEstimationModel.png" alt="Risk-Guided Adversarial Policy Optimization for Safety-Critical Scenario Generation" class="research-image">
+    <div class="research-text">
+      <h4>Design of New Generation Chassis Vehicle and Analysis of Its Dynamic Performance</h4>
+      <p>Designed a new chassis with four-wheel independent drive and four-wheel steering.</p>
+      <p>Designed an algorithm for the torque distribution and steering angle control of each wheel considering maneuverability and stability.</p>
+      <p>Vehicle dynamics simulation and its performance analysis based on Matlab/Simulink and CarSim.</p>
+      <div class="date-location">
+        <div class="date">Date: 2020.9-2021.5</div>
+        <div class="location">Location: Jilin University</div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="research-item">
+    <img src="/images/PriorTrafficModel_Illustration.png" alt="Adversarial Traffic Participant Behavior" class="research-image">
+    <div class="research-text">
+      <h4>Adversarial Traffic Participants Behavior Model</h4>
+      <p>We proposed an adversarial traffic participant behavior model combining traffic prior and reinforcement learning, which solves the limitation that adversarial scenario generation can only be applied to specific working conditions.</p>
+      <div class="date-location">
+        <div class="date">Date: 2023.9-2023.12</div>
+        <div class="location">Location: Tongji University</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="research-item">
+    <img src="/images/paper1-framework.png" alt="Safety-Critical Scenario Generation" class="research-image">
+    <div class="research-text">
+      <h4>Safety-Critical Scenario Generation Method Combining Dynamic and Static Scenario Parameters</h4>
+      <p>We proposed a safety-critical scenario generation method combining dynamic and static scenario parameters, which greatly improves the efficiency of scenario generation.</p>
+      <div class="date-location">
+        <div class="date">Date: 2023.12-2024.3</div>
+        <div class="location">Location: Tongji University</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+---
+
+
 
