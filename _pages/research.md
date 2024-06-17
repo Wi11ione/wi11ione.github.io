@@ -40,25 +40,10 @@ h3 {
   gap: 20px;
 }
 
-.research-item {
+.research-item,
+.research-item a {
   display: flex;
   flex-direction: row; /* 确保在大屏幕时图片和文字并排显示 */
-  align-items: flex-start;
-  border: 1px solid #ddd;
-  border-radius: 5px;
-  overflow: hidden;
-  width: 100%;
-  text-decoration: none;
-  color: inherit;
-  margin-bottom: 20px;
-  transition: transform 0.3s ease;
-  padding: 15px;
-}
-
-
-  .research-item a {
-  display: flex;
-  flex-direction: row;
   align-items: center;
   border: 1px solid #ddd;
   border-radius: 5px;
@@ -71,10 +56,7 @@ h3 {
   padding: 15px;
 }
 
-.research-item:hover {
-  transform: scale(1.05);
-}
-
+.research-item:hover,
 .research-item a:hover {
   transform: scale(1.05);
 }
@@ -90,7 +72,7 @@ h3 {
 }
 
 .research-text {
-  width: 50%; /* 确保文本占据图片之外的剩余空间 */
+  flex: 1;
   font-family: Arial, sans-serif;
 }
 
@@ -117,30 +99,24 @@ h3 {
   margin-top: 10px;
 }
 
-.date-location .date, .date-location .location {
+.date-location .date,
+.date-location .location {
   display: flex;
   align-items: center;
-}
-
-.date-location .date, .date-location .location {
   margin-right: 5px;
 }
 
-/* Media query for smaller screens */
 @media (max-width: 768px) {
-  .research-item {
-    flex-direction: column; /* 在小屏幕时垂直排列 */
-    text-align: center;
+  .research-item,
+  .research-item a {
+    flex-direction: column;
+    align-items: flex-start;
   }
 
   .research-image {
     width: 100%;
-    max-height: 150px;
+    margin-right: 0;
     margin-bottom: 10px;
-  }
-
-  .research-text {
-    padding-left: 0;
   }
 }
 </style>
