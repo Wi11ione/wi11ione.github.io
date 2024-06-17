@@ -37,6 +37,7 @@ redirect_from:
   width: 50%;
   height: 100%; /* 固定图片的高度 */
   object-fit: cover; /* 确保图片在框内保持合适的比例 */
+  object-position: top; /* 确保图片从顶部开始显示 */
 }
 
 .research-text {
@@ -161,7 +162,7 @@ supported by Fundamental Research Funds for the Central Universities, Ministry o
   </a>
   
   <a class="research-item" href="{{ site.url }}/research/self-evolutionary-methods/applications/mixed-reality-simulation/">
-    <img src="/images/paper1-framework.png" alt="Mixed-Reality Simulation" class="research-image">
+    <img src="/images/MixedReality.png" alt="Mixed-Reality Simulation" class="research-image">
     <div class="research-text">
       <h4>We are working on constructing a mixed-reality simulation platform for autonomous vehicles by combining vehicle hardware in the loop and virtual traffic scenarios.</h4>
     </div>
@@ -202,4 +203,5 @@ supported by the National Key R&D Program of China under Grant No2022YFB2502900,
 <div class="research-grid">
   <a class="research-item" href="{{ site.url }}/research/active-lane-changing-system/">
     <img src="/images/paper1-framework.png" alt="Active Lane-Changing System" class="research-image">
-   
+    <div class="research-text">
+      <h
