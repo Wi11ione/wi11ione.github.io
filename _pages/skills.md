@@ -14,18 +14,18 @@ redirect_from:
     
 * **Software Skills**:
   * Carla 
-  * Carsim
-  * Prescan
+  * CarSim
+  * PreScan
   * SCANeR
     
 * **Development Tools**:
-  * Pytorch
+  * PyTorch
   * Gym
-  * Tensorflow
+  * TensorFlow
 
 * **Programming**:
   * Python
-  * Matlab
+  * MATLAB
   * Simulink
   * C/C++
 
