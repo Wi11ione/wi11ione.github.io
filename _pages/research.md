@@ -178,27 +178,31 @@ supported by the National Key R&D Program of China under Grant No2022YFB2502900,
 #### Work in progress 2024.3-Present
 <div class="research-grid">
   <div class="research-item">
-    <img src="/images/DiversityImprovement.png" alt="Scenario Diversity" class="research-image">
-    <div class="research-text">
-      <h4>Improve the Diversity of Safety-Critical Scenarios</h4>
-      <p>We are working on quantifying the diversity of scenarios and improving the diversity in safety-critical scenario generation for a comprehensive evaluation of autonomous vehicles.</p>
-      <div class="date-location">
-        <div class="date">Date: 2024.3-Present</div>
-        <div class="location">Location: Tongji University</div>
+    <a href="{{ site.baseurl }}/research/Diversity/">
+      <img src="/images/DiversityImprovement.png" alt="Scenario Diversity" class="research-image">
+      <div class="research-text">
+        <h4>Improve the Diversity of Safety-Critical Scenarios</h4>
+        <p>We are working on quantifying the diversity of scenarios and improving the diversity in safety-critical scenario generation for a comprehensive evaluation of autonomous vehicles.</p>
+        <div class="date-location">
+          <div class="date">Date: 2024.3-Present</div>
+          <div class="location">Location: Tongji University</div>
+        </div>
       </div>
-    </div>
+    </a>
   </div>
   
   <div class="research-item">
-    <img src="/images/Reality.png" alt="Naturalistic Driving Data" class="research-image">
-    <div class="research-text">
-      <h4>Improve the Naturalness and Plausibility of Safety-Critical Scenarios</h4>
-      <p>We are working on combining naturalistic driving data with adversarial scenario generation to improve the naturalness and plausibility of the generated scenario.</p>
-      <div class="date-location">
-        <div class="date">Date: 2024.5-Present</div>
-        <div class="location">Location: Tongji University</div>
+    <a href="{{ site.baseurl }}/research/Reality/">
+      <img src="/images/Reality.png" alt="Naturalistic Driving Data" class="research-image">
+      <div class="research-text">
+        <h4>Improve the Naturalness and Plausibility of Safety-Critical Scenarios with Naturalistic Driving Data</h4>
+        <p>We are working on combining naturalistic driving data with adversarial scenario generation to improve the naturalness and plausibility of the generated scenario.</p>
+        <div class="date-location">
+          <div class="date">Date: 2024.5-Present</div>
+          <div class="location">Location: Tongji University</div>
+        </div>
       </div>
-    </div>
+    </a>
   </div>
 </div>
 
@@ -212,27 +216,31 @@ supported by the National Natural Science Foundation of China under Grant U23B20
 #### Results achieved 2023.1-2024.5
 <div class="research-grid">
   <div class="research-item">
-    <img src="/images/paper4-framework.png" alt="Safety Analysis" class="research-image">
-    <div class="research-text">
-      <h4>Safety Analysis and Evaluation in Complex Scenarios</h4>
-      <p>We proposed an approach for the safety analysis of autonomous vehicles from complex safety-critical scenario data, which can intuitively reveal the distribution and characteristics of safety-critical scenarios for any given algorithm.</p>
-      <div class="date-location">
-        <div class="date">Date: 2023.1-2024.5</div>
-        <div class="location">Location: Tongji University</div>
+    <a href="{{ site.baseurl }}/research/SAECS/">
+      <img src="/images/paper4-framework.png" alt="Safety Analysis" class="research-image">
+      <div class="research-text">
+        <h4>Safety Analysis and Evaluation in Complex Scenarios</h4>
+        <p>We proposed an approach for the safety analysis of autonomous vehicles from complex safety-critical scenario data, which can intuitively reveal the distribution and characteristics of safety-critical scenarios for any given algorithm.</p>
+        <div class="date-location">
+          <div class="date">Date: 2023.1-2024.5</div>
+          <div class="location">Location: Tongji University</div>
+        </div>
       </div>
-    </div>
+    </a>
   </div>
   
   <div class="research-item">
-    <img src="/images/SafetyBoundaryIndentification_Illustration.png" alt="Safety Boundary Identification" class="research-image">
-    <div class="research-text">
-      <h4>Safety Boundary Identification in Long-Tailed Environment</h4>
-      <p>We proposed a safety boundary online identification method that learns from the test data under a long-tailed environment.</p>
-      <div class="date-location">
-        <div class="date">Date: 2023.1-2024.5</div>
-        <div class="location">Location: Tongji University</div>
+    <a href="{{ site.baseurl }}/research/SBI/">
+      <img src="/images/SafetyBoundaryIndentification_Illustration.png" alt="Safety Boundary Identification" class="research-image">
+      <div class="research-text">
+        <h4>Safety Boundary Identification in Long-Tailed Environment</h4>
+        <p>We proposed a safety boundary online identification method that learns from the test data under a long-tailed environment.</p>
+        <div class="date-location">
+          <div class="date">Date: 2023.1-2024.5</div>
+          <div class="location">Location: Tongji University</div>
+        </div>
       </div>
-    </div>
+    </a>
   </div>
 </div>
 
@@ -246,15 +254,17 @@ supported by Fundamental Research Funds for the Central Universities, Ministry o
 #### Results achieved 2022.9-2023.9
 <div class="research-grid">
   <div class="research-item">
-    <img src="/images/paper2-framework.png" alt="Data Closed-Loop Platform" class="research-image">
-    <div class="research-text">
-      <h4>Data Closed Loop</h4>
-      <p>We reviewed the research related to data-closed loop and proposed a self-evolution mechanism for the autonomous driving algorithm.</p>
-      <div class="date-location">
-        <div class="date">Date: 2022.9-2023.9</div>
-        <div class="location">Location: Tongji University</div>
+    <a href="{{ site.baseurl }}/research/DCL/">
+      <img src="/images/paper2-framework.png" alt="Data Closed-Loop Platform" class="research-image">
+      <div class="research-text">
+        <h4>Data Closed Loop</h4>
+        <p>We reviewed the research related to data-closed loop and proposed a self-evolution mechanism for the autonomous driving algorithm.</p>
+        <div class="date-location">
+          <div class="date">Date: 2022.9-2023.9</div>
+          <div class="location">Location: Tongji University</div>
+        </div>
       </div>
-    </div>
+    </a>
   </div>
 </div>
 
@@ -263,30 +273,33 @@ supported by Fundamental Research Funds for the Central Universities, Ministry o
 #### Work in progress 2023.10-Present
 <div class="research-grid">
   <div class="research-item">
-    <img src="/images/SelfEvolveMechanisim_Framework.png" alt="Self-Evolve Mechanism" class="research-image">
-    <div class="research-text">
-      <h4>Self-Evolve Mechanism for Decision-Making Algorithms</h4>
-      <p>We are working on the closed-loop self-evolve mechanism for autonomous driving algorithms under safety-critical scenarios.</p>
-      <div class="date-location">
-        <div class="date">Date: 2023.10-Present</div>
-        <div class="location">Location: Tongji University</div>
+    <a href="{{ site.baseurl }}/research/SEMDMA/">
+      <img src="/images/SelfEvolveMechanisim_Framework.png" alt="Self-Evolve Mechanism" class="research-image">
+      <div class="research-text">
+        <h4>Self-Evolve Mechanism for Decision-Making Algorithms</h4>
+        <p>We are working on the closed-loop self-evolve mechanism for autonomous driving algorithms under safety-critical scenarios.</p>
+        <div class="date-location">
+          <div class="date">Date: 2023.10-Present</div>
+          <div class="location">Location: Tongji University</div>
+        </div>
       </div>
-    </div>
+    </a>
   </div>
 </div>
 
 <div class="research-grid">
   <div class="research-item">
-    <img src="/images/MixedReality.png" alt="Mixed-Reality Testing" class="research-image">
-    <div class="research-text">
-       <a href="{{ site.baseurl }}/research/RAPO/">
-      <h4>Mixed-Reality Testing</h4>
-      <p>We are working on constructing a mixed-reality simulation test platform by combining vehicle hardware-in-the-loop and generated virtual traffic scenarios.</p>
-      <div class="date-location">
-        <div class="date">Date: 2023.10-Present</div>
-        <div class="location">Location: Tongji University</div>
+    <a href="{{ site.baseurl }}/research/MRT/">
+      <img src="/images/MixedReality.png" alt="Mixed-Reality Testing" class="research-image">
+      <div class="research-text">
+        <h4>Mixed-Reality Testing</h4>
+        <p>We are working on constructing a mixed-reality simulation test platform by combining vehicle hardware-in-the-loop and generated virtual traffic scenarios.</p>
+        <div class="date-location">
+          <div class="date">Date: 2023.10-Present</div>
+          <div class="location">Location: Tongji University</div>
+        </div>
       </div>
-    </div>
+    </a>
   </div>
 </div>
 
@@ -298,33 +311,36 @@ supported by Fundamental Research Funds for the Central Universities, Ministry o
 
 <div class="research-grid">
   <div class="research-item">
-    <img src="/images/JLU1.png" alt="Risk-Guided Adversarial Policy Optimization for Safety-Critical Scenario Generation" class="research-image">
-    <div class="research-text">
-      <h4>Design of New Generation Chassis Vehicle and Analysis of Its Dynamic Performance</h4>
-      <p>Designed a new chassis with four-wheel independent drive and four-wheel steering.</p>
-      <p>Designed an algorithm for the torque distribution and steering angle control of each wheel considering maneuverability and stability.</p>
-      <p>Vehicle dynamics simulation and its performance analysis based on Matlab/Simulink and CarSim.</p>
-      <div class="date-location">
-        <div class="date">Date: 2020.9-2021.5</div>
-        <div class="location">Location: Jilin University</div>
+    <a href="{{ site.baseurl }}/research/DNC/">
+      <img src="/images/JLU1.png" alt="Risk-Guided Adversarial Policy Optimization for Safety-Critical Scenario Generation" class="research-image">
+      <div class="research-text">
+        <h4>Design of New Generation Chassis Vehicle and Analysis of Its Dynamic Performance</h4>
+        <p>Designed a new chassis with four-wheel independent drive and four-wheel steering.</p>
+        <p>Designed an algorithm for the torque distribution and steering angle control of each wheel considering maneuverability and stability.</p>
+        <p>Vehicle dynamics simulation and its performance analysis based on Matlab/Simulink and CarSim.</p>
+        <div class="date-location">
+          <div class="date">Date: 2020.9-2021.5</div>
+          <div class="location">Location: Jilin University</div>
+        </div>
       </div>
-    </div>
+    </a>
   </div>
 
   <div class="research-item">
-    <img src="/images/JLU2.png" alt="Adversarial Traffic Participant Behavior" class="research-image">
-    <div class="research-text">
-      <h4>Design of Automated Lane-Changing System for Intelligent Vehicle and Its Hardware-in-the-Loop Testing</h4>
-      <p>Designed a lane-change decision-making algorithm combining risk and efficiency and a lane-changing trajectory planning and control algorithm considering driving comfort and stability.</p>
-      <p>Designed a hardware-in-the-loop testing platform, and tested and evaluated the designed automated lane-changing system.</p>
-      <div class="date-location">
-        <div class="date">Date: 2018.9-2020.7</div>
-        <div class="location">Location: Jilin University</div>
+    <a href="{{ site.baseurl }}/research/ALCS/">
+      <img src="/images/JLU2.png" alt="Adversarial Traffic Participant Behavior" class="research-image">
+      <div class="research-text">
+        <h4>Design of Automated Lane-Changing System for Intelligent Vehicle and Its Hardware-in-the-Loop Testing</h4>
+        <p>Designed a lane-change decision-making algorithm combining risk and efficiency and a lane-changing trajectory planning and control algorithm considering driving comfort and stability.</p>
+        <p>Designed a hardware-in-the-loop testing platform, and tested and evaluated the designed automated lane-changing system.</p>
+        <div class="date-location">
+          <div class="date">Date: 2018.9-2020.7</div>
+          <div class="location">Location: Jilin University</div>
+        </div>
       </div>
-    </div>
+    </a>
   </div>
+</div>
 
 ---
-
-
 
