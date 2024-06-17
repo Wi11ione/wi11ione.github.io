@@ -128,7 +128,7 @@ supported by the National Key R&D Program of China under Grant No2022YFB2502900,
   </div>
   
   <div class="research-item">
-    <img src="/images/PriorTrafficModel_Framework.png" alt="Adversarial Traffic Participant Behavior" class="research-image">
+    <img src="/images/PriorTrafficModel_Illustration.png" alt="Adversarial Traffic Participant Behavior" class="research-image">
     <div class="research-text">
       <h4>Adversarial Traffic Participants Behavior Model</h4>
       <p>We proposed an adversarial traffic participant behavior model combining traffic prior and reinforcement learning, which solves the limitation that adversarial scenario generation can only be applied to specific working conditions.</p>
@@ -169,7 +169,7 @@ supported by the National Key R&D Program of China under Grant No2022YFB2502900,
   </div>
   
   <div class="research-item">
-    <img src="/images/paper1-framework.png" alt="Naturalistic Driving Data" class="research-image">
+    <img src="/images/Reality.png" alt="Naturalistic Driving Data" class="research-image">
     <div class="research-text">
       <h4>Improve the Naturalness and Plausibility of Safety-Critical Scenarios</h4>
       <p>We are working on combining naturalistic driving data with adversarial scenario generation to improve the naturalness and plausibility of the generated scenario.</p>
