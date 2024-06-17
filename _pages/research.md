@@ -130,7 +130,7 @@ supported by the National Key R&D Program of China under Grant No2022YFB2502900,
 #### Results achieved 2022.9-2024.4
 <div class="research-grid">
   <div class="research-item">
-  <a href="{{ site.baseurl }}/research/RAPO/">
+  <a href="{{ site.baseurl }}/research/RAPO.md">
       <img src="/images/PriorRiskEstimationModel.png" alt="Risk-Guided Adversarial Policy Optimization for Safety-Critical Scenario Generation" class="research-image">
       <div class="research-text">
         <h4>Risk-Guided Adversarial Policy Optimization</h4>
