@@ -271,11 +271,9 @@ supported by Fundamental Research Funds for the Central Universities, Ministry o
 ---
 
 ## State Key Laboratory of Automotive Simulation and Control, Jilin University, 2017.9-2021.5
----
-
-Undergraduate Thesis, Directed by Prof. Hsin Guan and Prof.Pingping Lu
 
 ---
+
 <div class="research-grid">
   <div class="research-item">
     <img src="/images/PriorRiskEstimationModel.png" alt="Risk-Guided Adversarial Policy Optimization for Safety-Critical Scenario Generation" class="research-image">
@@ -290,10 +288,6 @@ Undergraduate Thesis, Directed by Prof. Hsin Guan and Prof.Pingping Lu
       </div>
     </div>
   </div>
-  
----
-
-Directed by Prof. Bing Zhu
 
 ---
 
