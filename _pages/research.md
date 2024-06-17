@@ -183,12 +183,12 @@ supported by the National Key R&D Program of China under Grant No2022YFB2502900,
 
 ---
 
-## Adaptive Evolution and Evaluation of Secure and Confident Intelligent Systems: Safety Evaluation of Autonomous Vehicles in Complex Environments
+### Adaptive Evolution and Evaluation of Secure and Confident Intelligent Systems: Safety Evaluation of Autonomous Vehicles in Complex Environments
 supported by the National Natural Science Foundation of China under Grant U23B2061, directed by Prof. Yanjun Huang
 
 ---
 
-### Results achieved 2023.1-2024.5
+#### Results achieved 2023.1-2024.5
 <div class="research-grid">
   <div class="research-item">
     <img src="/images/paper4-framework.png" alt="Safety Analysis" class="research-image">
@@ -217,12 +217,12 @@ supported by the National Natural Science Foundation of China under Grant U23B20
 
 ---
 
-## Self-Evolutionary Methods and Applications for Intelligent Systems in Complex Environments: Close-loop Self-Evolve Mechanism for Autonomous Vehicle Based on Mixed Reality Testing
+### Self-Evolutionary Methods and Applications for Intelligent Systems in Complex Environments: Close-loop Self-Evolve Mechanism for Autonomous Vehicle Based on Mixed Reality Testing
 supported by Fundamental Research Funds for the Central Universities, Ministry of Education of China, directed by Prof. Yanjun Huang
 
 ---
 
-### Results achieved 2022.9-2023.9
+#### Results achieved 2022.9-2023.9
 <div class="research-grid">
   <div class="research-item">
     <img src="/images/paper2-framework.png" alt="Data Closed-Loop Platform" class="research-image">
@@ -239,7 +239,7 @@ supported by Fundamental Research Funds for the Central Universities, Ministry o
 
 ---
 
-### Work in progress 2023.10-Present
+#### Work in progress 2023.10-Present
 <div class="research-grid">
   <div class="research-item">
     <img src="/images/SelfEvolveMechanisim_Framework.png" alt="Self-Evolve Mechanism" class="research-image">
@@ -254,7 +254,6 @@ supported by Fundamental Research Funds for the Central Universities, Ministry o
   </div>
 </div>
 
-### Work in progress 2023.10-Present
 <div class="research-grid">
   <div class="research-item">
     <img src="/images/MixedReality.png" alt="Mixed-Reality Testing" class="research-image">
@@ -268,3 +267,7 @@ supported by Fundamental Research Funds for the Central Universities, Ministry o
     </div>
   </div>
 </div>
+
+---
+
+
