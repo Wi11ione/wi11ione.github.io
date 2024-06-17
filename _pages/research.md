@@ -26,7 +26,7 @@ redirect_from:
   color: inherit;
   margin-bottom: 20px;
   transition: transform 0.3s ease;
-  height: 200px; /* 固定框的高度 */
+  height: 220px; /* 固定框的高度 */
 }
 
 .research-item:hover {
@@ -45,6 +45,7 @@ redirect_from:
   flex: 1;
   padding: 20px;
   width: 50%;
+  font-family: Arial, sans-serif; /* 调整字体 */
 }
 
 .research-item h4,
@@ -53,6 +54,13 @@ redirect_from:
   text-decoration: none !important;
   margin: 0;
   color: inherit; /* 确保文字颜色一致 */
+  font-size: 14px; /* 缩小字号 */
+  line-height: 1.5; /* 增加行高使其更易阅读 */
+}
+
+.research-item h4 {
+  font-size: 16px; /* 调整标题字号 */
+  font-weight: bold; /* 加粗标题 */
 }
 
 .research-item:hover h4,
@@ -171,3 +179,14 @@ supported by the National Natural Science Foundation of China under Grant U23B20
 </div>
 
 ---
+
+## Self-Evolutionary Methods and Applications for Intelligent Systems in Complex Environments: Close-loop Self-Evolve Mechanism for Autonomous Vehicle Based on Mixed Reality Testing
+supported by Fundamental Research Funds for the Central Universities, Ministry of Education of China, directed by Prof. Yanjun Huang
+
+---
+
+### Results achieved 2022.9-2023.9
+<div class="research-grid">
+  <a class="research-item" href="{{ site.url }}/research/self-evolutionary-methods/applications/data-closed-loop/">
+    <img src="/images/paper2-framework.png" alt="Data Closed Loop" class="research-image">
+    <div class
