@@ -52,6 +52,7 @@ redirect_from:
 .research-item a {
   text-decoration: none;
   margin: 0;
+  color: inherit; /* 确保文字颜色一致 */
 }
 
 .research-item:hover h4,
@@ -166,7 +167,6 @@ supported by the National Natural Science Foundation of China under Grant U23B20
 </div>
 
 ---
-
 ## Self-Evolutionary Methods and Applications for Intelligent Systems in Complex Environments: Close-loop Self-Evolve Mechanism for Autonomous Vehicle Based on Mixed Reality Testing
 supported by Fundamental Research Funds for the Central Universities, Ministry of Education of China, directed by Prof. Yanjun Huang
 
