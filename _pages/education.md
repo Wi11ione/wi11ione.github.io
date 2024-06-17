@@ -17,7 +17,8 @@ redirect_from:
   * **Core Courses:**
     * Traffic Engineering (5.0/5.0)
     * Transport Data Analysis (5.0/5.0)
-    * Principles of Artificial Intelligence (5.0/5.0)      
+    * Principles of Artificial Intelligence (5.0/5.0)
+      
 ---
 * **[Jilin University](https://www.jlu.edu.cn/#)**, Changchun, China, 2017.9-2021.6
   * **Degree:** B.Eng. Automotive Engineering
@@ -31,5 +32,6 @@ redirect_from:
     * Automobile Construction (4.0/4.0),
     * Theory of Vehicle Control (4.0/4.0)
     * Automobile Electronic Control Technology (4.0/4.0)
+      
 ---
       
