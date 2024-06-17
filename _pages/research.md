@@ -289,8 +289,6 @@ supported by Fundamental Research Funds for the Central Universities, Ministry o
     </div>
   </div>
 
----
-
   <div class="research-item">
     <img src="" alt="Adversarial Traffic Participant Behavior" class="research-image">
     <div class="research-text">
