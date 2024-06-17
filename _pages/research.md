@@ -242,7 +242,7 @@ supported by Fundamental Research Funds for the Central Universities, Ministry o
 ### Work in progress 2023.10-Present
 <div class="research-grid">
   <div class="research-item">
-    <img src="/images/SelfEvolveMechanisim.png" alt="Self-Evolve Mechanism" class="research-image">
+    <img src="/images/SelfEvolveMechanisim_Framework.png" alt="Self-Evolve Mechanism" class="research-image">
     <div class="research-text">
       <h4>Data Closed Loop</h4>
       <p>We are working on the closed-loop self-evolve mechanism for autonomous driving algorithms under safety-critical scenarios.</p>
