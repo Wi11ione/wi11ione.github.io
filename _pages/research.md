@@ -107,8 +107,6 @@ h3 {
 }
 </style>
 
-# Research Experience
-
 ## Institute of Intelligent Vehicles, Tongji University, 2022.9-Present
 
 ---
