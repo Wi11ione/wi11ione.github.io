@@ -48,11 +48,14 @@ redirect_from:
 }
 
 .research-item h4,
+.research-item p,
 .research-item a {
   text-decoration: none;
+  margin: 0;
 }
 
 .research-item:hover h4,
+.research-item:hover p,
 .research-item:hover a {
   text-decoration: none;
 }
@@ -72,21 +75,33 @@ supported by the National Key R&D Program of China under Grant No2022YFB2502900,
   <a class="research-item" href="{{ site.url }}/research/self-evolving-learning/safety-critical-scenario-generation/risk-guided-policy-optimization/">
     <img src="/images/PriorRiskEstimationModel.png" alt="Risk-Guided Policy Optimization" class="research-image">
     <div class="research-text">
-      <h4>We proposed a risk-guided policy optimization method for safety-critical scenario generation, which generates more diverse and plausible scenarios more efficiently.</h4>
+      <h4>Risk-Guided Policy Optimization</h4>
+      <p>We proposed a risk-guided policy optimization method for safety-critical scenario generation, which generates more diverse and plausible scenarios more efficiently.</p>
+      <p><strong>Location:</strong> Tongji University</p>
+      <p><strong>Supervisor:</strong> Prof. Yanjun Huang</p>
+      <p><strong>Duration:</strong> 2022.9-2024.4</p>
     </div>
   </a>
   
   <a class="research-item" href="{{ site.url }}/research/self-evolving-learning/safety-critical-scenario-generation/adversarial-traffic-participant-behavior/">
     <img src="/images/PriorTrafficModel_Framework.png" alt="Adversarial Traffic Participant Behavior" class="research-image">
     <div class="research-text">
-      <h4>We proposed an adversarial traffic participant behavior model combining traffic prior and reinforcement learning, which solves the limitation that adversarial scenario generation can only be applied to specific working conditions.</h4>
+      <h4>Adversarial Traffic Participant Behavior</h4>
+      <p>We proposed an adversarial traffic participant behavior model combining traffic prior and reinforcement learning, which solves the limitation that adversarial scenario generation can only be applied to specific working conditions.</p>
+      <p><strong>Location:</strong> Tongji University</p>
+      <p><strong>Supervisor:</strong> Prof. Yanjun Huang</p>
+      <p><strong>Duration:</strong> 2022.9-2024.4</p>
     </div>
   </a>
 
   <a class="research-item" href="{{ site.url }}/research/self-evolving-learning/safety-critical-scenario-generation/safety-critical-scenario-generation/">
     <img src="/images/paper1-framework.png" alt="Safety-Critical Scenario Generation" class="research-image">
     <div class="research-text">
-      <h4>We proposed a safety-critical scenario generation method combining dynamic and static scenario parameters, which greatly improves the efficiency of scenario generation.</h4>
+      <h4>Safety-Critical Scenario Generation</h4>
+      <p>We proposed a safety-critical scenario generation method combining dynamic and static scenario parameters, which greatly improves the efficiency of scenario generation.</p>
+      <p><strong>Location:</strong> Tongji University</p>
+      <p><strong>Supervisor:</strong> Prof. Yanjun Huang</p>
+      <p><strong>Duration:</strong> 2022.9-2024.4</p>
     </div>
   </a>
 </div>
@@ -98,14 +113,22 @@ supported by the National Key R&D Program of China under Grant No2022YFB2502900,
   <a class="research-item" href="{{ site.url }}/research/self-evolving-learning/safety-critical-scenario-generation/scenario-diversity/">
     <img src="/images/DiversityImprovement.png" alt="Scenario Diversity" class="research-image">
     <div class="research-text">
-      <h4>We are working on quantifying the diversity of scenarios and improving the diversity in safety-critical scenario generation for a comprehensive evaluation of autonomous vehicles.</h4>
+      <h4>Scenario Diversity</h4>
+      <p>We are working on quantifying the diversity of scenarios and improving the diversity in safety-critical scenario generation for a comprehensive evaluation of autonomous vehicles.</p>
+      <p><strong>Location:</strong> Tongji University</p>
+      <p><strong>Supervisor:</strong> Prof. Yanjun Huang</p>
+      <p><strong>Duration:</strong> 2024.3-Present</p>
     </div>
   </a>
   
   <a class="research-item" href="{{ site.url }}/research/self-evolving-learning/safety-critical-scenario-generation/naturalistic-driving-data/">
     <img src="/images/paper1-framework.png" alt="Naturalistic Driving Data" class="research-image">
     <div class="research-text">
-      <h4>We are working on combining naturalistic driving data with adversarial scenario generation to improve the naturalness and plausibility of the generated scenario.</h4>
+      <h4>Naturalistic Driving Data</h4>
+      <p>We are working on combining naturalistic driving data with adversarial scenario generation to improve the naturalness and plausibility of the generated scenario.</p>
+      <p><strong>Location:</strong> Tongji University</p>
+      <p><strong>Supervisor:</strong> Prof. Yanjun Huang</p>
+      <p><strong>Duration:</strong> 2024.3-Present</p>
     </div>
   </a>
 </div>
@@ -122,14 +145,22 @@ supported by the National Natural Science Foundation of China under Grant U23B20
   <a class="research-item" href="{{ site.url }}/research/adaptive-evolution/safety-evaluation/safety-analysis/">
     <img src="/images/paper4-framework.png" alt="Safety Analysis" class="research-image">
     <div class="research-text">
-      <h4>We proposed an approach for the safety analysis of autonomous vehicles from complex safety-critical scenario data, which can intuitively reveal the distribution and characteristics of safety-critical scenarios for any given algorithm.</h4>
+      <h4>Safety Analysis</h4>
+      <p>We proposed an approach for the safety analysis of autonomous vehicles from complex safety-critical scenario data, which can intuitively reveal the distribution and characteristics of safety-critical scenarios for any given algorithm.</p>
+      <p><strong>Location:</strong> Tongji University</p>
+      <p><strong>Supervisor:</strong> Prof. Yanjun Huang</p>
+      <p><strong>Duration:</strong> 2023.1-2024.5</p>
     </div>
   </a>
   
   <a class="research-item" href="{{ site.url }}/research/adaptive-evolution/safety-evaluation/safety-boundary-identification/">
     <img src="/images/SafetyBoundaryIndentification_Illustration.png" alt="Safety Boundary Identification" class="research-image">
     <div class="research-text">
-      <h4>We proposed a safety boundary online identification method that learns from the test data under a long-tailed environment.</h4>
+      <h4>Safety Boundary Identification</h4>
+      <p>We proposed a safety boundary online identification method that learns from the test data under a long-tailed environment.</p>
+      <p><strong>Location:</strong> Tongji University</p>
+      <p><strong>Supervisor:</strong> Prof. Yanjun Huang</p>
+      <p><strong>Duration:</strong> 2023.1-2024.5</p>
     </div>
   </a>
 </div>
