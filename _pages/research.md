@@ -50,7 +50,7 @@ redirect_from:
 .research-item h4,
 .research-item p,
 .research-item a {
-  text-decoration: none;
+  text-decoration: none !important;
   margin: 0;
   color: inherit; /* 确保文字颜色一致 */
 }
@@ -58,7 +58,11 @@ redirect_from:
 .research-item:hover h4,
 .research-item:hover p,
 .research-item:hover a {
-  text-decoration: none;
+  text-decoration: none !important;
+}
+
+a {
+  text-decoration: none !important;
 }
 </style>
 
@@ -167,70 +171,3 @@ supported by the National Natural Science Foundation of China under Grant U23B20
 </div>
 
 ---
-## Self-Evolutionary Methods and Applications for Intelligent Systems in Complex Environments: Close-loop Self-Evolve Mechanism for Autonomous Vehicle Based on Mixed Reality Testing
-supported by Fundamental Research Funds for the Central Universities, Ministry of Education of China, directed by Prof. Yanjun Huang
-
----
-
-### Results achieved 2022.9-2023.9
-<div class="research-grid">
-  <a class="research-item" href="{{ site.url }}/research/self-evolutionary-methods/applications/data-closed-loop/">
-    <img src="/images/paper2-framework.png" alt="Data Closed Loop" class="research-image">
-    <div class="research-text">
-      <h4>We reviewed the research related to data-closed loop and proposed a self-evolution mechanism for autonomous driving algorithm.</h4>
-    </div>
-  </a>
-</div>
-
----
-
-### Work in progress 2023.10-Present
-<div class="research-grid">
-  <a class="research-item" href="{{ site.url }}/research/self-evolutionary-methods/applications/continual-reinforcement-learning/">
-    <img src="/images/SelfEvolveMechanisim_Framework.png" alt="Continual Reinforcement Learning" class="research-image">
-    <div class="research-text">
-      <h4>We are working on applying continual reinforcement learning methods to improve the self-evolution of autonomous driving algorithms under safety-critical scenarios.</h4>
-    </div>
-  </a>
-  
-  <a class="research-item" href="{{ site.url }}/research/self-evolutionary-methods/applications/mixed-reality-simulation/">
-    <img src="/images/paper1-framework.png" alt="Mixed-Reality Simulation" class="research-image">
-    <div class="research-text">
-      <h4>We are working on constructing a mixed-reality simulation platform for autonomous vehicles by combining vehicle hardware in the loop and virtual traffic scenarios.</h4>
-    </div>
-  </a>
-</div>
-
----
-
-# State Key Laboratory of Automotive Simulation and Control, Jilin University, 2019.3-2021.6
-
----
-
-## Design of New Generation Chassis Vehicle Traveling System and Analysis of Its Dynamic Performance
-directed by Prof. Hsin Guan and Prof. Pingping Lu
-
----
-
-### Results achieved 2020.9-2021.6
-<div class="research-grid">
-  <a class="research-item" href="{{ site.url }}/research/new-generation-chassis/">
-    <img src="/images/paper1-framework.png" alt="New Generation Chassis" class="research-image">
-    <div class="research-text">
-      <h4>I designed a new traveling system with four-wheel independent drive and four-wheel independent steering.</h4>
-      <h4>I built the vehicle dynamic model and designed the distribution algorithm of steering angles and torques of four wheels.</h4>
-      <h4>I conducted vehicle dynamics simulation and its performance analysis based on Matlab/Simulink and Carsim.</h4>
-    </div>
-  </a>
-</div>
-
----
-
-## Design of Active Lane-Changing System for Intelligent Vehicle and Its Hardware-in-the-Loop Testing
-supported by the National Key R&D Program of China under Grant No2022YFB2502900, directed by Prof. Bing Zhu
-
----
-
-### Results achieved 2019.3-2020.9
-<div class="research-grid">
- 
