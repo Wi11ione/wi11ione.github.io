@@ -60,7 +60,7 @@ Software Copyright， under review
 
 <img src="/images/copyright-scenario-framework.png" alt="Paper 1 Image" style="width:400px;">
 
-**Introduction:** We propose a software to generate safety-critical scenarios for the evaluation of autonomous driving decision-making algorithms. Given the map information, traffic rule information, and traffic density information of the test scenarios, the software can quickly generate reasonable, realistic, and diverse safety-critical scenarios for any autonomous driving algorithms, which is conducive to the comprehensive evaluation of algorithm performance.
+**Introduction:** We designed a software to generate safety-critical scenarios for the evaluation of autonomous driving decision-making algorithms. Given the map information, traffic rule information, and traffic density information of the test scenarios, the software can quickly generate reasonable, realistic, and diverse safety-critical scenarios for any autonomous driving algorithms, which is conducive to the comprehensive evaluation of algorithm performance.
 
 ---
 
