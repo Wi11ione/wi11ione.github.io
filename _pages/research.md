@@ -38,6 +38,7 @@ redirect_from:
   height: 100%; /* 固定图片的高度 */
   object-fit: cover; /* 确保图片在框内保持合适的比例 */
   object-position: top; /* 确保图片从顶部开始显示 */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* 添加阴影 */
 }
 
 .research-text {
@@ -201,7 +202,4 @@ supported by the National Key R&D Program of China under Grant No2022YFB2502900,
 
 ### Results achieved 2019.3-2020.9
 <div class="research-grid">
-  <a class="research-item" href="{{ site.url }}/research/active-lane-changing-system/">
-    <img src="/images/paper1-framework.png" alt="Active Lane-Changing System" class="research-image">
-    <div class="research-text">
-      <h
+ 
