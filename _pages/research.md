@@ -57,84 +57,6 @@ redirect_from:
 }
 </style>
 
-<script>
-function selectRandomImage(images) {
-  return images[Math.floor(Math.random() * images.length)];
-}
-
-document.addEventListener("DOMContentLoaded", function() {
-  const imageSelections = {
-    'risk-guided-policy-optimization': [
-      '/images/PriorRiskEstimationModel1.png',
-      '/images/PriorRiskEstimationModel2.png',
-      '/images/PriorRiskEstimationModel3.png'
-    ],
-    'adversarial-traffic-participant-behavior': [
-      '/images/PriorTrafficModel_Framework1.png',
-      '/images/PriorTrafficModel_Framework2.png',
-      '/images/PriorTrafficModel_Framework3.png'
-    ],
-    'safety-critical-scenario-generation': [
-      '/images/paper1-framework1.png',
-      '/images/paper1-framework2.png',
-      '/images/paper1-framework3.png'
-    ],
-    'scenario-diversity': [
-      '/images/DiversityImprovement1.png',
-      '/images/DiversityImprovement2.png',
-      '/images/DiversityImprovement3.png'
-    ],
-    'naturalistic-driving-data': [
-      '/images/paper1-framework1.png',
-      '/images/paper1-framework2.png',
-      '/images/paper1-framework3.png'
-    ],
-    'safety-analysis': [
-      '/images/paper4-framework1.png',
-      '/images/paper4-framework2.png',
-      '/images/paper4-framework3.png'
-    ],
-    'safety-boundary-identification': [
-      '/images/SafetyBoundaryIndentification_Illustration1.png',
-      '/images/SafetyBoundaryIndentification_Illustration2.png',
-      '/images/SafetyBoundaryIndentification_Illustration3.png'
-    ],
-    'data-closed-loop': [
-      '/images/paper2-framework1.png',
-      '/images/paper2-framework2.png',
-      '/images/paper2-framework3.png'
-    ],
-    'continual-reinforcement-learning': [
-      '/images/SelfEvolveMechanisim_Framework1.png',
-      '/images/SelfEvolveMechanisim_Framework2.png',
-      '/images/SelfEvolveMechanisim_Framework3.png'
-    ],
-    'mixed-reality-simulation': [
-      '/images/paper1-framework1.png',
-      '/images/paper1-framework2.png',
-      '/images/paper1-framework3.png'
-    ],
-    'new-generation-chassis': [
-      '/images/paper1-framework1.png',
-      '/images/paper1-framework2.png',
-      '/images/paper1-framework3.png'
-    ],
-    'active-lane-changing-system': [
-      '/images/paper1-framework1.png',
-      '/images/paper1-framework2.png',
-      '/images/paper1-framework3.png'
-    ]
-  };
-
-  document.querySelectorAll('.research-item img').forEach(function(img) {
-    const key = img.dataset.key;
-    if (imageSelections[key]) {
-      img.src = selectRandomImage(imageSelections[key]);
-    }
-  });
-});
-</script>
-
 # Institute of Intelligent Vehicles, Tongji University, 2022.9-Present
 
 ---
@@ -147,21 +69,21 @@ supported by the National Key R&D Program of China under Grant No2022YFB2502900,
 ### Results achieved 2022.9-2024.4
 <div class="research-grid">
   <a class="research-item" href="{{ site.url }}/research/self-evolving-learning/safety-critical-scenario-generation/risk-guided-policy-optimization/">
-    <img src="" alt="Risk-Guided Policy Optimization" class="research-image" data-key="risk-guided-policy-optimization">
+    <img src="/images/PriorRiskEstimationModel.png" alt="Risk-Guided Policy Optimization" class="research-image">
     <div class="research-text">
       <h4>We proposed a risk-guided policy optimization method for safety-critical scenario generation, which generates more diverse and plausible scenarios more efficiently.</h4>
     </div>
   </a>
   
   <a class="research-item" href="{{ site.url }}/research/self-evolving-learning/safety-critical-scenario-generation/adversarial-traffic-participant-behavior/">
-    <img src="" alt="Adversarial Traffic Participant Behavior" class="research-image" data-key="adversarial-traffic-participant-behavior">
+    <img src="/images/PriorTrafficModel_Framework.png" alt="Adversarial Traffic Participant Behavior" class="research-image">
     <div class="research-text">
       <h4>We proposed an adversarial traffic participant behavior model combining traffic prior and reinforcement learning, which solves the limitation that adversarial scenario generation can only be applied to specific working conditions.</h4>
     </div>
   </a>
 
   <a class="research-item" href="{{ site.url }}/research/self-evolving-learning/safety-critical-scenario-generation/safety-critical-scenario-generation/">
-    <img src="" alt="Safety-Critical Scenario Generation" class="research-image" data-key="safety-critical-scenario-generation">
+    <img src="/images/paper1-framework.png" alt="Safety-Critical Scenario Generation" class="research-image">
     <div class="research-text">
       <h4>We proposed a safety-critical scenario generation method combining dynamic and static scenario parameters, which greatly improves the efficiency of scenario generation.</h4>
     </div>
@@ -173,14 +95,14 @@ supported by the National Key R&D Program of China under Grant No2022YFB2502900,
 ### Work in progress 2024.3-Present
 <div class="research-grid">
   <a class="research-item" href="{{ site.url }}/research/self-evolving-learning/safety-critical-scenario-generation/scenario-diversity/">
-    <img src="" alt="Scenario Diversity" class="research-image" data-key="scenario-diversity">
+    <img src="/images/DiversityImprovement.png" alt="Scenario Diversity" class="research-image">
     <div class="research-text">
       <h4>We are working on quantifying the diversity of scenarios and improving the diversity in safety-critical scenario generation for a comprehensive evaluation of autonomous vehicles.</h4>
     </div>
   </a>
   
   <a class="research-item" href="{{ site.url }}/research/self-evolving-learning/safety-critical-scenario-generation/naturalistic-driving-data/">
-    <img src="" alt="Naturalistic Driving Data" class="research-image" data-key="naturalistic-driving-data">
+    <img src="/images/paper1-framework.png" alt="Naturalistic Driving Data" class="research-image">
     <div class="research-text">
       <h4>We are working on combining naturalistic driving data with adversarial scenario generation to improve the naturalness and plausibility of the generated scenario.</h4>
     </div>
@@ -197,14 +119,14 @@ supported by the National Natural Science Foundation of China under Grant U23B20
 ### Results achieved 2023.1-2024.5
 <div class="research-grid">
   <a class="research-item" href="{{ site.url }}/research/adaptive-evolution/safety-evaluation/safety-analysis/">
-    <img src="" alt="Safety Analysis" class="research-image" data-key="safety-analysis">
+    <img src="/images/paper4-framework.png" alt="Safety Analysis" class="research-image">
     <div class="research-text">
       <h4>We proposed an approach for the safety analysis of autonomous vehicles from complex safety-critical scenario data, which can intuitively reveal the distribution and characteristics of safety-critical scenarios for any given algorithm.</h4>
     </div>
   </a>
   
   <a class="research-item" href="{{ site.url }}/research/adaptive-evolution/safety-evaluation/safety-boundary-identification/">
-    <img src="" alt="Safety Boundary Identification" class="research-image" data-key="safety-boundary-identification">
+    <img src="/images/SafetyBoundaryIndentification_Illustration.png" alt="Safety Boundary Identification" class="research-image">
     <div class="research-text">
       <h4>We proposed a safety boundary online identification method that learns from the test data under a long-tailed environment.</h4>
     </div>
@@ -221,3 +143,65 @@ supported by Fundamental Research Funds for the Central Universities, Ministry o
 ### Results achieved 2022.9-2023.9
 <div class="research-grid">
   <a class="research-item" href="{{ site.url }}/research/self-evolutionary-methods/applications/data-closed-loop/">
+    <img src="/images/paper2-framework.png" alt="Data Closed Loop" class="research-image">
+    <div class="research-text">
+      <h4>We reviewed the research related to data-closed loop and proposed a self-evolution mechanism for autonomous driving algorithm.</h4>
+    </div>
+  </a>
+</div>
+
+---
+
+### Work in progress 2023.10-Present
+<div class="research-grid">
+  <a class="research-item" href="{{ site.url }}/research/self-evolutionary-methods/applications/continual-reinforcement-learning/">
+    <img src="/images/SelfEvolveMechanisim_Framework.png" alt="Continual Reinforcement Learning" class="research-image">
+    <div class="research-text">
+      <h4>We are working on applying continual reinforcement learning methods to improve the self-evolution of autonomous driving algorithms under safety-critical scenarios.</h4>
+    </div>
+  </a>
+  
+  <a class="research-item" href="{{ site.url }}/research/self-evolutionary-methods/applications/mixed-reality-simulation/">
+    <img src="/images/paper1-framework.png" alt="Mixed-Reality Simulation" class="research-image">
+    <div class="research-text">
+      <h4>We are working on constructing a mixed-reality simulation platform for autonomous vehicles by combining vehicle hardware in the loop and virtual traffic scenarios.</h4>
+    </div>
+  </a>
+</div>
+
+---
+
+# State Key Laboratory of Automotive Simulation and Control, Jilin University, 2019.3-2021.6
+
+---
+
+## Design of New Generation Chassis Vehicle Traveling System and Analysis of Its Dynamic Performance
+directed by Prof. Hsin Guan and Prof. Pingping Lu
+
+---
+
+### Results achieved 2020.9-2021.6
+<div class="research-grid">
+  <a class="research-item" href="{{ site.url }}/research/new-generation-chassis/">
+    <img src="/images/paper1-framework.png" alt="New Generation Chassis" class="research-image">
+    <div class="research-text">
+      <h4>I designed a new traveling system with four-wheel independent drive and four-wheel independent steering.</h4>
+      <h4>I built the vehicle dynamic model and designed the distribution algorithm of steering angles and torques of four wheels.</h4>
+      <h4>I conducted vehicle dynamics simulation and its performance analysis based on Matlab/Simulink and Carsim.</h4>
+    </div>
+  </a>
+</div>
+
+---
+
+## Design of Active Lane-Changing System for Intelligent Vehicle and Its Hardware-in-the-Loop Testing
+supported by the National Key R&D Program of China under Grant No2022YFB2502900, directed by Prof. Bing Zhu
+
+---
+
+### Results achieved 2019.3-2020.9
+<div class="research-grid">
+  <a class="research-item" href="{{ site.url }}/research/active-lane-changing-system/">
+    <img src="/images/paper1-framework.png" alt="Active Lane-Changing System" class="research-image">
+    <div class="research-text">
+      <h
