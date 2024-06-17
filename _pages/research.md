@@ -8,6 +8,11 @@ redirect_from:
 ---
 
 <style>
+body {
+  width: 90%;
+  margin: 0 auto;
+}
+
 .research-grid {
   display: flex;
   flex-wrap: wrap;
@@ -26,7 +31,6 @@ redirect_from:
   color: inherit;
   margin-bottom: 20px;
   transition: transform 0.3s ease;
-  height: auto;
   padding: 15px;
 }
 
@@ -41,12 +45,11 @@ redirect_from:
   object-fit: cover;
   object-position: top;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  margin-bottom: 10px;
+  margin-right: 20px;
 }
 
 .research-text {
   flex: 1;
-  padding-left: 20px;
   font-family: Arial, sans-serif;
 }
 
@@ -65,31 +68,8 @@ redirect_from:
   font-weight: bold;
 }
 
-.research-meta {
-  display: flex;
-  align-items: center;
-  font-size: 12px;
-  color: #888;
-  margin-top: 10px;
-}
-
-.research-meta img {
-  margin-right: 5px;
-}
-
-.research-item:hover h4,
-.research-item:hover p,
-.research-item:hover a {
-  text-decoration: none !important;
-}
-
-a {
-  text-decoration: none !important;
-}
-
 .date-location {
   display: flex;
-  justify-content: space-between;
   align-items: center;
   font-size: 12px;
   color: #888;
@@ -126,7 +106,6 @@ supported by the National Key R&D Program of China under Grant No2022YFB2502900,
         <div class="date">Date: 2022.9-2024.4</div>
         <div class="location">Location: Tongji University</div>
       </div>
-      <p><strong>Supervisor:</strong> Prof. Yanjun Huang</p>
     </div>
   </div>
   
@@ -139,7 +118,6 @@ supported by the National Key R&D Program of China under Grant No2022YFB2502900,
         <div class="date">Date: 2022.9-2024.4</div>
         <div class="location">Location: Tongji University</div>
       </div>
-      <p><strong>Supervisor:</strong> Prof. Yanjun Huang</p>
     </div>
   </div>
 
@@ -152,7 +130,6 @@ supported by the National Key R&D Program of China under Grant No2022YFB2502900,
         <div class="date">Date: 2022.9-2024.4</div>
         <div class="location">Location: Tongji University</div>
       </div>
-      <p><strong>Supervisor:</strong> Prof. Yanjun Huang</p>
     </div>
   </div>
 </div>
@@ -170,7 +147,6 @@ supported by the National Key R&D Program of China under Grant No2022YFB2502900,
         <div class="date">Date: 2024.3-Present</div>
         <div class="location">Location: Tongji University</div>
       </div>
-      <p><strong>Supervisor:</strong> Prof. Yanjun Huang</p>
     </div>
   </div>
   
@@ -183,7 +159,6 @@ supported by the National Key R&D Program of China under Grant No2022YFB2502900,
         <div class="date">Date: 2024.3-Present</div>
         <div class="location">Location: Tongji University</div>
       </div>
-      <p><strong>Supervisor:</strong> Prof. Yanjun Huang</p>
     </div>
   </div>
 </div>
@@ -206,7 +181,6 @@ supported by the National Natural Science Foundation of China under Grant U23B20
         <div class="date">Date: 2023.1-2024.5</div>
         <div class="location">Location: Tongji University</div>
       </div>
-      <p><strong>Supervisor:</strong> Prof. Yanjun Huang</p>
     </div>
   </div>
   
@@ -219,7 +193,6 @@ supported by the National Natural Science Foundation of China under Grant U23B20
         <div class="date">Date: 2023.1-2024.5</div>
         <div class="location">Location: Tongji University</div>
       </div>
-      <p><strong>Supervisor:</strong> Prof. Yanjun Huang</p>
     </div>
   </div>
 </div>
@@ -237,4 +210,26 @@ supported by Fundamental Research Funds for the Central Universities, Ministry o
     <img src="/images/paper2-framework.png" alt="Data Closed Loop" class="research-image">
     <div class="research-text">
       <h4>Data Closed Loop</h4>
-      <p>We reviewed the research related to data-closed loop and proposed a self-evolution mechanism
+      <p>We reviewed the research related to data-closed loop and proposed a self-evolution mechanism for autonomous driving algorithm.</p>
+      <div class="date-location">
+        <div class="date">Date: 2022.9-2023.9</div>
+        <div class="location">Location: Tongji University</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+---
+
+### Work in progress 2023.10-Present
+<div class="research-grid">
+  <div class="research-item">
+    <img src="/images/SelfEvolveMechanisim_Framework.png" alt="Continual Reinforcement Learning" class="research-image">
+    <div class="research-text">
+      <h4>Continual Reinforcement Learning</h4>
+      <p>We are working on applying continual reinforcement learning methods to improve the self-evolution of autonomous driving algorithms under safety-critical scenarios.</p>
+      <div class="date-location">
+        <div class="date">Date: 2023.10-Present</div>
+        <div class="location">Location: Tongji University</div>
+      </div>
+    </div
