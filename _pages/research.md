@@ -7,6 +7,38 @@ redirect_from:
   - "/nmp.html"
 ---
 
+<style>
+.research-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.research-item {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  overflow: hidden;
+  width: 100%;
+  text-decoration: none;
+  color: inherit;
+  margin-bottom: 20px;
+}
+
+.research-image {
+  width: 150px;
+  height: auto;
+  margin-right: 20px;
+}
+
+.research-text {
+  flex: 1;
+  padding: 20px;
+}
+</style>
+
 # Institute of Intelligent Vehicles, [Tongji University](https://www.tongji.edu.cn/eng/), 2022.9-Present
 
 ---
@@ -19,29 +51,23 @@ redirect_from:
 ### Results achieved 2022.9-2024.4
 <div class="research-grid">
   <a class="research-item" href="{{ site.url }}/research/self-evolving-learning/safety-critical-scenario-generation/risk-guided-policy-optimization/">
-    <div class="research-content">
-      <img src="/images/paper1-framework.png" alt="Risk-Guided Policy Optimization">
-      <div class="research-text">
-        <h4>We proposed a risk-guided policy optimization method for safety-critical scenario generation, which generates more diverse and plausible scenarios more efficiently.</h4>
-      </div>
+    <img src="/images/paper1-framework.png" alt="Risk-Guided Policy Optimization" class="research-image">
+    <div class="research-text">
+      <h4>We proposed a risk-guided policy optimization method for safety-critical scenario generation, which generates more diverse and plausible scenarios more efficiently.</h4>
     </div>
   </a>
   
   <a class="research-item" href="{{ site.url }}/research/self-evolving-learning/safety-critical-scenario-generation/adversarial-traffic-participant-behavior/">
-    <div class="research-content">
-      <img src="/images/paper1-framework.png" alt="Adversarial Traffic Participant Behavior">
-      <div class="research-text">
-        <h4>We proposed an adversarial traffic participant behavior model combining traffic prior and reinforcement learning, which solves the limitation that adversarial scenario generation can only be applied to specific working conditions.</h4>
-      </div>
+    <img src="/images/paper1-framework.png" alt="Adversarial Traffic Participant Behavior" class="research-image">
+    <div class="research-text">
+      <h4>We proposed an adversarial traffic participant behavior model combining traffic prior and reinforcement learning, which solves the limitation that adversarial scenario generation can only be applied to specific working conditions.</h4>
     </div>
   </a>
 
   <a class="research-item" href="{{ site.url }}/research/self-evolving-learning/safety-critical-scenario-generation/safety-critical-scenario-generation/">
-    <div class="research-content">
-      <img src="/images/paper1-framework.png" alt="Safety-Critical Scenario Generation">
-      <div class="research-text">
-        <h4>We proposed a safety-critical scenario generation method combining dynamic and static scenario parameters, which greatly improves the efficiency of scenario generation.</h4>
-      </div>
+    <img src="/images/paper1-framework.png" alt="Safety-Critical Scenario Generation" class="research-image">
+    <div class="research-text">
+      <h4>We proposed a safety-critical scenario generation method combining dynamic and static scenario parameters, which greatly improves the efficiency of scenario generation.</h4>
     </div>
   </a>
 </div>
@@ -51,20 +77,16 @@ redirect_from:
 ### Work in progress 2024.3-Present
 <div class="research-grid">
   <a class="research-item" href="{{ site.url }}/research/self-evolving-learning/safety-critical-scenario-generation/scenario-diversity/">
-    <div class="research-content">
-      <img src="/images/paper1-framework.png" alt="Scenario Diversity">
-      <div class="research-text">
-        <h4>We are working on quantifying the diversity of scenarios and improving the diversity in safety-critical scenario generation for a comprehensive evaluation of autonomous vehicles.</h4>
-      </div>
+    <img src="/images/paper1-framework.png" alt="Scenario Diversity" class="research-image">
+    <div class="research-text">
+      <h4>We are working on quantifying the diversity of scenarios and improving the diversity in safety-critical scenario generation for a comprehensive evaluation of autonomous vehicles.</h4>
     </div>
   </a>
   
   <a class="research-item" href="{{ site.url }}/research/self-evolving-learning/safety-critical-scenario-generation/naturalistic-driving-data/">
-    <div class="research-content">
-      <img src="/images/paper1-framework.png" alt="Naturalistic Driving Data">
-      <div class="research-text">
-        <h4>We are working on combining naturalistic driving data with adversarial scenario generation to improve the naturalness and plausibility of the generated scenario.</h4>
-      </div>
+    <img src="/images/paper1-framework.png" alt="Naturalistic Driving Data" class="research-image">
+    <div class="research-text">
+      <h4>We are working on combining naturalistic driving data with adversarial scenario generation to improve the naturalness and plausibility of the generated scenario.</h4>
     </div>
   </a>
 </div>
@@ -79,20 +101,16 @@ redirect_from:
 ### Results achieved 2023.1-2024.5
 <div class="research-grid">
   <a class="research-item" href="{{ site.url }}/research/adaptive-evolution/safety-evaluation/safety-analysis/">
-    <div class="research-content">
-      <img src="/images/paper1-framework.png" alt="Safety Analysis">
-      <div class="research-text">
-        <h4>We proposed an approach for the safety analysis of autonomous vehicles from complex safety-critical scenario data, which can intuitively reveal the distribution and characteristics of safety-critical scenarios for any given algorithm.</h4>
-      </div>
+    <img src="/images/paper1-framework.png" alt="Safety Analysis" class="research-image">
+    <div class="research-text">
+      <h4>We proposed an approach for the safety analysis of autonomous vehicles from complex safety-critical scenario data, which can intuitively reveal the distribution and characteristics of safety-critical scenarios for any given algorithm.</h4>
     </div>
   </a>
   
   <a class="research-item" href="{{ site.url }}/research/adaptive-evolution/safety-evaluation/safety-boundary-identification/">
-    <div class="research-content">
-      <img src="/images/paper1-framework.png" alt="Safety Boundary Identification">
-      <div class="research-text">
-        <h4>We proposed a safety boundary online identification method that learns from the test data under a long-tailed environment.</h4>
-      </div>
+    <img src="/images/paper1-framework.png" alt="Safety Boundary Identification" class="research-image">
+    <div class="research-text">
+      <h4>We proposed a safety boundary online identification method that learns from the test data under a long-tailed environment.</h4>
     </div>
   </a>
 </div>
@@ -107,11 +125,9 @@ redirect_from:
 ### Results achieved 2022.9-2023.9
 <div class="research-grid">
   <a class="research-item" href="{{ site.url }}/research/self-evolutionary-methods/applications/data-closed-loop/">
-    <div class="research-content">
-      <img src="/images/paper1-framework.png" alt="Data Closed Loop">
-      <div class="research-text">
-        <h4>We reviewed the research related to data-closed loop and proposed a self-evolution mechanism for autonomous driving algorithm.</h4>
-      </div>
+    <img src="/images/paper1-framework.png" alt="Data Closed Loop" class="research-image">
+    <div class="research-text">
+      <h4>We reviewed the research related to data-closed loop and proposed a self-evolution mechanism for autonomous driving algorithm.</h4>
     </div>
   </a>
 </div>
@@ -121,20 +137,16 @@ redirect_from:
 ### Work in progress 2023.10-Present
 <div class="research-grid">
   <a class="research-item" href="{{ site.url }}/research/self-evolutionary-methods/applications/continual-reinforcement-learning/">
-    <div class="research-content">
-      <img src="/images/paper1-framework.png" alt="Continual Reinforcement Learning">
-      <div class="research-text">
-        <h4>We are working on applying continual reinforcement learning methods to improve the self-evolution of autonomous driving algorithms under safety-critical scenarios.</h4>
-      </div>
+    <img src="/images/paper1-framework.png" alt="Continual Reinforcement Learning" class="research-image">
+    <div class="research-text">
+      <h4>We are working on applying continual reinforcement learning methods to improve the self-evolution of autonomous driving algorithms under safety-critical scenarios.</h4>
     </div>
   </a>
   
   <a class="research-item" href="{{ site.url }}/research/self-evolutionary-methods/applications/mixed-reality-simulation/">
-    <div class="research-content">
-      <img src="/images/paper1-framework.png" alt="Mixed-Reality Simulation">
-      <div class="research-text">
-        <h4>We are working on constructing a mixed-reality simulation platform for autonomous vehicles by combining vehicle hardware in the loop and virtual traffic scenarios.</h4>
-      </div>
+    <img src="/images/paper1-framework.png" alt="Mixed-Reality Simulation" class="research-image">
+    <div class="research-text">
+      <h4>We are working on constructing a mixed-reality simulation platform for autonomous vehicles by combining vehicle hardware in the loop and virtual traffic scenarios.</h4>
     </div>
   </a>
 </div>
@@ -146,20 +158,18 @@ redirect_from:
 ---
 
 ## Design of New Generation Chassis Vehicle Traveling System and Analysis of Its Dynamic Performance
-####, directed by Prof. Hsin Guan and Prof. Pingping Lu
+#### directed by Prof. Hsin Guan and Prof. Pingping Lu
 
 ---
 
-#### Results achieved 2020.9-2021.6
+### Results achieved 2020.9-2021.6
 <div class="research-grid">
   <a class="research-item" href="{{ site.url }}/research/new-generation-chassis/">
-    <div class="research-content">
-      <img src="/images/paper1-framework.png" alt="New Generation Chassis">
-      <div class="research-text">
-        <h4>I designed a new traveling system with four-wheel independent drive and four-wheel independent steering.</h4>
-        <h4>I built the vehicle dynamic model and designed the distribution algorithm of steering angles and torques of four wheels.</h4>
-        <h4>I conducted vehicle dynamics simulation and its performance analysis based on Matlab/Simulink and Carsim.</h4>
-      </div>
+    <img src="/images/paper1-framework.png" alt="New Generation Chassis" class="research-image">
+    <div class="research-text">
+      <h4>I designed a new traveling system with four-wheel independent drive and four-wheel independent steering.</h4>
+      <h4>I built the vehicle dynamic model and designed the distribution algorithm of steering angles and torques of four wheels.</h4>
+      <h4>I conducted vehicle dynamics simulation and its performance analysis based on Matlab/Simulink and Carsim.</h4>
     </div>
   </a>
 </div>
@@ -171,21 +181,14 @@ redirect_from:
 
 ---
 
-#### Results achieved 2019.3-2020.9
+### Results achieved 2019.3-2020.9
 <div class="research-grid">
   <a class="research-item" href="{{ site.url }}/research/active-lane-changing-system/">
-    <div class="research-content">
-      <img src="/images/paper1-framework.png" alt="Active Lane-Changing System">
-      <div class="research-text">
-        <h4>We designed a lane change decision-making algorithm combining risk and efficiency and a lane-changing trajectory planning & control algorithm considering driving comfort and stability.</h4>
-        <h4>We designed a lane detection hardware-in-the-loop test platform.</h4>
-      </div>
+    <img src="/images/paper1-framework.png" alt="Active Lane-Changing System" class="research-image">
+    <div class="research-text">
+      <h4>We designed a lane change decision-making algorithm combining risk and efficiency and a lane-changing trajectory planning & control algorithm considering driving comfort and stability.</h4>
+      <h4>We designed a lane detection hardware-in-the-loop test platform.</h4>
     </div>
   </a>
 </div>
 </div>
-
----
-
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Roboto:wght
