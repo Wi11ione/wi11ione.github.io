@@ -16,8 +16,8 @@ redirect_from:
 
 .research-item {
   display: flex;
-  flex-direction: row;
-  align-items: center;
+  flex-direction: column;
+  align-items: flex-start;
   border: 1px solid #ddd;
   border-radius: 5px;
   overflow: hidden;
@@ -26,7 +26,8 @@ redirect_from:
   color: inherit;
   margin-bottom: 20px;
   transition: transform 0.3s ease;
-  height: 220px; /* 固定框的高度 */
+  height: auto;
+  padding: 15px;
 }
 
 .research-item:hover {
@@ -34,33 +35,33 @@ redirect_from:
 }
 
 .research-image {
-  width: 50%;
-  height: 100%; /* 固定图片的高度 */
-  object-fit: cover; /* 确保图片在框内保持合适的比例 */
-  object-position: top; /* 确保图片从顶部开始显示 */
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* 添加阴影 */
+  width: 100%;
+  height: auto;
+  max-height: 200px;
+  object-fit: cover;
+  object-position: top;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin-bottom: 10px;
 }
 
 .research-text {
-  flex: 1;
-  padding: 20px;
-  width: 50%;
-  font-family: Arial, sans-serif; /* 调整字体 */
+  width: 100%;
+  font-family: Arial, sans-serif;
 }
 
 .research-item h4,
 .research-item p,
 .research-item a {
   text-decoration: none !important;
-  margin: 0;
-  color: inherit; /* 确保文字颜色一致 */
-  font-size: 14px; /* 缩小字号 */
-  line-height: 1.5; /* 增加行高使其更易阅读 */
+  margin: 0 0 10px;
+  color: inherit;
+  font-size: 14px;
+  line-height: 1.5;
 }
 
 .research-item h4 {
-  font-size: 16px; /* 调整标题字号 */
-  font-weight: bold; /* 加粗标题 */
+  font-size: 16px;
+  font-weight: bold;
 }
 
 .research-item:hover h4,
@@ -85,7 +86,7 @@ supported by the National Key R&D Program of China under Grant No2022YFB2502900,
 
 ### Results achieved 2022.9-2024.4
 <div class="research-grid">
-  <a class="research-item" href="{{ site.url }}/research/self-evolving-learning/safety-critical-scenario-generation/risk-guided-policy-optimization/">
+  <div class="research-item">
     <img src="/images/PriorRiskEstimationModel.png" alt="Risk-Guided Policy Optimization" class="research-image">
     <div class="research-text">
       <h4>Risk-Guided Policy Optimization</h4>
@@ -94,9 +95,9 @@ supported by the National Key R&D Program of China under Grant No2022YFB2502900,
       <p><strong>Supervisor:</strong> Prof. Yanjun Huang</p>
       <p><strong>Duration:</strong> 2022.9-2024.4</p>
     </div>
-  </a>
+  </div>
   
-  <a class="research-item" href="{{ site.url }}/research/self-evolving-learning/safety-critical-scenario-generation/adversarial-traffic-participant-behavior/">
+  <div class="research-item">
     <img src="/images/PriorTrafficModel_Framework.png" alt="Adversarial Traffic Participant Behavior" class="research-image">
     <div class="research-text">
       <h4>Adversarial Traffic Participant Behavior</h4>
@@ -105,9 +106,9 @@ supported by the National Key R&D Program of China under Grant No2022YFB2502900,
       <p><strong>Supervisor:</strong> Prof. Yanjun Huang</p>
       <p><strong>Duration:</strong> 2022.9-2024.4</p>
     </div>
-  </a>
+  </div>
 
-  <a class="research-item" href="{{ site.url }}/research/self-evolving-learning/safety-critical-scenario-generation/safety-critical-scenario-generation/">
+  <div class="research-item">
     <img src="/images/paper1-framework.png" alt="Safety-Critical Scenario Generation" class="research-image">
     <div class="research-text">
       <h4>Safety-Critical Scenario Generation</h4>
@@ -116,14 +117,14 @@ supported by the National Key R&D Program of China under Grant No2022YFB2502900,
       <p><strong>Supervisor:</strong> Prof. Yanjun Huang</p>
       <p><strong>Duration:</strong> 2022.9-2024.4</p>
     </div>
-  </a>
+  </div>
 </div>
 
 ---
 
 ### Work in progress 2024.3-Present
 <div class="research-grid">
-  <a class="research-item" href="{{ site.url }}/research/self-evolving-learning/safety-critical-scenario-generation/scenario-diversity/">
+  <div class="research-item">
     <img src="/images/DiversityImprovement.png" alt="Scenario Diversity" class="research-image">
     <div class="research-text">
       <h4>Scenario Diversity</h4>
@@ -132,9 +133,9 @@ supported by the National Key R&D Program of China under Grant No2022YFB2502900,
       <p><strong>Supervisor:</strong> Prof. Yanjun Huang</p>
       <p><strong>Duration:</strong> 2024.3-Present</p>
     </div>
-  </a>
+  </div>
   
-  <a class="research-item" href="{{ site.url }}/research/self-evolving-learning/safety-critical-scenario-generation/naturalistic-driving-data/">
+  <div class="research-item">
     <img src="/images/paper1-framework.png" alt="Naturalistic Driving Data" class="research-image">
     <div class="research-text">
       <h4>Naturalistic Driving Data</h4>
@@ -143,7 +144,7 @@ supported by the National Key R&D Program of China under Grant No2022YFB2502900,
       <p><strong>Supervisor:</strong> Prof. Yanjun Huang</p>
       <p><strong>Duration:</strong> 2024.3-Present</p>
     </div>
-  </a>
+  </div>
 </div>
 
 ---
@@ -155,7 +156,7 @@ supported by the National Natural Science Foundation of China under Grant U23B20
 
 ### Results achieved 2023.1-2024.5
 <div class="research-grid">
-  <a class="research-item" href="{{ site.url }}/research/adaptive-evolution/safety-evaluation/safety-analysis/">
+  <div class="research-item">
     <img src="/images/paper4-framework.png" alt="Safety Analysis" class="research-image">
     <div class="research-text">
       <h4>Safety Analysis</h4>
@@ -164,9 +165,9 @@ supported by the National Natural Science Foundation of China under Grant U23B20
       <p><strong>Supervisor:</strong> Prof. Yanjun Huang</p>
       <p><strong>Duration:</strong> 2023.1-2024.5</p>
     </div>
-  </a>
+  </div>
   
-  <a class="research-item" href="{{ site.url }}/research/adaptive-evolution/safety-evaluation/safety-boundary-identification/">
+  <div class="research-item">
     <img src="/images/SafetyBoundaryIndentification_Illustration.png" alt="Safety Boundary Identification" class="research-image">
     <div class="research-text">
       <h4>Safety Boundary Identification</h4>
@@ -175,7 +176,7 @@ supported by the National Natural Science Foundation of China under Grant U23B20
       <p><strong>Supervisor:</strong> Prof. Yanjun Huang</p>
       <p><strong>Duration:</strong> 2023.1-2024.5</p>
     </div>
-  </a>
+  </div>
 </div>
 
 ---
@@ -187,6 +188,25 @@ supported by Fundamental Research Funds for the Central Universities, Ministry o
 
 ### Results achieved 2022.9-2023.9
 <div class="research-grid">
-  <a class="research-item" href="{{ site.url }}/research/self-evolutionary-methods/applications/data-closed-loop/">
+  <div class="research-item">
     <img src="/images/paper2-framework.png" alt="Data Closed Loop" class="research-image">
-    <div class
+    <div class="research-text">
+      <h4>Data Closed Loop</h4>
+      <p>We reviewed the research related to data-closed loop and proposed a self-evolution mechanism for autonomous driving algorithm.</p>
+      <p><strong>Location:</strong> Tongji University</p>
+      <p><strong>Supervisor:</strong> Prof. Yanjun Huang</p>
+      <p><strong>Duration:</strong> 2022.9-2023.9</p>
+    </div>
+  </div>
+</div>
+
+---
+
+### Work in progress 2023.10-Present
+<div class="research-grid">
+  <div class="research-item">
+    <img src="/images/SelfEvolveMechanisim_Framework.png" alt="Continual Reinforcement Learning" class="research-image">
+    <div class="research-text">
+      <h4>Continual Reinforcement Learning</h4>
+      <p>We are working on applying continual reinforcement learning methods to improve the self-evolution of autonomous driving algorithms under safety-critical scenarios.</p>
+      <p><strong>Location:</strong> Tongji University</
