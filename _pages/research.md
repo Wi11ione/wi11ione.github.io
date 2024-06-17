@@ -13,6 +13,27 @@ body {
   margin: 0 auto;
 }
 
+h1 {
+  font-size: 32px;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+h2 {
+  font-size: 28px;
+  font-weight: bold;
+  color: #555;
+  margin-bottom: 15px;
+}
+
+h3 {
+  font-size: 24px;
+  font-weight: bold;
+  color: #777;
+  margin-bottom: 10px;
+}
+
 .research-grid {
   display: flex;
   flex-wrap: wrap;
@@ -86,16 +107,18 @@ body {
 }
 </style>
 
-# Institute of Intelligent Vehicles, Tongji University, 2022.9-Present
+# Research Experience
+
+## Institute of Intelligent Vehicles, Tongji University, 2022.9-Present
 
 ---
 
-## Self-Evolving Learning-Based Autonomous Driving Systems: Safety-Critical Scenario Generation
+### Self-Evolving Learning-Based Autonomous Driving Systems: Safety-Critical Scenario Generation
 supported by the National Key R&D Program of China under Grant No2022YFB2502900, directed by Prof. Yanjun Huang
 
 ---
 
-### Results achieved 2022.9-2024.4
+#### Results achieved 2022.9-2024.4
 <div class="research-grid">
   <div class="research-item">
     <img src="/images/PriorRiskEstimationModel.png" alt="Risk-Guided Policy Optimization" class="research-image">
@@ -136,7 +159,7 @@ supported by the National Key R&D Program of China under Grant No2022YFB2502900,
 
 ---
 
-### Work in progress 2024.3-Present
+#### Work in progress 2024.3-Present
 <div class="research-grid">
   <div class="research-item">
     <img src="/images/DiversityImprovement.png" alt="Scenario Diversity" class="research-image">
@@ -224,12 +247,4 @@ supported by Fundamental Research Funds for the Central Universities, Ministry o
 ### Work in progress 2023.10-Present
 <div class="research-grid">
   <div class="research-item">
-    <img src="/images/SelfEvolveMechanisim_Framework.png" alt="Continual Reinforcement Learning" class="research-image">
-    <div class="research-text">
-      <h4>Continual Reinforcement Learning</h4>
-      <p>We are working on applying continual reinforcement learning methods to improve the self-evolution of autonomous driving algorithms under safety-critical scenarios.</p>
-      <div class="date-location">
-        <div class="date">Date: 2023.10-Present</div>
-        <div class="location">Location: Tongji University</div>
-      </div>
-    </div
+    <img src="/images/SelfEvolveMechanisim
