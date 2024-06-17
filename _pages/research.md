@@ -116,15 +116,17 @@ supported by the National Key R&D Program of China under Grant No2022YFB2502900,
 #### Results achieved 2022.9-2024.4
 <div class="research-grid">
   <div class="research-item">
-    <img src="/images/PriorRiskEstimationModel.png" alt="Risk-Guided Adversarial Policy Optimization for Safety-Critical Scenario Generation" class="research-image">
-    <div class="research-text">
-      <h4>Risk-Guided Adversarial Policy Optimization</h4>
-      <p>We proposed a risk-guided policy optimization method for safety-critical scenario generation, which generates more diverse and plausible scenarios more efficiently.</p>
-      <div class="date-location">
-        <div class="date">Date: 2022.9-2023.9</div>
-        <div class="location">Location: Tongji University</div>
+    <a href="{{ site.baseurl }}/research/Risk-Guided_Adversarial_Policy_Optimization/">
+      <img src="/images/PriorRiskEstimationModel.png" alt="Risk-Guided Adversarial Policy Optimization for Safety-Critical Scenario Generation" class="research-image">
+      <div class="research-text">
+        <h4>Risk-Guided Adversarial Policy Optimization</h4>
+        <p>我们提出了一种风险引导的策略优化方法，用于生成关键安全场景，该方法能够更高效地生成更多样化和可信的场景。</p>
+        <div class="date-location">
+          <div class="date">Date: 2022.9-2023.9</div>
+          <div class="location">Location: Tongji University</div>
+        </div>
       </div>
-    </div>
+    </a>
   </div>
   
   <div class="research-item">
