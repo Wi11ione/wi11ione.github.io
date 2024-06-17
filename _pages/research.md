@@ -193,7 +193,7 @@ supported by the National Natural Science Foundation of China under Grant U23B20
   <div class="research-item">
     <img src="/images/paper4-framework.png" alt="Safety Analysis" class="research-image">
     <div class="research-text">
-      <h4>Safety Analysis and Evaluation</h4>
+      <h4>Safety Analysis and Evaluation in Complex Scenarios</h4>
       <p>We proposed an approach for the safety analysis of autonomous vehicles from complex safety-critical scenario data, which can intuitively reveal the distribution and characteristics of safety-critical scenarios for any given algorithm.</p>
       <div class="date-location">
         <div class="date">Date: 2023.1-2024.5</div>
@@ -244,7 +244,7 @@ supported by Fundamental Research Funds for the Central Universities, Ministry o
   <div class="research-item">
     <img src="/images/SelfEvolveMechanisim_Framework.png" alt="Self-Evolve Mechanism" class="research-image">
     <div class="research-text">
-      <h4>Data Closed Loop</h4>
+      <h4>Self-Evolve Mechanism for Decision-Making Algorithms</h4>
       <p>We are working on the closed-loop self-evolve mechanism for autonomous driving algorithms under safety-critical scenarios.</p>
       <div class="date-location">
         <div class="date">Date: 2023.10-Present</div>
@@ -258,7 +258,7 @@ supported by Fundamental Research Funds for the Central Universities, Ministry o
   <div class="research-item">
     <img src="/images/MixedReality.png" alt="Mixed-Reality Testing" class="research-image">
     <div class="research-text">
-      <h4>Data Closed Loop</h4>
+      <h4>Mixed-Reality Testing</h4>
       <p>We are working on constructing a mixed-reality simulation test platform by combining vehicle hardware-in-the-loop and generated virtual traffic scenarios.</p>
       <div class="date-location">
         <div class="date">Date: 2023.10-Present</div>
