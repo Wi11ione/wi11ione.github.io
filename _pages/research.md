@@ -130,7 +130,7 @@ supported by the National Key R&D Program of China under Grant No2022YFB2502900,
 #### Results achieved 2022.9-2024.4
 <div class="research-grid">
   <div class="research-item">
-    <a href="{{ site.baseurl }}/research/RAPO/">
+  <a href="{{ site.baseurl }}/research/RAPO/">
       <img src="/images/PriorRiskEstimationModel.png" alt="Risk-Guided Adversarial Policy Optimization for Safety-Critical Scenario Generation" class="research-image">
       <div class="research-text">
         <h4>Risk-Guided Adversarial Policy Optimization</h4>
@@ -144,27 +144,32 @@ supported by the National Key R&D Program of China under Grant No2022YFB2502900,
   </div>
   
   <div class="research-item">
-    <img src="/images/PriorTrafficModel_Illustration.png" alt="Adversarial Traffic Participant Behavior" class="research-image">
-    <div class="research-text">
-      <h4>Adversarial Traffic Participants Behavior Model</h4>
-      <p>We proposed an adversarial traffic participant behavior model combining traffic prior and reinforcement learning, which solves the limitation that adversarial scenario generation can only be applied to specific working conditions.</p>
-      <div class="date-location">
-        <div class="date">Date: 2023.9-2023.12</div>
-        <div class="location">Location: Tongji University</div>
+    <a href="{{ site.baseurl }}/research/TrafficBehaviorModel/">
+      <img src="/images/PriorTrafficModel_Illustration.png" alt="Adversarial Traffic Participant Behavior" class="research-image">
+      <div class="research-text">
+        <h4>Adversarial Traffic Participants Behavior Model</h4>
+        <p>We proposed an adversarial traffic participant behavior model combining traffic prior and reinforcement learning, which solves the limitation that adversarial scenario generation can only be applied to specific working conditions.</p>
+        <div class="date-location">
+          <div class="date">Date: 2023.9-2023.12</div>
+          <div class="location">Location: Tongji University</div>
+        </div>
       </div>
-    </div>
+    </a>
   </div>
 
+
   <div class="research-item">
-    <img src="/images/paper1-framework.png" alt="Safety-Critical Scenario Generation" class="research-image">
-    <div class="research-text">
-      <h4>Safety-Critical Scenario Generation Method Combining Dynamic and Static Scenario Parameters</h4>
-      <p>We proposed a safety-critical scenario generation method combining dynamic and static scenario parameters, which greatly improves the efficiency of scenario generation.</p>
-      <div class="date-location">
-        <div class="date">Date: 2023.12-2024.3</div>
-        <div class="location">Location: Tongji University</div>
+    <a href="{{ site.baseurl }}/research/CombiningGeneration/">
+      <img src="/images/paper1-framework.png" alt="Safety-Critical Scenario Generation" class="research-image">
+      <div class="research-text">
+        <h4>Safety-Critical Scenario Generation Method Combining Dynamic and Static Scenario Parameters</h4>
+        <p>We proposed a safety-critical scenario generation method combining dynamic and static scenario parameters, which greatly improves the efficiency of scenario generation.</p>
+        <div class="date-location">
+          <div class="date">Date: 2023.12-2024.3</div>
+          <div class="location">Location: Tongji University</div>
+        </div>
       </div>
-    </div>
+    </a>
   </div>
 </div>
 
@@ -274,6 +279,7 @@ supported by Fundamental Research Funds for the Central Universities, Ministry o
   <div class="research-item">
     <img src="/images/MixedReality.png" alt="Mixed-Reality Testing" class="research-image">
     <div class="research-text">
+       <a href="{{ site.baseurl }}/research/RAPO/">
       <h4>Mixed-Reality Testing</h4>
       <p>We are working on constructing a mixed-reality simulation test platform by combining vehicle hardware-in-the-loop and generated virtual traffic scenarios.</p>
       <div class="date-location">
