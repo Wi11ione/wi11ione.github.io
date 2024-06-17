@@ -101,7 +101,7 @@ a {
   align-items: center;
 }
 
-.date-location .date img, .date-location .location img {
+.date-location .date, .date-location .location {
   margin-right: 5px;
 }
 </style>
@@ -123,8 +123,8 @@ supported by the National Key R&D Program of China under Grant No2022YFB2502900,
       <h4>Risk-Guided Policy Optimization</h4>
       <p>We proposed a risk-guided policy optimization method for safety-critical scenario generation, which generates more diverse and plausible scenarios more efficiently.</p>
       <div class="date-location">
-        <div class="date"><img src="/icons/calendar.png" alt="Date">2022.9-2024.4</div>
-        <div class="location"><img src="/icons/location.png" alt="Location">Tongji University</div>
+        <div class="date">Date: 2022.9-2024.4</div>
+        <div class="location">Location: Tongji University</div>
       </div>
       <p><strong>Supervisor:</strong> Prof. Yanjun Huang</p>
     </div>
@@ -136,8 +136,8 @@ supported by the National Key R&D Program of China under Grant No2022YFB2502900,
       <h4>Adversarial Traffic Participant Behavior</h4>
       <p>We proposed an adversarial traffic participant behavior model combining traffic prior and reinforcement learning, which solves the limitation that adversarial scenario generation can only be applied to specific working conditions.</p>
       <div class="date-location">
-        <div class="date"><img src="/icons/calendar.png" alt="Date">2022.9-2024.4</div>
-        <div class="location"><img src="/icons/location.png" alt="Location">Tongji University</div>
+        <div class="date">Date: 2022.9-2024.4</div>
+        <div class="location">Location: Tongji University</div>
       </div>
       <p><strong>Supervisor:</strong> Prof. Yanjun Huang</p>
     </div>
@@ -149,8 +149,8 @@ supported by the National Key R&D Program of China under Grant No2022YFB2502900,
       <h4>Safety-Critical Scenario Generation</h4>
       <p>We proposed a safety-critical scenario generation method combining dynamic and static scenario parameters, which greatly improves the efficiency of scenario generation.</p>
       <div class="date-location">
-        <div class="date"><img src="/icons/calendar.png" alt="Date">2022.9-2024.4</div>
-        <div class="location"><img src="/icons/location.png" alt="Location">Tongji University</div>
+        <div class="date">Date: 2022.9-2024.4</div>
+        <div class="location">Location: Tongji University</div>
       </div>
       <p><strong>Supervisor:</strong> Prof. Yanjun Huang</p>
     </div>
@@ -167,8 +167,8 @@ supported by the National Key R&D Program of China under Grant No2022YFB2502900,
       <h4>Scenario Diversity</h4>
       <p>We are working on quantifying the diversity of scenarios and improving the diversity in safety-critical scenario generation for a comprehensive evaluation of autonomous vehicles.</p>
       <div class="date-location">
-        <div class="date"><img src="/icons/calendar.png" alt="Date">2024.3-Present</div>
-        <div class="location"><img src="/icons/location.png" alt="Location">Tongji University</div>
+        <div class="date">Date: 2024.3-Present</div>
+        <div class="location">Location: Tongji University</div>
       </div>
       <p><strong>Supervisor:</strong> Prof. Yanjun Huang</p>
     </div>
@@ -180,8 +180,8 @@ supported by the National Key R&D Program of China under Grant No2022YFB2502900,
       <h4>Naturalistic Driving Data</h4>
       <p>We are working on combining naturalistic driving data with adversarial scenario generation to improve the naturalness and plausibility of the generated scenario.</p>
       <div class="date-location">
-        <div class="date"><img src="/icons/calendar.png" alt="Date">2024.3-Present</div>
-        <div class="location"><img src="/icons/location.png" alt="Location">Tongji University</div>
+        <div class="date">Date: 2024.3-Present</div>
+        <div class="location">Location: Tongji University</div>
       </div>
       <p><strong>Supervisor:</strong> Prof. Yanjun Huang</p>
     </div>
@@ -203,8 +203,8 @@ supported by the National Natural Science Foundation of China under Grant U23B20
       <h4>Safety Analysis</h4>
       <p>We proposed an approach for the safety analysis of autonomous vehicles from complex safety-critical scenario data, which can intuitively reveal the distribution and characteristics of safety-critical scenarios for any given algorithm.</p>
       <div class="date-location">
-        <div class="date"><img src="/icons/calendar.png" alt="Date">2023.1-2024.5</div>
-        <div class="location"><img src="/icons/location.png" alt="Location">Tongji University</div>
+        <div class="date">Date: 2023.1-2024.5</div>
+        <div class="location">Location: Tongji University</div>
       </div>
       <p><strong>Supervisor:</strong> Prof. Yanjun Huang</p>
     </div>
@@ -216,8 +216,8 @@ supported by the National Natural Science Foundation of China under Grant U23B20
       <h4>Safety Boundary Identification</h4>
       <p>We proposed a safety boundary online identification method that learns from the test data under a long-tailed environment.</p>
       <div class="date-location">
-        <div class="date"><img src="/icons/calendar.png" alt="Date">2023.1-2024.5</div>
-        <div class="location"><img src="/icons/location.png" alt="Location">Tongji University</div>
+        <div class="date">Date: 2023.1-2024.5</div>
+        <div class="location">Location: Tongji University</div>
       </div>
       <p><strong>Supervisor:</strong> Prof. Yanjun Huang</p>
     </div>
@@ -226,4 +226,15 @@ supported by the National Natural Science Foundation of China under Grant U23B20
 
 ---
 
-## Self-Evolution
+## Self-Evolutionary Methods and Applications for Intelligent Systems in Complex Environments: Close-loop Self-Evolve Mechanism for Autonomous Vehicle Based on Mixed Reality Testing
+supported by Fundamental Research Funds for the Central Universities, Ministry of Education of China, directed by Prof. Yanjun Huang
+
+---
+
+### Results achieved 2022.9-2023.9
+<div class="research-grid">
+  <div class="research-item">
+    <img src="/images/paper2-framework.png" alt="Data Closed Loop" class="research-image">
+    <div class="research-text">
+      <h4>Data Closed Loop</h4>
+      <p>We reviewed the research related to data-closed loop and proposed a self-evolution mechanism
