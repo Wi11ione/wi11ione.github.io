@@ -276,7 +276,7 @@ supported by Fundamental Research Funds for the Central Universities, Ministry o
 
 <div class="research-grid">
   <div class="research-item">
-    <img src="/images/PriorRiskEstimationModel.png" alt="Risk-Guided Adversarial Policy Optimization for Safety-Critical Scenario Generation" class="research-image">
+    <img src="" alt="Risk-Guided Adversarial Policy Optimization for Safety-Critical Scenario Generation" class="research-image">
     <div class="research-text">
       <h4>Design of New Generation Chassis Vehicle and Analysis of Its Dynamic Performance</h4>
       <p>Designed a new chassis with four-wheel independent drive and four-wheel steering.</p>
@@ -292,7 +292,7 @@ supported by Fundamental Research Funds for the Central Universities, Ministry o
 ---
 
   <div class="research-item">
-    <img src="/images/PriorTrafficModel_Illustration.png" alt="Adversarial Traffic Participant Behavior" class="research-image">
+    <img src="" alt="Adversarial Traffic Participant Behavior" class="research-image">
     <div class="research-text">
       <h4>Design of Automated Lane-Changing System for Intelligent Vehicle and Its Hardware-in-the-Loop Testing</h4>
       <p>Designed a lane-change decision-making algorithm combining risk and efficiency and a lane-changing trajectory planning and control algorithm considering driving comfort and stability.</p>
