@@ -43,7 +43,7 @@ h3 {
 .research-item {
   display: flex;
   flex-direction: row; /* 确保在大屏幕时图片和文字并排显示 */
-  align-items: center;
+  align-items: flex-start;
   border: 1px solid #ddd;
   border-radius: 5px;
   overflow: hidden;
@@ -70,7 +70,7 @@ h3 {
 }
 
 .research-text {
-  flex: 1;
+  width: 50%; /* 确保文本占据图片之外的剩余空间 */
   font-family: Arial, sans-serif;
 }
 
