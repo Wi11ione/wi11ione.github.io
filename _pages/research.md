@@ -64,14 +64,14 @@ supported by the National Key R&D Program of China under Grant No2022YFB2502900,
 ### Results achieved 2022.9-2024.4
 <div class="research-grid">
   <a class="research-item" href="{{ site.url }}/research/self-evolving-learning/safety-critical-scenario-generation/risk-guided-policy-optimization/">
-    <img src="/images/paper1-framework.png" alt="Risk-Guided Policy Optimization" class="research-image">
+    <img src="/images/PriorRiskEstimationModel.png" alt="Risk-Guided Policy Optimization" class="research-image">
     <div class="research-text">
       <h4>We proposed a risk-guided policy optimization method for safety-critical scenario generation, which generates more diverse and plausible scenarios more efficiently.</h4>
     </div>
   </a>
   
   <a class="research-item" href="{{ site.url }}/research/self-evolving-learning/safety-critical-scenario-generation/adversarial-traffic-participant-behavior/">
-    <img src="/images/paper1-framework.png" alt="Adversarial Traffic Participant Behavior" class="research-image">
+    <img src="/images/PriorTrafficModel_Framework.png" alt="Adversarial Traffic Participant Behavior" class="research-image">
     <div class="research-text">
       <h4>We proposed an adversarial traffic participant behavior model combining traffic prior and reinforcement learning, which solves the limitation that adversarial scenario generation can only be applied to specific working conditions.</h4>
     </div>
@@ -90,7 +90,7 @@ supported by the National Key R&D Program of China under Grant No2022YFB2502900,
 ### Work in progress 2024.3-Present
 <div class="research-grid">
   <a class="research-item" href="{{ site.url }}/research/self-evolving-learning/safety-critical-scenario-generation/scenario-diversity/">
-    <img src="/images/paper1-framework.png" alt="Scenario Diversity" class="research-image">
+    <img src="/images/DiversityImprovement.png" alt="Scenario Diversity" class="research-image">
     <div class="research-text">
       <h4>We are working on quantifying the diversity of scenarios and improving the diversity in safety-critical scenario generation for a comprehensive evaluation of autonomous vehicles.</h4>
     </div>
@@ -114,14 +114,14 @@ supported by the National Natural Science Foundation of China under Grant U23B20
 ### Results achieved 2023.1-2024.5
 <div class="research-grid">
   <a class="research-item" href="{{ site.url }}/research/adaptive-evolution/safety-evaluation/safety-analysis/">
-    <img src="/images/paper1-framework.png" alt="Safety Analysis" class="research-image">
+    <img src="/images/paper4-framework.png" alt="Safety Analysis" class="research-image">
     <div class="research-text">
       <h4>We proposed an approach for the safety analysis of autonomous vehicles from complex safety-critical scenario data, which can intuitively reveal the distribution and characteristics of safety-critical scenarios for any given algorithm.</h4>
     </div>
   </a>
   
   <a class="research-item" href="{{ site.url }}/research/adaptive-evolution/safety-evaluation/safety-boundary-identification/">
-    <img src="/images/paper1-framework.png" alt="Safety Boundary Identification" class="research-image">
+    <img src="/images/SafetyBoundaryIndentification_Illustration.png" alt="Safety Boundary Identification" class="research-image">
     <div class="research-text">
       <h4>We proposed a safety boundary online identification method that learns from the test data under a long-tailed environment.</h4>
     </div>
@@ -138,7 +138,7 @@ supported by Fundamental Research Funds for the Central Universities, Ministry o
 ### Results achieved 2022.9-2023.9
 <div class="research-grid">
   <a class="research-item" href="{{ site.url }}/research/self-evolutionary-methods/applications/data-closed-loop/">
-    <img src="/images/paper1-framework.png" alt="Data Closed Loop" class="research-image">
+    <img src="/images/paper2-framework.png" alt="Data Closed Loop" class="research-image">
     <div class="research-text">
       <h4>We reviewed the research related to data-closed loop and proposed a self-evolution mechanism for autonomous driving algorithm.</h4>
     </div>
@@ -150,7 +150,7 @@ supported by Fundamental Research Funds for the Central Universities, Ministry o
 ### Work in progress 2023.10-Present
 <div class="research-grid">
   <a class="research-item" href="{{ site.url }}/research/self-evolutionary-methods/applications/continual-reinforcement-learning/">
-    <img src="/images/paper1-framework.png" alt="Continual Reinforcement Learning" class="research-image">
+    <img src="/images/SelfEvolveMechanisim_Framework.png" alt="Continual Reinforcement Learning" class="research-image">
     <div class="research-text">
       <h4>We are working on applying continual reinforcement learning methods to improve the self-evolution of autonomous driving algorithms under safety-critical scenarios.</h4>
     </div>
