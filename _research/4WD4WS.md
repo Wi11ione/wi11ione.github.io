@@ -3,9 +3,6 @@ title: "Design of New Generation Vehicle Chasis and The Analysis of Its Dynamic 
 permalink: /research/4WD4WS/
 layout: post
 author_profile: true
-redirect_from: 
-  - "/nmp/"
-  - "/nmp.html"
 ---
 
 # Design of New Generation Vehicle Chasis and The Analysis of Its Dynamic Performance
