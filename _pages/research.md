@@ -289,7 +289,7 @@ supported by Fundamental Research Funds for the Central Universities, Ministry o
 
 <div class="research-grid">
   <div class="research-item">
-    <a href="{{ site.baseurl }}/research/MRT/">
+    <a href="{{ site.baseurl }}/research/MixedReality/">
       <img src="/images/MixedReality.png" alt="Mixed-Reality Testing" class="research-image">
       <div class="research-text">
         <h4>Mixed-Reality Testing</h4>
