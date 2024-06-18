@@ -216,7 +216,7 @@ supported by the National Natural Science Foundation of China under Grant U23B20
 #### Results achieved 2023.1-2024.5
 <div class="research-grid">
   <div class="research-item">
-    <a href="{{ site.baseurl }}/research/SAECS/">
+    <a href="{{ site.baseurl }}/research/Evaluation/">
       <img src="/images/paper4-framework.png" alt="Safety Analysis" class="research-image">
       <div class="research-text">
         <h4>Safety Analysis and Evaluation in Complex Scenarios</h4>
@@ -230,7 +230,7 @@ supported by the National Natural Science Foundation of China under Grant U23B20
   </div>
   
   <div class="research-item">
-    <a href="{{ site.baseurl }}/research/SBI/">
+    <a href="{{ site.baseurl }}/research/BoundaryIdentification/">
       <img src="/images/SafetyBoundaryIndentification_Illustration.png" alt="Safety Boundary Identification" class="research-image">
       <div class="research-text">
         <h4>Safety Boundary Identification in Long-Tailed Environment</h4>
@@ -254,7 +254,7 @@ supported by Fundamental Research Funds for the Central Universities, Ministry o
 #### Results achieved 2022.9-2023.9
 <div class="research-grid">
   <div class="research-item">
-    <a href="{{ site.baseurl }}/research/DCL/">
+    <a href="{{ site.baseurl }}/research/DataCloseLoop/">
       <img src="/images/paper2-framework.png" alt="Data Closed-Loop Platform" class="research-image">
       <div class="research-text">
         <h4>Data Closed Loop</h4>
@@ -273,7 +273,7 @@ supported by Fundamental Research Funds for the Central Universities, Ministry o
 #### Work in progress 2023.10-Present
 <div class="research-grid">
   <div class="research-item">
-    <a href="{{ site.baseurl }}/research/SEMDMA/">
+    <a href="{{ site.baseurl }}/research/SelfEvolve/">
       <img src="/images/SelfEvolveMechanisim_Framework.png" alt="Self-Evolve Mechanism" class="research-image">
       <div class="research-text">
         <h4>Self-Evolve Mechanism for Decision-Making Algorithms</h4>
@@ -311,7 +311,7 @@ supported by Fundamental Research Funds for the Central Universities, Ministry o
 
 <div class="research-grid">
   <div class="research-item">
-    <a href="{{ site.baseurl }}/research/DNC/">
+    <a href="{{ site.baseurl }}/research/4WD4WS/">
       <img src="/images/JLU1.png" alt="Risk-Guided Adversarial Policy Optimization for Safety-Critical Scenario Generation" class="research-image">
       <div class="research-text">
         <h4>Design of New Generation Chassis Vehicle and Analysis of Its Dynamic Performance</h4>
@@ -327,7 +327,7 @@ supported by Fundamental Research Funds for the Central Universities, Ministry o
   </div>
 
   <div class="research-item">
-    <a href="{{ site.baseurl }}/research/ALCS/">
+    <a href="{{ site.baseurl }}/research/AutoLaneChange/">
       <img src="/images/JLU2.png" alt="Adversarial Traffic Participant Behavior" class="research-image">
       <div class="research-text">
         <h4>Design of Automated Lane-Changing System for Intelligent Vehicle and Its Hardware-in-the-Loop Testing</h4>
