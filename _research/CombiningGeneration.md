@@ -11,5 +11,5 @@ author_profile: true
 **Location:** Tongji University
 
 ## Overview
-This section is under construction and will be updated soon. Please [click here](http://link-to-your-paper.com) to view more information from my paper.
+This section is under construction and will be updated soon. Please [click here](https://ieeexplore.ieee.org/abstract/document/10533445) to view more information from my paper.
 
