@@ -315,10 +315,10 @@ supported by Fundamental Research Funds for the Central Universities, Ministry o
           <div class="location">Location: Tongji University</div>
         </div>
       </div>
+      <div class="click-to-view">
+        Click to view details
+      </div>
     </a>
-    <div class="click-to-view">
-      Click to view details
-    </div>
   </div>
 </div>
 
