@@ -20,7 +20,7 @@ Published in IEEE Transactions on Intelligent Vehicle (IEEE T-IV, JCR Q1), 2024.
 
 ---
 
-## [A Survey on Self-evolving Autonomous Driving: a Perspective on Data Closed-Loop Technology](https://ieeexplore.ieee.org/abstract/document/10533445)
+## [A Survey on Self-evolving Autonomous Driving: a Perspective on Data Closed-Loop Technology](https://ieeexplore.ieee.org/document/10265228)
  Xincheng Li, **Zhaoyi Wang**, Yanjun Huang, Hong Chen 
 
 Published in IEEE Transactions on Intelligent Vehicle (IEEE T-IV, JCR Q1), 2023.9
