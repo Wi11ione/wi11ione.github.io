@@ -1,8 +1,14 @@
-# Mixed Reality Testing Platform
+---
+title: "Design of New Generation Vehicle Chasis and The Analysis of Its Dynamic Performance"
+permalink: /research/4WD4WS/
+layout: post
+author_profile: true
+---
 
-**Date:** 2023  
-**Location:** Tongji University
+# Design of New Generation Vehicle Chasis and The Analysis of Its Dynamic Performance
+
+**Date:** 2021
+**Location:** Jilin Univeristy
 
 ## Overview
 This section is under construction and will be updated soon.
-
