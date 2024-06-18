@@ -126,7 +126,7 @@ h3 {
 .sidebar {
   position: fixed;
   top: 100px;
-  left: 20px;
+  right: 20px;
   background: #f9f9f9;
   border: 1px solid #ddd;
   border-radius: 5px;
@@ -149,7 +149,7 @@ h3 {
 .sidebar ul li a {
   text-decoration: none;
   color: #555;
-  font-size: 24px;
+  font-size: 14px;
   font-weight: bold;
   transition: color 0.3s ease;
 }
@@ -419,7 +419,14 @@ supported by the State Key Laboratory of Automotive Simulation and Control, Jili
       Click to view details
     </div>
   </div>
+</div>
 
+---
+
+## <a id="section5"></a>Design of Automated Lane-Changing System for Intelligent Vehicle and Its Hardware-in-the-Loop Testing
+supported by the State Key Laboratory of Automotive Simulation and Control, Jilin University, 2017.9-2021.5
+
+<div class="research-grid">
   <div class="research-item">
     <a href="{{ site.baseurl }}/research/AutoLaneChange/">
       <img src="/images/JLU2.png" alt="Design of Automated Lane-Changing System for Intelligent Vehicle and Its Hardware-in-the-Loop Testing" class="research-image">
@@ -441,7 +448,7 @@ supported by the State Key Laboratory of Automotive Simulation and Control, Jili
 
 <script>
 document.addEventListener('DOMContentLoaded', function() {
-  const sections = document.querySelectorAll('h2, h3');
+  const sections = document.querySelectorAll('h2');
   const navLinks = document.querySelectorAll('.nav-link');
 
   function onScroll() {
@@ -455,5 +462,4 @@ document.addEventListener('DOMContentLoaded', function() {
   }
 
   window.addEventListener('scroll', onScroll);
-  onScroll(); // Call onScroll to set the initial active state
-          
+  onScroll(); // Call onScroll to set the initial
