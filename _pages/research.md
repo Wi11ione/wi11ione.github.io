@@ -269,6 +269,7 @@ supported by the National Key R&D Program of China under Grant No2022YFB2502900,
       Click to view details
     </div>
   </div
+    
     <div class="research-item">
     <a href="{{ site.baseurl }}/research/Reality/">
       <img src="/images/Reality.png" alt="Naturalistic Driving Data" class="research-image">
