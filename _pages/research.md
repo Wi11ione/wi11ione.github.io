@@ -122,6 +122,39 @@ h3 {
   position: relative;
 }
 
+.sidebar {
+  position: fixed;
+  top: 50px;
+  left: 10px;
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  z-index: 1000;
+}
+
+.sidebar ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.sidebar ul li {
+  margin: 10px 0;
+}
+
+.sidebar ul li a {
+  text-decoration: none;
+  color: #555;
+  font-size: 14px;
+}
+
+.sidebar ul li a.active {
+  font-weight: bold;
+  color: #000;
+}
+
 @media (max-width: 768px) {
   .research-item,
   .research-item a {
@@ -134,10 +167,23 @@ h3 {
     margin-right: 0;
     margin-bottom: 10px;
   }
+
+  .sidebar {
+    display: none; /* Hide the sidebar on small screens */
+  }
 }
 </style>
 
-## Institute of Intelligent Vehicles, Tongji University, 2022.9-Present
+<div class="sidebar">
+  <ul>
+    <li><a href="#section1" class="nav-link">Institute of Intelligent Vehicles</a></li>
+    <li><a href="#section2" class="nav-link">Adaptive Evolution and Evaluation</a></li>
+    <li><a href="#section3" class="nav-link">Self-Evolutionary Methods</a></li>
+    <li><a href="#section4" class="nav-link">State Key Laboratory</a></li>
+  </ul>
+</div>
+
+## <a id="section1"></a>Institute of Intelligent Vehicles, Tongji University, 2022.9-Present
 ---
 ### Self-Evolving Learning-Based Autonomous Driving Systems: Safety-Critical Scenario Generation for Autonomous Vehicles
 supported by the National Key R&D Program of China under Grant No2022YFB2502900, directed by Prof. Yanjun Huang
@@ -146,7 +192,7 @@ supported by the National Key R&D Program of China under Grant No2022YFB2502900,
 #### Results achieved 2022.9-2024.4
 <div class="research-grid">
   <div class="research-item">
-  <a href="{{ site.baseurl }}/research/RAPO/">
+    <a href="{{ site.baseurl }}/research/RAPO/">
       <img src="/images/PriorRiskEstimationModel.png" alt="Risk-Guided Adversarial Policy Optimization for Safety-Critical Scenario Generation" class="research-image">
       <div class="research-text">
         <h4>Risk-Guided Adversarial Policy Optimization</h4>
@@ -155,8 +201,12 @@ supported by the National Key R&D Program of China under Grant No2022YFB2502900,
           <div class="date">Date: 2022.9-2023.9</div>
           <div class="location">Location: Tongji University</div>
         </div>
+        <p class="coming-soon">Detailed information will be available soon.</p>
       </div>
     </a>
+    <div class="click-to-view">
+      Click to view details
+    </div>
   </div>
   
   <div class="research-item">
@@ -171,6 +221,9 @@ supported by the National Key R&D Program of China under Grant No2022YFB2502900,
         </div>
       </div>
     </a>
+    <div class="click-to-view">
+      Click to view details
+    </div>
   </div>
 
 
@@ -186,6 +239,9 @@ supported by the National Key R&D Program of China under Grant No2022YFB2502900,
         </div>
       </div>
     </a>
+    <div class="click-to-view">
+      Click to view details
+    </div>
   </div>
 </div>
 
@@ -205,6 +261,9 @@ supported by the National Key R&D Program of China under Grant No2022YFB2502900,
         </div>
       </div>
     </a>
+    <div class="click-to-view">
+      Click to view details
+    </div>
   </div>
   
   <div class="research-item">
@@ -213,18 +272,21 @@ supported by the National Key R&D Program of China under Grant No2022YFB2502900,
       <div class="research-text">
         <h4>Improve the Naturalness and Plausibility of Safety-Critical Scenarios with Naturalistic Driving Data</h4>
         <p>We are working on combining naturalistic driving data with adversarial scenario generation to improve the naturalness and plausibility of the generated scenario.</p>
-        <div class="date-location">
+        <div class="date-location
           <div class="date">Date: 2024.5-Present</div>
           <div class="location">Location: Tongji University</div>
         </div>
       </div>
     </a>
+    <div class="click-to-view">
+      Click to view details
+    </div>
   </div>
 </div>
 
 ---
 
-### Adaptive Evolution and Evaluation of Secure and Confident Intelligent Systems: Safety Evaluation of Autonomous Vehicles in Complex Environments
+### <a id="section2"></a>Adaptive Evolution and Evaluation of Secure and Confident Intelligent Systems: Safety Evaluation of Autonomous Vehicles in Complex Environments
 supported by the National Natural Science Foundation of China under Grant U23B2061, directed by Prof. Yanjun Huang
 
 ---
@@ -243,6 +305,9 @@ supported by the National Natural Science Foundation of China under Grant U23B20
         </div>
       </div>
     </a>
+    <div class="click-to-view">
+      Click to view details
+    </div>
   </div>
   
   <div class="research-item">
@@ -257,12 +322,15 @@ supported by the National Natural Science Foundation of China under Grant U23B20
         </div>
       </div>
     </a>
+    <div class="click-to-view">
+      Click to view details
+    </div>
   </div>
 </div>
 
 ---
 
-### Self-Evolutionary Methods and Applications for Intelligent Systems in Complex Environments: Close-loop Self-Evolve Mechanism for Autonomous Vehicle Based on Mixed Reality Testing
+### <a id="section3"></a>Self-Evolutionary Methods and Applications for Intelligent Systems in Complex Environments: Close-loop Self-Evolve Mechanism for Autonomous Vehicle Based on Mixed Reality Testing
 supported by Fundamental Research Funds for the Central Universities, Ministry of Education of China, directed by Prof. Yanjun Huang
 
 ---
@@ -281,6 +349,9 @@ supported by Fundamental Research Funds for the Central Universities, Ministry o
         </div>
       </div>
     </a>
+    <div class="click-to-view">
+      Click to view details
+    </div>
   </div>
 </div>
 
@@ -300,6 +371,9 @@ supported by Fundamental Research Funds for the Central Universities, Ministry o
         </div>
       </div>
     </a>
+    <div class="click-to-view">
+      Click to view details
+    </div>
   </div>
 </div>
 
@@ -315,16 +389,16 @@ supported by Fundamental Research Funds for the Central Universities, Ministry o
           <div class="location">Location: Tongji University</div>
         </div>
       </div>
-      <div class="click-to-view">
-        Click to view details
-      </div>
     </a>
+    <div class="click-to-view">
+      Click to view details
+    </div>
   </div>
 </div>
 
 ---
 
-## State Key Laboratory of Automotive Simulation and Control, Jilin University, 2017.9-2021.5
+## <a id="section4"></a>State Key Laboratory of Automotive Simulation and Control, Jilin University, 2017.9-2021.5
 
 ---
 
@@ -343,6 +417,9 @@ supported by Fundamental Research Funds for the Central Universities, Ministry o
         </div>
       </div>
     </a>
+    <div class="click-to-view">
+      Click to view details
+    </div>
   </div>
 
   <div class="research-item">
@@ -358,8 +435,28 @@ supported by Fundamental Research Funds for the Central Universities, Ministry o
         </div>
       </div>
     </a>
+    <div class="click-to-view">
+      Click to view details
+    </div>
   </div>
 </div>
 
----
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const sections = document.querySelectorAll('h2');
+  const navLinks = document.querySelectorAll('.nav-link');
 
+  function onScroll() {
+    const scrollPos = window.scrollY + 200;
+    sections.forEach((section, index) => {
+      if (section.offsetTop <= scrollPos && (section.offsetTop + section.offsetHeight) > scrollPos) {
+        navLinks.forEach(link => link.classList.remove('active'));
+        navLinks[index].classList.add('active');
+      }
+    });
+  }
+
+  window.addEventListener('scroll', onScroll);
+  onScroll(); // Call onScroll to set the initial active state
+});
+</script>
