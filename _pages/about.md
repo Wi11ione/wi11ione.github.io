@@ -21,6 +21,8 @@ My research focuses on the **safety of autonomous vehicles in long-tail environm
     * Mechanism for vehicles to continuously explore and learn safety-critical scenarios to achieve self-evolution.
     * Mixed-Reality Testing Platform for Autonomous Vehicles
 
+You can see details of my research experience in the “Research” section of this website, as well as my published and under-review papers in the "Publications" section.
+
 I am looking for a PhD position for Fall 2025 as well as potential collaborations, so feel free to contact me if you are interested in my research.
 
 
