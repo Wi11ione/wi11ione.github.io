@@ -42,6 +42,21 @@ h1, h2, h3, h4 {
 .date-location .location {
   margin: 0 10px;
 }
+
+.video-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+}
+
+video {
+  width: 80%;
+  max-width: 600px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
 </style>
 
 <div class="content">
@@ -53,7 +68,14 @@ h1, h2, h3, h4 {
   </div>
 
   <h2>Overview</h2>
-  <p>This section is under construction and will be updated soon. </p>
+  <p>This section is under construction and will be updated soon.</p>
+
+  <div class="video-container">
+    <video autoplay muted loop controls>
+      <source src="/assets/videos/MixedRealityTest.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
 </div>
 
 
