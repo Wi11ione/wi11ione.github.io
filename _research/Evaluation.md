@@ -1,6 +1,6 @@
 ---
 title: "Safety Evaluation of Autonomous Vehicles in Complex Scenarios"
-permalink: /research/CombiningGeneration/
+permalink: /research/Evaluation/
 layout: post
 author_profile: true
 ---
