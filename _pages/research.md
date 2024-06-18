@@ -315,9 +315,9 @@ supported by Fundamental Research Funds for the Central Universities, Ministry o
       <img src="/images/JLU1.png" alt="Risk-Guided Adversarial Policy Optimization for Safety-Critical Scenario Generation" class="research-image">
       <div class="research-text">
         <h4>Design of New Generation Chassis Vehicle and Analysis of Its Dynamic Performance</h4>
-        <p>Designed a new chassis with four-wheel independent drive and four-wheel steering.</p>
-        <p>Designed an algorithm for the torque distribution and steering angle control of each wheel considering maneuverability and stability.</p>
-        <p>Vehicle dynamics simulation and its performance analysis based on Matlab/Simulink and CarSim.</p>
+        <p>I designed a new chassis with four-wheel independent drive and four-wheel steering.</p>
+        <p>I designed an algorithm for the torque distribution and steering angle control of each wheel considering maneuverability and stability.</p>
+        <p>I conducted the vehicle dynamics simulation and its performance analysis based on Matlab/Simulink and CarSim.</p>
         <div class="date-location">
           <div class="date">Date: 2020.9-2021.5</div>
           <div class="location">Location: Jilin University</div>
@@ -331,8 +331,8 @@ supported by Fundamental Research Funds for the Central Universities, Ministry o
       <img src="/images/JLU2.png" alt="Adversarial Traffic Participant Behavior" class="research-image">
       <div class="research-text">
         <h4>Design of Automated Lane-Changing System for Intelligent Vehicle and Its Hardware-in-the-Loop Testing</h4>
-        <p>Designed a lane-change decision-making algorithm combining risk and efficiency and a lane-changing trajectory planning and control algorithm considering driving comfort and stability.</p>
-        <p>Designed a hardware-in-the-loop testing platform, and tested and evaluated the designed automated lane-changing system.</p>
+        <p>I designed a lane-change decision-making algorithm combining risk and efficiency and a lane-changing trajectory planning and control algorithm considering driving comfort and stability.</p>
+        <p>I designed a hardware-in-the-loop testing platform, and tested and evaluated the designed automated lane-changing system.</p>
         <div class="date-location">
           <div class="date">Date: 2018.9-2020.7</div>
           <div class="location">Location: Jilin University</div>
