@@ -11,7 +11,6 @@ redirect_from:
 body {
   width: 90%;
   margin: 0 auto;
-  font-family: Arial, sans-serif;
 }
 
 h1 {
@@ -19,7 +18,6 @@ h1 {
   font-weight: bold;
   color: #333;
   margin-bottom: 20px;
-  text-align: center;
 }
 
 h2 {
@@ -75,6 +73,7 @@ h3 {
 
 .research-text {
   flex: 1;
+  font-family: Arial, sans-serif;
 }
 
 .research-item h4,
@@ -123,43 +122,6 @@ h3 {
   position: relative;
 }
 
-.sidebar {
-  position: fixed;
-  top: 100px;
-  right: 20px;
-  background: #f9f9f9;
-  border: 1px solid #ddd;
-  border-radius: 5px;
-  padding: 10px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  z-index: 1000;
-  width: 200px;
-}
-
-.sidebar ul {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
-
-.sidebar ul li {
-  margin: 10px 0;
-}
-
-.sidebar ul li a {
-  text-decoration: none;
-  color: #555;
-  font-size: 14px;
-  font-weight: bold;
-  transition: color 0.3s ease;
-}
-
-.sidebar ul li a.active,
-.sidebar ul li a:hover {
-  font-weight: bold;
-  color: #000;
-}
-
 @media (max-width: 768px) {
   .research-item,
   .research-item a {
@@ -172,30 +134,19 @@ h3 {
     margin-right: 0;
     margin-bottom: 10px;
   }
-
-  .sidebar {
-    display: none;
-  }
 }
 </style>
 
-<div class="sidebar">
-  <ul>
-    <li><a href="#section1" class="nav-link">Self-Evolving Learning-Based Autonomous Driving Systems</a></li>
-    <li><a href="#section2" class="nav-link">Adaptive Evolution and Evaluation</a></li>
-    <li><a href="#section3" class="nav-link">Self-Evolutionary Methods and Applications</a></li>
-    <li><a href="#section4" class="nav-link">Design of New Generation Chasis Vehicle</a></li>
-    <li><a href="#section5" class="nav-link">Design of Automated Lane-Changing System</a></li>
-  </ul>
-</div>
-
-## <a id="section1"></a>Self-Evolving Learning-Based Autonomous Driving Systems: Safety-Critical Scenario Generation for Autonomous Vehicles
+## Institute of Intelligent Vehicles, Tongji University, 2022.9-Present
+---
+### Self-Evolving Learning-Based Autonomous Driving Systems: Safety-Critical Scenario Generation for Autonomous Vehicles
 supported by the National Key R&D Program of China under Grant No2022YFB2502900, directed by Prof. Yanjun Huang
 
-### Results achieved 2022.9-2024.4
+---
+#### Results achieved 2022.9-2024.4
 <div class="research-grid">
   <div class="research-item">
-    <a href="{{ site.baseurl }}/research/RAPO/">
+  <a href="{{ site.baseurl }}/research/RAPO/">
       <img src="/images/PriorRiskEstimationModel.png" alt="Risk-Guided Adversarial Policy Optimization for Safety-Critical Scenario Generation" class="research-image">
       <div class="research-text">
         <h4>Risk-Guided Adversarial Policy Optimization</h4>
@@ -204,12 +155,8 @@ supported by the National Key R&D Program of China under Grant No2022YFB2502900,
           <div class="date">Date: 2022.9-2023.9</div>
           <div class="location">Location: Tongji University</div>
         </div>
-        <p class="coming-soon">Detailed information will be available soon.</p>
       </div>
     </a>
-    <div class="click-to-view">
-      Click to view details
-    </div>
   </div>
   
   <div class="research-item">
@@ -224,9 +171,6 @@ supported by the National Key R&D Program of China under Grant No2022YFB2502900,
         </div>
       </div>
     </a>
-    <div class="click-to-view">
-      Click to view details
-    </div>
   </div>
 
 
@@ -242,9 +186,6 @@ supported by the National Key R&D Program of China under Grant No2022YFB2502900,
         </div>
       </div>
     </a>
-    <div class="click-to-view">
-      Click to view details
-    </div>
   </div>
 </div>
 
@@ -264,9 +205,6 @@ supported by the National Key R&D Program of China under Grant No2022YFB2502900,
         </div>
       </div>
     </a>
-    <div class="click-to-view">
-      Click to view details
-    </div>
   </div>
   
   <div class="research-item">
@@ -281,18 +219,17 @@ supported by the National Key R&D Program of China under Grant No2022YFB2502900,
         </div>
       </div>
     </a>
-    <div class="click-to-view">
-      Click to view details
-    </div>
   </div>
 </div>
 
 ---
 
-## <a id="section2"></a>Adaptive Evolution and Evaluation of Secure and Confident Intelligent Systems: Safety Evaluation of Autonomous Vehicles in Complex Environments
+### Adaptive Evolution and Evaluation of Secure and Confident Intelligent Systems: Safety Evaluation of Autonomous Vehicles in Complex Environments
 supported by the National Natural Science Foundation of China under Grant U23B2061, directed by Prof. Yanjun Huang
 
-### Results achieved 2023.1-2024.5
+---
+
+#### Results achieved 2023.1-2024.5
 <div class="research-grid">
   <div class="research-item">
     <a href="{{ site.baseurl }}/research/Evaluation/">
@@ -306,9 +243,6 @@ supported by the National Natural Science Foundation of China under Grant U23B20
         </div>
       </div>
     </a>
-    <div class="click-to-view">
-      Click to view details
-    </div>
   </div>
   
   <div class="research-item">
@@ -323,18 +257,17 @@ supported by the National Natural Science Foundation of China under Grant U23B20
         </div>
       </div>
     </a>
-    <div class="click-to-view">
-      Click to view details
-    </div>
   </div>
 </div>
 
 ---
 
-## <a id="section3"></a>Self-Evolutionary Methods and Applications for Intelligent Systems in Complex Environments: Close-loop Self-Evolve Mechanism for Autonomous Vehicle Based on Mixed Reality Testing
+### Self-Evolutionary Methods and Applications for Intelligent Systems in Complex Environments: Close-loop Self-Evolve Mechanism for Autonomous Vehicle Based on Mixed Reality Testing
 supported by Fundamental Research Funds for the Central Universities, Ministry of Education of China, directed by Prof. Yanjun Huang
 
-### Results achieved 2022.9-2023.9
+---
+
+#### Results achieved 2022.9-2023.9
 <div class="research-grid">
   <div class="research-item">
     <a href="{{ site.baseurl }}/research/DataCloseLoop/">
@@ -348,9 +281,6 @@ supported by Fundamental Research Funds for the Central Universities, Ministry o
         </div>
       </div>
     </a>
-    <div class="click-to-view">
-      Click to view details
-    </div>
   </div>
 </div>
 
@@ -370,9 +300,6 @@ supported by Fundamental Research Funds for the Central Universities, Ministry o
         </div>
       </div>
     </a>
-    <div class="click-to-view">
-      Click to view details
-    </div>
   </div>
 </div>
 
@@ -388,22 +315,23 @@ supported by Fundamental Research Funds for the Central Universities, Ministry o
           <div class="location">Location: Tongji University</div>
         </div>
       </div>
+      <div class="click-to-view">
+        Click to view details
+      </div>
     </a>
-    <div class="click-to-view">
-      Click to view details
-    </div>
   </div>
 </div>
 
 ---
 
-## <a id="section4"></a>Design of New Generation Chasis Vehicle
-supported by the State Key Laboratory of Automotive Simulation and Control, Jilin University, 2017.9-2021.5
+## State Key Laboratory of Automotive Simulation and Control, Jilin University, 2017.9-2021.5
+
+---
 
 <div class="research-grid">
   <div class="research-item">
     <a href="{{ site.baseurl }}/research/4WD4WS/">
-      <img src="/images/JLU1.png" alt="Design of New Generation Chassis Vehicle and Analysis of Its Dynamic Performance" class="research-image">
+      <img src="/images/JLU1.png" alt="Risk-Guided Adversarial Policy Optimization for Safety-Critical Scenario Generation" class="research-image">
       <div class="research-text">
         <h4>Design of New Generation Chassis Vehicle and Analysis of Its Dynamic Performance</h4>
         <p>I designed a new chassis with four-wheel independent drive and four-wheel steering.</p>
@@ -415,21 +343,11 @@ supported by the State Key Laboratory of Automotive Simulation and Control, Jili
         </div>
       </div>
     </a>
-    <div class="click-to-view">
-      Click to view details
-    </div>
   </div>
-</div>
 
----
-
-## <a id="section5"></a>Design of Automated Lane-Changing System for Intelligent Vehicle and Its Hardware-in-the-Loop Testing
-supported by the State Key Laboratory of Automotive Simulation and Control, Jilin University, 2017.9-2021.5
-
-<div class="research-grid">
   <div class="research-item">
     <a href="{{ site.baseurl }}/research/AutoLaneChange/">
-      <img src="/images/JLU2.png" alt="Design of Automated Lane-Changing System for Intelligent Vehicle and Its Hardware-in-the-Loop Testing" class="research-image">
+      <img src="/images/JLU2.png" alt="Adversarial Traffic Participant Behavior" class="research-image">
       <div class="research-text">
         <h4>Design of Automated Lane-Changing System for Intelligent Vehicle and Its Hardware-in-the-Loop Testing</h4>
         <p>I designed a lane-change decision-making algorithm combining risk and efficiency and a lane-changing trajectory planning and control algorithm considering driving comfort and stability.</p>
@@ -440,26 +358,7 @@ supported by the State Key Laboratory of Automotive Simulation and Control, Jili
         </div>
       </div>
     </a>
-    <div class="click-to-view">
-      Click to view details
-    </div>
   </div>
 </div>
 
-<script>
-document.addEventListener('DOMContentLoaded', function() {
-  const sections = document.querySelectorAll('h2');
-  const navLinks = document.querySelectorAll('.nav-link');
-
-  function onScroll() {
-    const scrollPos = window.scrollY + 200;
-    sections.forEach((section, index) => {
-      if (section.offsetTop <= scrollPos && (section.offsetTop + section.offsetHeight) > scrollPos) {
-        navLinks.forEach(link => link.classList.remove('active'));
-        navLinks[index].classList.add('active');
-      }
-    });
-  }
-
-  window.addEventListener('scroll', onScroll);
-  onScroll(); // Call onScroll to set the initial
+---
