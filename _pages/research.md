@@ -106,6 +106,22 @@ h3 {
   margin-right: 5px;
 }
 
+.click-to-view {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  font-size: 12px;
+  color: #555;
+  background: #fff;
+  padding: 5px;
+  border-radius: 3px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.research-item {
+  position: relative;
+}
+
 @media (max-width: 768px) {
   .research-item,
   .research-item a {
@@ -300,6 +316,9 @@ supported by Fundamental Research Funds for the Central Universities, Ministry o
         </div>
       </div>
     </a>
+    <div class="click-to-view">
+      Click to view details
+    </div>
   </div>
 </div>
 
