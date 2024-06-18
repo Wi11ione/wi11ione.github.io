@@ -43,7 +43,7 @@ h3 {
 .research-item,
 .research-item a {
   display: flex;
-  flex-direction: row; /* 确保在大屏幕时图片和文字并排显示 */
+  flex-direction: row; 
   align-items: center;
   border: 1px solid #ddd;
   border-radius: 5px;
