@@ -53,9 +53,8 @@ h1, h2, h3, h4 {
   </div>
 
   <h2>Overview</h2>
-  <p>This section is under construction and will be updated soon. </p>
+  <p>This section is under construction and will be updated soon. Please <a href="https://ieeexplore.ieee.org/abstract/document/10533445">click here</a> to view more information from my paper.</p>
 </div>
-
 
 
 
