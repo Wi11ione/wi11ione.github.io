@@ -1,6 +1,6 @@
 ---
 title: "Improve the Diversity of Generated Scenarios"
-permalink: /research/CombiningGeneration/
+permalink: /research/Diversity/
 layout: post
 author_profile: true
 ---
