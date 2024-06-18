@@ -11,6 +11,7 @@ redirect_from:
 body {
   width: 90%;
   margin: 0 auto;
+  font-family: Arial, sans-serif;
 }
 
 h1 {
@@ -18,6 +19,7 @@ h1 {
   font-weight: bold;
   color: #333;
   margin-bottom: 20px;
+  text-align: center;
 }
 
 h2 {
@@ -73,7 +75,6 @@ h3 {
 
 .research-text {
   flex: 1;
-  font-family: Arial, sans-serif;
 }
 
 .research-item h4,
@@ -124,14 +125,15 @@ h3 {
 
 .sidebar {
   position: fixed;
-  top: 50px;
-  left: 10px;
-  background: #fff;
+  top: 100px; /* Adjust based on your header height */
+  left: 20px;
+  background: #f9f9f9;
   border: 1px solid #ddd;
   border-radius: 5px;
   padding: 10px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   z-index: 1000;
+  width: 200px; /* Adjust as needed */
 }
 
 .sidebar ul {
@@ -148,9 +150,11 @@ h3 {
   text-decoration: none;
   color: #555;
   font-size: 14px;
+  transition: color 0.3s ease;
 }
 
-.sidebar ul li a.active {
+.sidebar ul li a.active,
+.sidebar ul li a:hover {
   font-weight: bold;
   color: #000;
 }
@@ -264,15 +268,14 @@ supported by the National Key R&D Program of China under Grant No2022YFB2502900,
     <div class="click-to-view">
       Click to view details
     </div>
-  </div>
-  
-  <div class="research-item">
+  </div
+    <div class="research-item">
     <a href="{{ site.baseurl }}/research/Reality/">
       <img src="/images/Reality.png" alt="Naturalistic Driving Data" class="research-image">
       <div class="research-text">
         <h4>Improve the Naturalness and Plausibility of Safety-Critical Scenarios with Naturalistic Driving Data</h4>
         <p>We are working on combining naturalistic driving data with adversarial scenario generation to improve the naturalness and plausibility of the generated scenario.</p>
-        <div class="date-location
+        <div class="date-location">
           <div class="date">Date: 2024.5-Present</div>
           <div class="location">Location: Tongji University</div>
         </div>
