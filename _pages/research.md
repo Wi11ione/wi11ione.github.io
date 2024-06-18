@@ -139,8 +139,8 @@ h3 {
 
 ## Institute of Intelligent Vehicles, Tongji University, 2022.9-Present
 ---
-### Self-Evolving Learning-Based Autonomous Driving Systems: Safety-Critical Scenario Generation for Autonomous Vehicles
-supported by the National Key R&D Program of China under Grant No2022YFB2502900, directed by Prof. Yanjun Huang
+### Safety-Critical Scenario Generation for Autonomous Vehicles
+supported by the National Key R&D Program of China under Grant No2022YFB2502900 (Topic: Self-Evolving Learning-Based Autonomous Driving Systems), directed by Prof. Yanjun Huang
 
 ---
 #### Results achieved 2022.9-2024.4
@@ -224,8 +224,8 @@ supported by the National Key R&D Program of China under Grant No2022YFB2502900,
 
 ---
 
-### Adaptive Evolution and Evaluation of Secure and Confident Intelligent Systems: Safety Evaluation of Autonomous Vehicles in Complex Environments
-supported by the National Natural Science Foundation of China under Grant U23B2061, directed by Prof. Yanjun Huang
+### Safety Evaluation of Autonomous Vehicles in Complex Environments
+supported by the National Natural Science Foundation of China under Grant U23B2061 (Topic: Adaptive Evolution and Evaluation of Secure and Confident Intelligent Systems), directed by Prof. Yanjun Huang
 
 ---
 
@@ -262,8 +262,8 @@ supported by the National Natural Science Foundation of China under Grant U23B20
 
 ---
 
-### Self-Evolutionary Methods and Applications for Intelligent Systems in Complex Environments: Close-loop Self-Evolve Mechanism for Autonomous Vehicle Based on Mixed Reality Testing
-supported by Fundamental Research Funds for the Central Universities, Ministry of Education of China, directed by Prof. Yanjun Huang
+### Close-loop Self-Evolve Mechanism for Autonomous Vehicle Based on Mixed Reality Testing
+supported by Fundamental Research Funds for the Central Universities, Ministry of Education of China, (Topic: Self-Evolutionary Methods and Applications for Intelligent Systems in Complex Environments), directed by Prof. Yanjun Huang
 
 ---
 
